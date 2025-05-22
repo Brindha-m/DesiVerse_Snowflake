@@ -1,6 +1,10 @@
-<img src="https://github.com/user-attachments/assets/c8382ec5-6b96-44e7-9faa-2f654ee75281" width=220/>
+<img src="https://github.com/user-attachments/assets/c8382ec5-6b96-44e7-9faa-2f654ee75281" width=250/>
 
 ## Indian cultural Heritage and Tourism Analytics
+
+### YourStory | Snowflake - Hero Challenge dashboard - Team Bindas Code
+
+<br>
 
 > **DesiVerse weaves data and passion to celebrate India’s art, guide you to soulful places, and help you travel kindly. It’s about feeling India’s heartbeat, finding secret gems, and leaving a gentle footprint while supporting local artisans.**
 
