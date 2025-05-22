@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/c8382ec5-6b96-44e7-9faa-2f654ee75281" width=200/>
+<img src="https://github.com/user-attachments/assets/c8382ec5-6b96-44e7-9faa-2f654ee75281" width=220/>
 
 ## Indian cultural Heritage and Tourism Analytics
 
@@ -11,10 +11,12 @@
 - **Heritage Walks**: Interactive maps of cultural sites, showcasing art forms with visitors count and funding data.
   
    <img src="https://github.com/user-attachments/assets/28534af2-26c9-4cf0-af96-da96e3d4825e" width=750/>
+   
 
 - **Tourism Analytics**: Data visualizations of trends, highlighting top states, seasonal peaks, and growth.
   
   <img width="750" alt="Screenshot_20250523_043309" src="https://github.com/user-attachments/assets/6e98c294-879f-43c4-9f0d-8669ca0cf44c" />
+
   <img width="750" alt="Screenshot_20250523_043807" src="https://github.com/user-attachments/assets/83374502-5c61-4efb-a785-590e0b44b755" />
 
 - **Responsible Tourism**: Guides on reducing carbon footprints, water usage, and waste, plus sustainable practices, comparing hotspots (e.g., Rajasthan) to untouched sites (e.g., Northeast).
