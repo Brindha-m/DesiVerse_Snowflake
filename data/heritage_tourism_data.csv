@@ -1,0 +1,2233 @@
+state,art_form,tourist_visits,month,year,region,funding_received,latitude,longitude
+Andhra Pradesh,Budithi Brass Craft,100409,1,2020,South,176477,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,13479,1,2020,Northeast,11783,28.218,94.7278
+Assam,Assam Silk Weaving,37128,1,2020,Northeast,52852,26.2006,92.9376
+Bihar,Sujni Embroidery,49977,1,2020,East,29098,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,24206,1,2020,Central,42793,21.2787,81.8661
+Goa,Goan Lacework,54416,1,2020,West,22317,15.2993,74.124
+Gujarat,Garba,67009,1,2020,West,113805,22.2587,71.1924
+Haryana,Charpai Weaving,21962,1,2020,North,15563,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,76025,1,2020,North,118800,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,46633,1,2020,East,79923,23.6102,85.2799
+Karnataka,Mysore Painting,91694,1,2020,South,197078,15.3173,75.7139
+Kerala,Aranmula Kannadi,71278,1,2020,South,119690,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,86882,1,2020,Central,134847,23.4733,77.947
+Maharashtra,Lavani Dance,81918,1,2020,West,50094,19.7515,75.7139
+Manipur,Longpi Pottery,13222,1,2020,Northeast,12044,24.6637,93.9063
+Meghalaya,Nongkrem Dance,11745,1,2020,Northeast,23551,25.467,91.3662
+Mizoram,Cheraw Dance,19432,1,2020,Northeast,35613,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,23740,1,2020,Northeast,42593,26.1584,94.5624
+Odisha,Applique Work,52121,1,2020,East,39467,20.9517,85.0985
+Punjab,Bhangra,39995,1,2020,North,37063,31.1471,75.3412
+Rajasthan,Miniature Painting,33230,1,2020,North,49266,27.0238,74.2179
+Sikkim,Mask Dance,28060,1,2020,Northeast,19878,27.533,88.5122
+Tamil Nadu,Tanjore Painting,80080,1,2020,South,57831,11.1271,78.6569
+Telangana,Bidri Craft,74584,1,2020,South,79738,18.1124,79.0193
+Tripura,Hojagiri Dance,25743,1,2020,Northeast,18714,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,82576,1,2020,North,97151,26.8467,80.9462
+Uttarakhand,Aipan Art,28461,1,2020,North,29771,30.0668,79.0193
+West Bengal,Durga Puja Art,73767,1,2020,East,77923,22.9868,87.855
+Delhi,Meenakari Craft,43562,1,2020,North,93168,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,18175,1,2020,North,39764,33.7782,76.5762
+Lakshadweep,Shell Craft,48752,1,2020,South,54091,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,75342,2,2020,South,105410,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,22884,2,2020,Northeast,41165,28.218,94.7278
+Assam,Assam Silk Weaving,27851,2,2020,Northeast,23850,26.2006,92.9376
+Bihar,Madhubani Painting,28794,2,2020,East,18334,25.0961,85.3131
+Chhattisgarh,Godna Art,19283,2,2020,Central,41695,21.2787,81.8661
+Goa,Goan Lacework,38131,2,2020,West,55483,15.2993,74.124
+Gujarat,Patola Weaving,108569,2,2020,West,112677,22.2587,71.1924
+Haryana,Charpai Weaving,24102,2,2020,North,26757,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,27649,2,2020,North,33853,31.1048,77.1734
+Jharkhand,Chhau Dance,14961,2,2020,East,8142,23.6102,85.2799
+Karnataka,Bidri Ware,98888,2,2020,South,43726,15.3173,75.7139
+Kerala,Mohiniyattam,49572,2,2020,South,51562,10.8505,76.2711
+Madhya Pradesh,Bagh Print,82962,2,2020,Central,94387,23.4733,77.947
+Maharashtra,Lavani Dance,53497,2,2020,West,77836,19.7515,75.7139
+Manipur,Phanek Weaving,10351,2,2020,Northeast,17808,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,22019,2,2020,Northeast,42996,25.467,91.3662
+Mizoram,Cheraw Dance,18996,2,2020,Northeast,9550,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,18926,2,2020,Northeast,23560,26.1584,94.5624
+Odisha,Pattachitra,62856,2,2020,East,83138,20.9517,85.0985
+Punjab,Jutti Making,18304,2,2020,North,33028,31.1471,75.3412
+Rajasthan,Miniature Painting,56054,2,2020,North,44831,27.0238,74.2179
+Sikkim,Mask Dance,17088,2,2020,Northeast,17864,27.533,88.5122
+Tamil Nadu,Bharatanatyam,91834,2,2020,South,212546,11.1271,78.6569
+Telangana,Bidri Craft,57195,2,2020,South,22902,18.1124,79.0193
+Tripura,Hojagiri Dance,27292,2,2020,Northeast,40859,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,79153,2,2020,North,68515,26.8467,80.9462
+Uttarakhand,Aipan Art,36574,2,2020,North,62408,30.0668,79.0193
+West Bengal,Durga Puja Art,45486,2,2020,East,34112,22.9868,87.855
+Delhi,Kathak Dance,41280,2,2020,North,54022,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,37661,2,2020,North,49081,33.7782,76.5762
+Lakshadweep,Parichakali,65407,2,2020,South,85224,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,37016,3,2020,South,46719,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,66843,3,2020,Northeast,42405,28.218,94.7278
+Assam,Assam Silk Weaving,39137,3,2020,Northeast,48485,26.2006,92.9376
+Bihar,Manjusha Art,25974,3,2020,East,32125,25.0961,85.3131
+Chhattisgarh,Godna Art,38668,3,2020,Central,35668,21.2787,81.8661
+Goa,Goan Lacework,56887,3,2020,West,73507,15.2993,74.124
+Gujarat,Rogan Art,69040,3,2020,West,125555,22.2587,71.1924
+Haryana,Embroidery Craft,20884,3,2020,North,24974,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,27822,3,2020,North,38195,31.1048,77.1734
+Jharkhand,Chhau Dance,19905,3,2020,East,15424,23.6102,85.2799
+Karnataka,Mysore Painting,49137,3,2020,South,92743,15.3173,75.7139
+Kerala,Aranmula Kannadi,81798,3,2020,South,121162,10.8505,76.2711
+Madhya Pradesh,Gond Art,48507,3,2020,Central,53009,23.4733,77.947
+Maharashtra,Paithani Sarees,49380,3,2020,West,33160,19.7515,75.7139
+Manipur,Longpi Pottery,34090,3,2020,Northeast,25027,24.6637,93.9063
+Meghalaya,Bamboo Craft,16011,3,2020,Northeast,24066,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,29241,3,2020,Northeast,11674,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,26190,3,2020,Northeast,28012,26.1584,94.5624
+Odisha,Odissi Dance,30793,3,2020,East,24526,20.9517,85.0985
+Punjab,Phulkari Embroidery,40429,3,2020,North,71545,31.1471,75.3412
+Rajasthan,Miniature Painting,64084,3,2020,North,70790,27.0238,74.2179
+Sikkim,Thangka Painting,43652,3,2020,Northeast,32267,27.533,88.5122
+Tamil Nadu,Bharatanatyam,53449,3,2020,South,63319,11.1271,78.6569
+Telangana,Nirmal Paintings,32815,3,2020,South,39285,18.1124,79.0193
+Tripura,Hojagiri Dance,22324,3,2020,Northeast,34441,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,69358,3,2020,North,134696,26.8467,80.9462
+Uttarakhand,Choliya Dance,64763,3,2020,North,73412,30.0668,79.0193
+West Bengal,Kantha Stitch,50579,3,2020,East,40291,22.9868,87.855
+Delhi,Kathak Dance,54439,3,2020,North,94100,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,54012,3,2020,North,47020,33.7782,76.5762
+Lakshadweep,Shell Craft,59591,3,2020,South,90517,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,23075,4,2020,South,68181,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,57674,4,2020,Northeast,36747,28.218,94.7278
+Assam,Bihu Dance,74693,4,2020,Northeast,148758,26.2006,92.9376
+Bihar,Sujni Embroidery,24983,4,2020,East,20980,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,21299,4,2020,Central,12026,21.2787,81.8661
+Goa,Dekni Dance,45487,4,2020,West,45184,15.2993,74.124
+Gujarat,Garba,50495,4,2020,West,73108,22.2587,71.1924
+Haryana,Embroidery Craft,35822,4,2020,North,44687,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,36521,4,2020,North,76870,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,11795,4,2020,East,17652,23.6102,85.2799
+Karnataka,Mysore Painting,33704,4,2020,South,29699,15.3173,75.7139
+Kerala,Aranmula Kannadi,90322,4,2020,South,49887,10.8505,76.2711
+Madhya Pradesh,Gond Art,24706,4,2020,Central,44067,23.4733,77.947
+Maharashtra,Lavani Dance,35846,4,2020,West,45768,19.7515,75.7139
+Manipur,Longpi Pottery,41553,4,2020,Northeast,74653,24.6637,93.9063
+Meghalaya,Bamboo Craft,34362,4,2020,Northeast,45112,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,41518,4,2020,Northeast,59255,23.1645,92.9376
+Nagaland,Wood Carving,41370,4,2020,Northeast,29880,26.1584,94.5624
+Odisha,Applique Work,24238,4,2020,East,15308,20.9517,85.0985
+Punjab,Bhangra,29761,4,2020,North,38582,31.1471,75.3412
+Rajasthan,Blue Pottery,79972,4,2020,North,137325,27.0238,74.2179
+Sikkim,Carpet Weaving,29078,4,2020,Northeast,41419,27.533,88.5122
+Tamil Nadu,Stone Carving,23836,4,2020,South,32807,11.1271,78.6569
+Telangana,Bidri Craft,39703,4,2020,South,43860,18.1124,79.0193
+Tripura,Hojagiri Dance,32279,4,2020,Northeast,16158,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,78856,4,2020,North,121014,26.8467,80.9462
+Uttarakhand,Aipan Art,91654,4,2020,North,54699,30.0668,79.0193
+West Bengal,Patachitra,28883,4,2020,East,37796,22.9868,87.855
+Delhi,Kathak Dance,53702,4,2020,North,48367,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,51536,4,2020,North,77835,33.7782,76.5762
+Lakshadweep,Lava Dance,36700,4,2020,South,62571,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,27210,5,2020,South,57831,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,38451,5,2020,Northeast,22893,28.218,94.7278
+Assam,Assam Silk Weaving,41328,5,2020,Northeast,19679,26.2006,92.9376
+Bihar,Sujni Embroidery,26740,5,2020,East,58431,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,11259,5,2020,Central,20740,21.2787,81.8661
+Goa,Fugdi Dance,30751,5,2020,West,21087,15.2993,74.124
+Gujarat,Patola Weaving,33897,5,2020,West,65338,22.2587,71.1924
+Haryana,Embroidery Craft,24642,5,2020,North,21716,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,119348,5,2020,North,94230,31.1048,77.1734
+Jharkhand,Sohrai Painting,28812,5,2020,East,29341,23.6102,85.2799
+Karnataka,Bidri Ware,46827,5,2020,South,38558,15.3173,75.7139
+Kerala,Kathakali,56540,5,2020,South,37099,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,27675,5,2020,Central,14998,23.4733,77.947
+Maharashtra,Paithani Sarees,47639,5,2020,West,60600,19.7515,75.7139
+Manipur,Longpi Pottery,39300,5,2020,Northeast,38214,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,48098,5,2020,Northeast,23434,25.467,91.3662
+Mizoram,Puanchei Textiles,36034,5,2020,Northeast,70228,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,27417,5,2020,Northeast,31228,26.1584,94.5624
+Odisha,Pattachitra,28651,5,2020,East,37177,20.9517,85.0985
+Punjab,Phulkari Embroidery,15261,5,2020,North,17922,31.1471,75.3412
+Rajasthan,Blue Pottery,94015,5,2020,North,21933,27.0238,74.2179
+Sikkim,Mask Dance,73725,5,2020,Northeast,71500,27.533,88.5122
+Tamil Nadu,Stone Carving,34037,5,2020,South,47218,11.1271,78.6569
+Telangana,Nirmal Paintings,26335,5,2020,South,29654,18.1124,79.0193
+Tripura,Hojagiri Dance,31070,5,2020,Northeast,24610,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,83372,5,2020,North,72691,26.8467,80.9462
+Uttarakhand,Choliya Dance,25477,5,2020,North,25870,30.0668,79.0193
+West Bengal,Kantha Stitch,44182,5,2020,East,35128,22.9868,87.855
+Delhi,Meenakari Craft,66670,5,2020,North,52553,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,42797,5,2020,North,42465,33.7782,76.5762
+Lakshadweep,Coral Craft,23014,5,2020,South,37008,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,29721,6,2020,South,27823,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,64796,6,2020,Northeast,69821,28.218,94.7278
+Assam,Bihu Dance,35621,6,2020,Northeast,77507,26.2006,92.9376
+Bihar,Sujni Embroidery,21133,6,2020,East,25294,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,13820,6,2020,Central,22945,21.2787,81.8661
+Goa,Dekni Dance,27121,6,2020,West,67433,15.2993,74.124
+Gujarat,Garba,20302,6,2020,West,25129,22.2587,71.1924
+Haryana,Charpai Weaving,28696,6,2020,North,13470,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,49452,6,2020,North,31439,31.1048,77.1734
+Jharkhand,Chhau Dance,21328,6,2020,East,21812,23.6102,85.2799
+Karnataka,Bidri Ware,50259,6,2020,South,124058,15.3173,75.7139
+Kerala,Aranmula Kannadi,64953,6,2020,South,54755,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,14751,6,2020,Central,6515,23.4733,77.947
+Maharashtra,Lavani Dance,30936,6,2020,West,49248,19.7515,75.7139
+Manipur,Longpi Pottery,56255,6,2020,Northeast,72720,24.6637,93.9063
+Meghalaya,Nongkrem Dance,56524,6,2020,Northeast,40695,25.467,91.3662
+Mizoram,Cheraw Dance,57785,6,2020,Northeast,88238,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,73691,6,2020,Northeast,103374,26.1584,94.5624
+Odisha,Odissi Dance,16686,6,2020,East,7320,20.9517,85.0985
+Punjab,Bhangra,52078,6,2020,North,80627,31.1471,75.3412
+Rajasthan,Miniature Painting,66476,6,2020,North,78082,27.0238,74.2179
+Sikkim,Thangka Painting,45939,6,2020,Northeast,79037,27.533,88.5122
+Tamil Nadu,Tanjore Painting,30758,6,2020,South,34510,11.1271,78.6569
+Telangana,Perini Shivatandavam,39084,6,2020,South,34485,18.1124,79.0193
+Tripura,Bamboo Craft,44897,6,2020,Northeast,46546,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,120605,6,2020,North,167632,26.8467,80.9462
+Uttarakhand,Choliya Dance,78906,6,2020,North,144004,30.0668,79.0193
+West Bengal,Durga Puja Art,39410,6,2020,East,23769,22.9868,87.855
+Delhi,Zardozi Work,71942,6,2020,North,100979,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,37681,6,2020,North,55673,33.7782,76.5762
+Lakshadweep,Parichakali,17540,6,2020,South,17588,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,27120,7,2020,South,20764,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,21979,7,2020,Northeast,27281,28.218,94.7278
+Assam,Assam Silk Weaving,41510,7,2020,Northeast,66358,26.2006,92.9376
+Bihar,Sujni Embroidery,24808,7,2020,East,34650,25.0961,85.3131
+Chhattisgarh,Panthi Dance,15261,7,2020,Central,14591,21.2787,81.8661
+Goa,Fugdi Dance,33876,7,2020,West,38164,15.2993,74.124
+Gujarat,Rogan Art,25792,7,2020,West,34009,22.2587,71.1924
+Haryana,Embroidery Craft,20001,7,2020,North,20983,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,32797,7,2020,North,55778,31.1048,77.1734
+Jharkhand,Sohrai Painting,37839,7,2020,East,50202,23.6102,85.2799
+Karnataka,Bidri Ware,88110,7,2020,South,95870,15.3173,75.7139
+Kerala,Aranmula Kannadi,107107,7,2020,South,250634,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,43096,7,2020,Central,97087,23.4733,77.947
+Maharashtra,Warli Painting,53335,7,2020,West,68679,19.7515,75.7139
+Manipur,Phanek Weaving,33050,7,2020,Northeast,55612,24.6637,93.9063
+Meghalaya,Nongkrem Dance,12735,7,2020,Northeast,21533,25.467,91.3662
+Mizoram,Cheraw Dance,18387,7,2020,Northeast,20967,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,24132,7,2020,Northeast,31101,26.1584,94.5624
+Odisha,Applique Work,34613,7,2020,East,64803,20.9517,85.0985
+Punjab,Jutti Making,27386,7,2020,North,63981,31.1471,75.3412
+Rajasthan,Ghoomar Dance,35153,7,2020,North,58568,27.0238,74.2179
+Sikkim,Thangka Painting,40509,7,2020,Northeast,54387,27.533,88.5122
+Tamil Nadu,Stone Carving,46754,7,2020,South,63476,11.1271,78.6569
+Telangana,Bidri Craft,21959,7,2020,South,11117,18.1124,79.0193
+Tripura,Hojagiri Dance,26716,7,2020,Northeast,35605,23.9408,91.9882
+Uttar Pradesh,Chikankari,74182,7,2020,North,42947,26.8467,80.9462
+Uttarakhand,Aipan Art,35188,7,2020,North,16533,30.0668,79.0193
+West Bengal,Patachitra,37734,7,2020,East,24278,22.9868,87.855
+Delhi,Zardozi Work,47888,7,2020,North,86570,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,41170,7,2020,North,32089,33.7782,76.5762
+Lakshadweep,Shell Craft,40285,7,2020,South,57411,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,26276,8,2020,South,37598,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,39409,8,2020,Northeast,48549,28.218,94.7278
+Assam,Sattriya Dance,18126,8,2020,Northeast,29054,26.2006,92.9376
+Bihar,Manjusha Art,59739,8,2020,East,34839,25.0961,85.3131
+Chhattisgarh,Panthi Dance,26158,8,2020,Central,22286,21.2787,81.8661
+Goa,Fugdi Dance,110253,8,2020,West,178640,15.2993,74.124
+Gujarat,Patola Weaving,57694,8,2020,West,104989,22.2587,71.1924
+Haryana,Embroidery Craft,28150,8,2020,North,21026,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,33787,8,2020,North,39149,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,53324,8,2020,East,80867,23.6102,85.2799
+Karnataka,Mysore Painting,49060,8,2020,South,39954,15.3173,75.7139
+Kerala,Aranmula Kannadi,87601,8,2020,South,65734,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,43342,8,2020,Central,53756,23.4733,77.947
+Maharashtra,Warli Painting,79104,8,2020,West,179322,19.7515,75.7139
+Manipur,Longpi Pottery,17757,8,2020,Northeast,20058,24.6637,93.9063
+Meghalaya,Bamboo Craft,10713,8,2020,Northeast,21852,25.467,91.3662
+Mizoram,Puanchei Textiles,15479,8,2020,Northeast,8405,23.1645,92.9376
+Nagaland,Wood Carving,20621,8,2020,Northeast,17181,26.1584,94.5624
+Odisha,Odissi Dance,51644,8,2020,East,45704,20.9517,85.0985
+Punjab,Jutti Making,31756,8,2020,North,24222,31.1471,75.3412
+Rajasthan,Ghoomar Dance,45357,8,2020,North,41782,27.0238,74.2179
+Sikkim,Thangka Painting,22542,8,2020,Northeast,43708,27.533,88.5122
+Tamil Nadu,Stone Carving,49819,8,2020,South,65778,11.1271,78.6569
+Telangana,Nirmal Paintings,56950,8,2020,South,108675,18.1124,79.0193
+Tripura,Bamboo Craft,40122,8,2020,Northeast,84915,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,38361,8,2020,North,50099,26.8467,80.9462
+Uttarakhand,Choliya Dance,32696,8,2020,North,43774,30.0668,79.0193
+West Bengal,Patachitra,79734,8,2020,East,132470,22.9868,87.855
+Delhi,Zardozi Work,41858,8,2020,North,58869,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,36974,8,2020,North,24605,33.7782,76.5762
+Lakshadweep,Shell Craft,52425,8,2020,South,54652,10.5667,72.6417
+Andhra Pradesh,Kalamkari,76812,9,2020,South,130416,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,20643,9,2020,Northeast,22420,28.218,94.7278
+Assam,Sattriya Dance,27413,9,2020,Northeast,22062,26.2006,92.9376
+Bihar,Madhubani Painting,35355,9,2020,East,30622,25.0961,85.3131
+Chhattisgarh,Godna Art,32046,9,2020,Central,57989,21.2787,81.8661
+Goa,Dekni Dance,114494,9,2020,West,237317,15.2993,74.124
+Gujarat,Rogan Art,112085,9,2020,West,147828,22.2587,71.1924
+Haryana,Phag Dance,24509,9,2020,North,63266,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,43228,9,2020,North,62075,31.1048,77.1734
+Jharkhand,Chhau Dance,75556,9,2020,East,55932,23.6102,85.2799
+Karnataka,Mysore Painting,50233,9,2020,South,65322,15.3173,75.7139
+Kerala,Mohiniyattam,74702,9,2020,South,72977,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,65241,9,2020,Central,66739,23.4733,77.947
+Maharashtra,Warli Painting,59324,9,2020,West,71823,19.7515,75.7139
+Manipur,Manipuri Dance,33764,9,2020,Northeast,38403,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,44958,9,2020,Northeast,31734,25.467,91.3662
+Mizoram,Puanchei Textiles,34187,9,2020,Northeast,28164,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,40687,9,2020,Northeast,20798,26.1584,94.5624
+Odisha,Applique Work,87315,9,2020,East,192621,20.9517,85.0985
+Punjab,Jutti Making,18586,9,2020,North,53908,31.1471,75.3412
+Rajasthan,Miniature Painting,52515,9,2020,North,75268,27.0238,74.2179
+Sikkim,Carpet Weaving,18744,9,2020,Northeast,23046,27.533,88.5122
+Tamil Nadu,Bharatanatyam,49145,9,2020,South,59750,11.1271,78.6569
+Telangana,Bidri Craft,62727,9,2020,South,35357,18.1124,79.0193
+Tripura,Hojagiri Dance,22132,9,2020,Northeast,38449,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,32555,9,2020,North,41527,26.8467,80.9462
+Uttarakhand,Aipan Art,39707,9,2020,North,26977,30.0668,79.0193
+West Bengal,Durga Puja Art,92966,9,2020,East,51045,22.9868,87.855
+Delhi,Zardozi Work,51305,9,2020,North,47552,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,40166,9,2020,North,48404,33.7782,76.5762
+Lakshadweep,Shell Craft,57587,9,2020,South,75115,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,113506,10,2020,South,228563,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,32439,10,2020,Northeast,30576,28.218,94.7278
+Assam,Bihu Dance,43355,10,2020,Northeast,30856,26.2006,92.9376
+Bihar,Madhubani Painting,39578,10,2020,East,84308,25.0961,85.3131
+Chhattisgarh,Godna Art,40573,10,2020,Central,23643,21.2787,81.8661
+Goa,Fugdi Dance,89541,10,2020,West,222723,15.2993,74.124
+Gujarat,Patola Weaving,99691,10,2020,West,168802,22.2587,71.1924
+Haryana,Charpai Weaving,61579,10,2020,North,94634,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,32732,10,2020,North,45157,31.1048,77.1734
+Jharkhand,Sohrai Painting,28800,10,2020,East,47436,23.6102,85.2799
+Karnataka,Bidri Ware,76885,10,2020,South,94203,15.3173,75.7139
+Kerala,Mohiniyattam,113266,10,2020,South,245467,10.8505,76.2711
+Madhya Pradesh,Gond Art,89229,10,2020,Central,126414,23.4733,77.947
+Maharashtra,Warli Painting,74120,10,2020,West,71153,19.7515,75.7139
+Manipur,Longpi Pottery,38027,10,2020,Northeast,41313,24.6637,93.9063
+Meghalaya,Nongkrem Dance,34242,10,2020,Northeast,21249,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,34743,10,2020,Northeast,50902,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,20583,10,2020,Northeast,18224,26.1584,94.5624
+Odisha,Odissi Dance,68303,10,2020,East,112582,20.9517,85.0985
+Punjab,Jutti Making,24650,10,2020,North,38269,31.1471,75.3412
+Rajasthan,Ghoomar Dance,63310,10,2020,North,99273,27.0238,74.2179
+Sikkim,Mask Dance,50122,10,2020,Northeast,72138,27.533,88.5122
+Tamil Nadu,Stone Carving,80994,10,2020,South,102637,11.1271,78.6569
+Telangana,Nirmal Paintings,66876,10,2020,South,64184,18.1124,79.0193
+Tripura,Risa Textile Weaving,31102,10,2020,Northeast,34282,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,40014,10,2020,North,94402,26.8467,80.9462
+Uttarakhand,Aipan Art,49611,10,2020,North,28947,30.0668,79.0193
+West Bengal,Patachitra,60254,10,2020,East,39627,22.9868,87.855
+Delhi,Kathak Dance,104593,10,2020,North,205564,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,36126,10,2020,North,34768,33.7782,76.5762
+Lakshadweep,Coral Craft,99194,10,2020,South,91366,10.5667,72.6417
+Andhra Pradesh,Kalamkari,96333,11,2020,South,193183,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,47016,11,2020,Northeast,27843,28.218,94.7278
+Assam,Sattriya Dance,22126,11,2020,Northeast,40371,26.2006,92.9376
+Bihar,Sujni Embroidery,39311,11,2020,East,22538,25.0961,85.3131
+Chhattisgarh,Panthi Dance,43576,11,2020,Central,77429,21.2787,81.8661
+Goa,Dekni Dance,58723,11,2020,West,70555,15.2993,74.124
+Gujarat,Patola Weaving,74959,11,2020,West,93014,22.2587,71.1924
+Haryana,Phag Dance,43231,11,2020,North,26765,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,68610,11,2020,North,39472,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,17603,11,2020,East,31838,23.6102,85.2799
+Karnataka,Yakshagana,42612,11,2020,South,46979,15.3173,75.7139
+Kerala,Mohiniyattam,80161,11,2020,South,66143,10.8505,76.2711
+Madhya Pradesh,Bagh Print,53171,11,2020,Central,91069,23.4733,77.947
+Maharashtra,Paithani Sarees,49561,11,2020,West,103579,19.7515,75.7139
+Manipur,Phanek Weaving,28421,11,2020,Northeast,49023,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,48440,11,2020,Northeast,51959,25.467,91.3662
+Mizoram,Cheraw Dance,28763,11,2020,Northeast,46454,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,22735,11,2020,Northeast,33245,26.1584,94.5624
+Odisha,Applique Work,48325,11,2020,East,74518,20.9517,85.0985
+Punjab,Bhangra,43347,11,2020,North,74089,31.1471,75.3412
+Rajasthan,Blue Pottery,75524,11,2020,North,56414,27.0238,74.2179
+Sikkim,Thangka Painting,17042,11,2020,Northeast,25276,27.533,88.5122
+Tamil Nadu,Bharatanatyam,65097,11,2020,South,119679,11.1271,78.6569
+Telangana,Nirmal Paintings,80218,11,2020,South,115609,18.1124,79.0193
+Tripura,Hojagiri Dance,11929,11,2020,Northeast,9532,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,75665,11,2020,North,130388,26.8467,80.9462
+Uttarakhand,Aipan Art,123503,11,2020,North,101960,30.0668,79.0193
+West Bengal,Durga Puja Art,61941,11,2020,East,36903,22.9868,87.855
+Delhi,Kathak Dance,127894,11,2020,North,152585,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,69421,11,2020,North,107568,33.7782,76.5762
+Lakshadweep,Parichakali,75158,11,2020,South,38110,10.5667,72.6417
+Andhra Pradesh,Kalamkari,34360,12,2020,South,41388,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,20318,12,2020,Northeast,42524,28.218,94.7278
+Assam,Sattriya Dance,21781,12,2020,Northeast,23187,26.2006,92.9376
+Bihar,Manjusha Art,52216,12,2020,East,43145,25.0961,85.3131
+Chhattisgarh,Godna Art,59649,12,2020,Central,29711,21.2787,81.8661
+Goa,Dekni Dance,57705,12,2020,West,30331,15.2993,74.124
+Gujarat,Rogan Art,74418,12,2020,West,86211,22.2587,71.1924
+Haryana,Charpai Weaving,80654,12,2020,North,115069,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,87141,12,2020,North,101542,31.1048,77.1734
+Jharkhand,Chhau Dance,41865,12,2020,East,40804,23.6102,85.2799
+Karnataka,Bidri Ware,94770,12,2020,South,124782,15.3173,75.7139
+Kerala,Kathakali,50617,12,2020,South,35724,10.8505,76.2711
+Madhya Pradesh,Gond Art,42835,12,2020,Central,39990,23.4733,77.947
+Maharashtra,Warli Painting,98400,12,2020,West,90030,19.7515,75.7139
+Manipur,Manipuri Dance,26468,12,2020,Northeast,23829,24.6637,93.9063
+Meghalaya,Nongkrem Dance,23059,12,2020,Northeast,48788,25.467,91.3662
+Mizoram,Cheraw Dance,13363,12,2020,Northeast,13443,23.1645,92.9376
+Nagaland,Wood Carving,14466,12,2020,Northeast,29228,26.1584,94.5624
+Odisha,Odissi Dance,49982,12,2020,East,62189,20.9517,85.0985
+Punjab,Jutti Making,54704,12,2020,North,121257,31.1471,75.3412
+Rajasthan,Blue Pottery,132347,12,2020,North,190537,27.0238,74.2179
+Sikkim,Mask Dance,29430,12,2020,Northeast,34272,27.533,88.5122
+Tamil Nadu,Bharatanatyam,116980,12,2020,South,107452,11.1271,78.6569
+Telangana,Perini Shivatandavam,120766,12,2020,South,105198,18.1124,79.0193
+Tripura,Hojagiri Dance,27637,12,2020,Northeast,44563,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,124508,12,2020,North,110783,26.8467,80.9462
+Uttarakhand,Aipan Art,78204,12,2020,North,187092,30.0668,79.0193
+West Bengal,Durga Puja Art,53598,12,2020,East,24339,22.9868,87.855
+Delhi,Kathak Dance,160729,12,2020,North,429396,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,95562,12,2020,North,103499,33.7782,76.5762
+Lakshadweep,Coral Craft,100594,12,2020,South,184583,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,130301,1,2021,South,264092,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,28454,1,2021,Northeast,40760,28.218,94.7278
+Assam,Assam Silk Weaving,19133,1,2021,Northeast,30371,26.2006,92.9376
+Bihar,Sujni Embroidery,52466,1,2021,East,42767,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,27795,1,2021,Central,22616,21.2787,81.8661
+Goa,Goan Lacework,68731,1,2021,West,94279,15.2993,74.124
+Gujarat,Garba,60834,1,2021,West,76062,22.2587,71.1924
+Haryana,Embroidery Craft,71678,1,2021,North,64439,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,69954,1,2021,North,59516,31.1048,77.1734
+Jharkhand,Sohrai Painting,47069,1,2021,East,89951,23.6102,85.2799
+Karnataka,Yakshagana,169378,1,2021,South,379487,15.3173,75.7139
+Kerala,Mohiniyattam,87436,1,2021,South,164158,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,52980,1,2021,Central,87273,23.4733,77.947
+Maharashtra,Warli Painting,70856,1,2021,West,118771,19.7515,75.7139
+Manipur,Phanek Weaving,35750,1,2021,Northeast,29090,24.6637,93.9063
+Meghalaya,Nongkrem Dance,42616,1,2021,Northeast,47237,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,17516,1,2021,Northeast,9441,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,51883,1,2021,Northeast,69336,26.1584,94.5624
+Odisha,Applique Work,58607,1,2021,East,46878,20.9517,85.0985
+Punjab,Bhangra,62155,1,2021,North,114908,31.1471,75.3412
+Rajasthan,Miniature Painting,69449,1,2021,North,86512,27.0238,74.2179
+Sikkim,Mask Dance,50413,1,2021,Northeast,72623,27.533,88.5122
+Tamil Nadu,Bharatanatyam,176984,1,2021,South,426600,11.1271,78.6569
+Telangana,Nirmal Paintings,99023,1,2021,South,82580,18.1124,79.0193
+Tripura,Risa Textile Weaving,15524,1,2021,Northeast,31819,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,90353,1,2021,North,119229,26.8467,80.9462
+Uttarakhand,Ringal Craft,47595,1,2021,North,89625,30.0668,79.0193
+West Bengal,Kantha Stitch,62549,1,2021,East,126912,22.9868,87.855
+Delhi,Zardozi Work,52711,1,2021,North,79299,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,30328,1,2021,North,35328,33.7782,76.5762
+Lakshadweep,Shell Craft,45894,1,2021,South,67117,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,80528,2,2021,South,40160,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,36185,2,2021,Northeast,21471,28.218,94.7278
+Assam,Bihu Dance,36115,2,2021,Northeast,41520,26.2006,92.9376
+Bihar,Manjusha Art,30824,2,2021,East,38527,25.0961,85.3131
+Chhattisgarh,Godna Art,62305,2,2021,Central,36335,21.2787,81.8661
+Goa,Goan Lacework,106767,2,2021,West,72956,15.2993,74.124
+Gujarat,Garba,78032,2,2021,West,48819,22.2587,71.1924
+Haryana,Phag Dance,35614,2,2021,North,52513,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,39779,2,2021,North,40724,31.1048,77.1734
+Jharkhand,Chhau Dance,26223,2,2021,East,57643,23.6102,85.2799
+Karnataka,Yakshagana,148272,2,2021,South,165556,15.3173,75.7139
+Kerala,Kathakali,98142,2,2021,South,173922,10.8505,76.2711
+Madhya Pradesh,Gond Art,36656,2,2021,Central,39261,23.4733,77.947
+Maharashtra,Paithani Sarees,86434,2,2021,West,48946,19.7515,75.7139
+Manipur,Phanek Weaving,25766,2,2021,Northeast,45468,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,22779,2,2021,Northeast,45811,25.467,91.3662
+Mizoram,Puanchei Textiles,25118,2,2021,Northeast,40136,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,36060,2,2021,Northeast,50577,26.1584,94.5624
+Odisha,Odissi Dance,50149,2,2021,East,74731,20.9517,85.0985
+Punjab,Jutti Making,63284,2,2021,North,43417,31.1471,75.3412
+Rajasthan,Miniature Painting,37148,2,2021,North,50263,27.0238,74.2179
+Sikkim,Thangka Painting,75704,2,2021,Northeast,124193,27.533,88.5122
+Tamil Nadu,Tanjore Painting,132711,2,2021,South,249588,11.1271,78.6569
+Telangana,Nirmal Paintings,89192,2,2021,South,168948,18.1124,79.0193
+Tripura,Risa Textile Weaving,40060,2,2021,Northeast,84812,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,82304,2,2021,North,79901,26.8467,80.9462
+Uttarakhand,Aipan Art,56203,2,2021,North,109395,30.0668,79.0193
+West Bengal,Durga Puja Art,132765,2,2021,East,101636,22.9868,87.855
+Delhi,Zardozi Work,99198,2,2021,North,137091,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,29898,2,2021,North,29423,33.7782,76.5762
+Lakshadweep,Coral Craft,71739,2,2021,South,103493,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,69217,3,2021,South,70267,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,44000,3,2021,Northeast,41968,28.218,94.7278
+Assam,Bihu Dance,39990,3,2021,Northeast,58056,26.2006,92.9376
+Bihar,Madhubani Painting,76841,3,2021,East,150250,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,24370,3,2021,Central,11833,21.2787,81.8661
+Goa,Fugdi Dance,82039,3,2021,West,86296,15.2993,74.124
+Gujarat,Garba,48279,3,2021,West,27405,22.2587,71.1924
+Haryana,Phag Dance,66132,3,2021,North,70199,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,40712,3,2021,North,34888,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,48741,3,2021,East,62087,23.6102,85.2799
+Karnataka,Yakshagana,139288,3,2021,South,163043,15.3173,75.7139
+Kerala,Kathakali,68984,3,2021,South,66876,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,46264,3,2021,Central,78672,23.4733,77.947
+Maharashtra,Paithani Sarees,73635,3,2021,West,126077,19.7515,75.7139
+Manipur,Phanek Weaving,30184,3,2021,Northeast,62046,24.6637,93.9063
+Meghalaya,Nongkrem Dance,35164,3,2021,Northeast,43195,25.467,91.3662
+Mizoram,Puanchei Textiles,40928,3,2021,Northeast,27112,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,40873,3,2021,Northeast,54450,26.1584,94.5624
+Odisha,Applique Work,75602,3,2021,East,60157,20.9517,85.0985
+Punjab,Phulkari Embroidery,37125,3,2021,North,53141,31.1471,75.3412
+Rajasthan,Miniature Painting,116722,3,2021,North,124821,27.0238,74.2179
+Sikkim,Thangka Painting,33663,3,2021,Northeast,28192,27.533,88.5122
+Tamil Nadu,Tanjore Painting,120144,3,2021,South,152516,11.1271,78.6569
+Telangana,Nirmal Paintings,47656,3,2021,South,84133,18.1124,79.0193
+Tripura,Hojagiri Dance,33274,3,2021,Northeast,23915,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,130878,3,2021,North,85148,26.8467,80.9462
+Uttarakhand,Ringal Craft,93026,3,2021,North,163608,30.0668,79.0193
+West Bengal,Durga Puja Art,124335,3,2021,East,107849,22.9868,87.855
+Delhi,Zardozi Work,110097,3,2021,North,190925,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,69500,3,2021,North,87232,33.7782,76.5762
+Lakshadweep,Parichakali,76543,3,2021,South,145047,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,74541,4,2021,South,120351,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,75366,4,2021,Northeast,115784,28.218,94.7278
+Assam,Sattriya Dance,57159,4,2021,Northeast,36416,26.2006,92.9376
+Bihar,Sujni Embroidery,53829,4,2021,East,68082,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,37862,4,2021,Central,60351,21.2787,81.8661
+Goa,Fugdi Dance,33587,4,2021,West,39324,15.2993,74.124
+Gujarat,Garba,58820,4,2021,West,57540,22.2587,71.1924
+Haryana,Phag Dance,86158,4,2021,North,131154,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,107046,4,2021,North,119696,31.1048,77.1734
+Jharkhand,Chhau Dance,23472,4,2021,East,21177,23.6102,85.2799
+Karnataka,Bidri Ware,89284,4,2021,South,47484,15.3173,75.7139
+Kerala,Mohiniyattam,53060,4,2021,South,116135,10.8505,76.2711
+Madhya Pradesh,Gond Art,55026,4,2021,Central,86044,23.4733,77.947
+Maharashtra,Warli Painting,65432,4,2021,West,87076,19.7515,75.7139
+Manipur,Longpi Pottery,62266,4,2021,Northeast,38760,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,68790,4,2021,Northeast,60091,25.467,91.3662
+Mizoram,Cheraw Dance,60737,4,2021,Northeast,144603,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,29501,4,2021,Northeast,16231,26.1584,94.5624
+Odisha,Applique Work,75634,4,2021,East,107512,20.9517,85.0985
+Punjab,Bhangra,81412,4,2021,North,39508,31.1471,75.3412
+Rajasthan,Ghoomar Dance,104398,4,2021,North,125651,27.0238,74.2179
+Sikkim,Thangka Painting,46464,4,2021,Northeast,32144,27.533,88.5122
+Tamil Nadu,Tanjore Painting,84276,4,2021,South,82625,11.1271,78.6569
+Telangana,Nirmal Paintings,74769,4,2021,South,89947,18.1124,79.0193
+Tripura,Hojagiri Dance,48515,4,2021,Northeast,35564,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,125896,4,2021,North,170240,26.8467,80.9462
+Uttarakhand,Choliya Dance,76984,4,2021,North,36152,30.0668,79.0193
+West Bengal,Durga Puja Art,55980,4,2021,East,28791,22.9868,87.855
+Delhi,Kathak Dance,125578,4,2021,North,190265,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,69283,4,2021,North,51891,33.7782,76.5762
+Lakshadweep,Coral Craft,60222,4,2021,South,93910,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,68433,5,2021,South,97625,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,51585,5,2021,Northeast,63691,28.218,94.7278
+Assam,Assam Silk Weaving,76190,5,2021,Northeast,76323,26.2006,92.9376
+Bihar,Madhubani Painting,41711,5,2021,East,44494,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,34950,5,2021,Central,21469,21.2787,81.8661
+Goa,Goan Lacework,34109,5,2021,West,33144,15.2993,74.124
+Gujarat,Patola Weaving,21144,5,2021,West,28799,22.2587,71.1924
+Haryana,Embroidery Craft,38259,5,2021,North,44263,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,95912,5,2021,North,100438,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,47504,5,2021,East,66069,23.6102,85.2799
+Karnataka,Mysore Painting,75784,5,2021,South,94510,15.3173,75.7139
+Kerala,Aranmula Kannadi,79090,5,2021,South,166738,10.8505,76.2711
+Madhya Pradesh,Gond Art,41562,5,2021,Central,52874,23.4733,77.947
+Maharashtra,Paithani Sarees,111135,5,2021,West,143161,19.7515,75.7139
+Manipur,Manipuri Dance,72301,5,2021,Northeast,177125,24.6637,93.9063
+Meghalaya,Nongkrem Dance,95208,5,2021,Northeast,91145,25.467,91.3662
+Mizoram,Cheraw Dance,34420,5,2021,Northeast,47940,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,59481,5,2021,Northeast,100001,26.1584,94.5624
+Odisha,Applique Work,59958,5,2021,East,64876,20.9517,85.0985
+Punjab,Jutti Making,100272,5,2021,North,159495,31.1471,75.3412
+Rajasthan,Miniature Painting,82485,5,2021,North,179517,27.0238,74.2179
+Sikkim,Mask Dance,81088,5,2021,Northeast,43335,27.533,88.5122
+Tamil Nadu,Stone Carving,116243,5,2021,South,156950,11.1271,78.6569
+Telangana,Perini Shivatandavam,42924,5,2021,South,34859,18.1124,79.0193
+Tripura,Bamboo Craft,64094,5,2021,Northeast,64102,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,88521,5,2021,North,93789,26.8467,80.9462
+Uttarakhand,Choliya Dance,58569,5,2021,North,28548,30.0668,79.0193
+West Bengal,Kantha Stitch,31149,5,2021,East,57860,22.9868,87.855
+Delhi,Meenakari Craft,143824,5,2021,North,212541,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,74956,5,2021,North,146796,33.7782,76.5762
+Lakshadweep,Coral Craft,31554,5,2021,South,28251,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,59359,6,2021,South,88795,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,60911,6,2021,Northeast,135357,28.218,94.7278
+Assam,Assam Silk Weaving,47099,6,2021,Northeast,58099,26.2006,92.9376
+Bihar,Manjusha Art,31512,6,2021,East,44973,25.0961,85.3131
+Chhattisgarh,Godna Art,30666,6,2021,Central,42286,21.2787,81.8661
+Goa,Goan Lacework,39127,6,2021,West,46223,15.2993,74.124
+Gujarat,Rogan Art,57927,6,2021,West,40358,22.2587,71.1924
+Haryana,Phag Dance,48636,6,2021,North,85998,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,117520,6,2021,North,114677,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,35496,6,2021,East,53096,23.6102,85.2799
+Karnataka,Yakshagana,61613,6,2021,South,93449,15.3173,75.7139
+Kerala,Kathakali,25339,6,2021,South,21775,10.8505,76.2711
+Madhya Pradesh,Bagh Print,15843,6,2021,Central,32048,23.4733,77.947
+Maharashtra,Paithani Sarees,59255,6,2021,West,76975,19.7515,75.7139
+Manipur,Longpi Pottery,60062,6,2021,Northeast,148833,24.6637,93.9063
+Meghalaya,Nongkrem Dance,42157,6,2021,Northeast,49491,25.467,91.3662
+Mizoram,Puanchei Textiles,81621,6,2021,Northeast,133635,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,55253,6,2021,Northeast,71866,26.1584,94.5624
+Odisha,Applique Work,26425,6,2021,East,38020,20.9517,85.0985
+Punjab,Bhangra,77128,6,2021,North,69478,31.1471,75.3412
+Rajasthan,Blue Pottery,130587,6,2021,North,158703,27.0238,74.2179
+Sikkim,Thangka Painting,74054,6,2021,Northeast,192776,27.533,88.5122
+Tamil Nadu,Bharatanatyam,48799,6,2021,South,97135,11.1271,78.6569
+Telangana,Nirmal Paintings,56707,6,2021,South,32985,18.1124,79.0193
+Tripura,Hojagiri Dance,65028,6,2021,Northeast,88282,23.9408,91.9882
+Uttar Pradesh,Chikankari,156903,6,2021,North,145639,26.8467,80.9462
+Uttarakhand,Choliya Dance,111090,6,2021,North,53980,30.0668,79.0193
+West Bengal,Patachitra,20840,6,2021,East,26797,22.9868,87.855
+Delhi,Meenakari Craft,83571,6,2021,North,84666,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,82163,6,2021,North,77647,33.7782,76.5762
+Lakshadweep,Shell Craft,53743,6,2021,South,34784,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,93259,7,2021,South,48405,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,65612,7,2021,Northeast,96714,28.218,94.7278
+Assam,Assam Silk Weaving,73451,7,2021,Northeast,138666,26.2006,92.9376
+Bihar,Sujni Embroidery,19714,7,2021,East,28664,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,24705,7,2021,Central,26677,21.2787,81.8661
+Goa,Fugdi Dance,51385,7,2021,West,28629,15.2993,74.124
+Gujarat,Rogan Art,30544,7,2021,West,38292,22.2587,71.1924
+Haryana,Phag Dance,47136,7,2021,North,76149,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,47955,7,2021,North,32464,31.1048,77.1734
+Jharkhand,Chhau Dance,38976,7,2021,East,32560,23.6102,85.2799
+Karnataka,Mysore Painting,58655,7,2021,South,31078,15.3173,75.7139
+Kerala,Aranmula Kannadi,90157,7,2021,South,116493,10.8505,76.2711
+Madhya Pradesh,Gond Art,44055,7,2021,Central,50844,23.4733,77.947
+Maharashtra,Paithani Sarees,98059,7,2021,West,260227,19.7515,75.7139
+Manipur,Longpi Pottery,41818,7,2021,Northeast,40070,24.6637,93.9063
+Meghalaya,Bamboo Craft,65439,7,2021,Northeast,95235,25.467,91.3662
+Mizoram,Puanchei Textiles,28566,7,2021,Northeast,47263,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,28306,7,2021,Northeast,24760,26.1584,94.5624
+Odisha,Applique Work,60903,7,2021,East,115311,20.9517,85.0985
+Punjab,Bhangra,43895,7,2021,North,29473,31.1471,75.3412
+Rajasthan,Blue Pottery,66980,7,2021,North,125710,27.0238,74.2179
+Sikkim,Thangka Painting,72879,7,2021,Northeast,65124,27.533,88.5122
+Tamil Nadu,Stone Carving,31894,7,2021,South,40780,11.1271,78.6569
+Telangana,Perini Shivatandavam,48172,7,2021,South,31310,18.1124,79.0193
+Tripura,Hojagiri Dance,18682,7,2021,Northeast,16651,23.9408,91.9882
+Uttar Pradesh,Chikankari,52838,7,2021,North,61314,26.8467,80.9462
+Uttarakhand,Choliya Dance,28720,7,2021,North,19778,30.0668,79.0193
+West Bengal,Patachitra,90452,7,2021,East,115854,22.9868,87.855
+Delhi,Kathak Dance,81308,7,2021,North,24705,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,57492,7,2021,North,58847,33.7782,76.5762
+Lakshadweep,Lava Dance,52742,7,2021,South,51394,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,46085,8,2021,South,138810,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,35509,8,2021,Northeast,33459,28.218,94.7278
+Assam,Bihu Dance,43219,8,2021,Northeast,27699,26.2006,92.9376
+Bihar,Manjusha Art,52719,8,2021,East,46056,25.0961,85.3131
+Chhattisgarh,Panthi Dance,33018,8,2021,Central,16699,21.2787,81.8661
+Goa,Dekni Dance,93743,8,2021,West,177344,15.2993,74.124
+Gujarat,Patola Weaving,100345,8,2021,West,171677,22.2587,71.1924
+Haryana,Embroidery Craft,18833,8,2021,North,17270,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,54874,8,2021,North,83384,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,33855,8,2021,East,22363,23.6102,85.2799
+Karnataka,Bidri Ware,76218,8,2021,South,49198,15.3173,75.7139
+Kerala,Kathakali,143915,8,2021,South,148146,10.8505,76.2711
+Madhya Pradesh,Gond Art,44505,8,2021,Central,51858,23.4733,77.947
+Maharashtra,Paithani Sarees,97943,8,2021,West,86996,19.7515,75.7139
+Manipur,Longpi Pottery,18914,8,2021,Northeast,21598,24.6637,93.9063
+Meghalaya,Nongkrem Dance,35294,8,2021,Northeast,69279,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,18046,8,2021,Northeast,16815,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,32888,8,2021,Northeast,20008,26.1584,94.5624
+Odisha,Pattachitra,58318,8,2021,East,72088,20.9517,85.0985
+Punjab,Bhangra,42215,8,2021,North,79619,31.1471,75.3412
+Rajasthan,Ghoomar Dance,62413,8,2021,North,103679,27.0238,74.2179
+Sikkim,Mask Dance,33069,8,2021,Northeast,32427,27.533,88.5122
+Tamil Nadu,Tanjore Painting,95153,8,2021,South,208583,11.1271,78.6569
+Telangana,Perini Shivatandavam,136780,8,2021,South,144922,18.1124,79.0193
+Tripura,Risa Textile Weaving,44162,8,2021,Northeast,27514,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,46011,8,2021,North,67612,26.8467,80.9462
+Uttarakhand,Choliya Dance,34615,8,2021,North,46179,30.0668,79.0193
+West Bengal,Durga Puja Art,190715,8,2021,East,107395,22.9868,87.855
+Delhi,Meenakari Craft,40214,8,2021,North,83595,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,37695,8,2021,North,62598,33.7782,76.5762
+Lakshadweep,Shell Craft,49781,8,2021,South,50772,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,63289,9,2021,South,96455,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,53931,9,2021,Northeast,44393,28.218,94.7278
+Assam,Assam Silk Weaving,44833,9,2021,Northeast,75887,26.2006,92.9376
+Bihar,Madhubani Painting,91604,9,2021,East,83232,25.0961,85.3131
+Chhattisgarh,Panthi Dance,61365,9,2021,Central,52055,21.2787,81.8661
+Goa,Goan Lacework,124663,9,2021,West,94790,15.2993,74.124
+Gujarat,Garba,80099,9,2021,West,176165,22.2587,71.1924
+Haryana,Charpai Weaving,44032,9,2021,North,46783,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,48265,9,2021,North,80818,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,55311,9,2021,East,70877,23.6102,85.2799
+Karnataka,Bidri Ware,87344,9,2021,South,100407,15.3173,75.7139
+Kerala,Kathakali,80139,9,2021,South,138172,10.8505,76.2711
+Madhya Pradesh,Gond Art,64289,9,2021,Central,95138,23.4733,77.947
+Maharashtra,Lavani Dance,190872,9,2021,West,136769,19.7515,75.7139
+Manipur,Manipuri Dance,42488,9,2021,Northeast,57867,24.6637,93.9063
+Meghalaya,Nongkrem Dance,31851,9,2021,Northeast,35146,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,15902,9,2021,Northeast,21476,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,59733,9,2021,Northeast,121402,26.1584,94.5624
+Odisha,Pattachitra,60141,9,2021,East,43313,20.9517,85.0985
+Punjab,Jutti Making,54015,9,2021,North,15325,31.1471,75.3412
+Rajasthan,Ghoomar Dance,91076,9,2021,North,150494,27.0238,74.2179
+Sikkim,Carpet Weaving,34273,9,2021,Northeast,33554,27.533,88.5122
+Tamil Nadu,Tanjore Painting,132028,9,2021,South,134638,11.1271,78.6569
+Telangana,Nirmal Paintings,118981,9,2021,South,130071,18.1124,79.0193
+Tripura,Hojagiri Dance,22741,9,2021,Northeast,21407,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,55084,9,2021,North,44064,26.8467,80.9462
+Uttarakhand,Choliya Dance,21036,9,2021,North,24390,30.0668,79.0193
+West Bengal,Durga Puja Art,84335,9,2021,East,149031,22.9868,87.855
+Delhi,Meenakari Craft,86463,9,2021,North,204069,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,46779,9,2021,North,45698,33.7782,76.5762
+Lakshadweep,Parichakali,72681,9,2021,South,31275,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,198841,10,2021,South,261555,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,79948,10,2021,Northeast,148141,28.218,94.7278
+Assam,Assam Silk Weaving,50870,10,2021,Northeast,57300,26.2006,92.9376
+Bihar,Manjusha Art,99190,10,2021,East,132677,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,44105,10,2021,Central,88856,21.2787,81.8661
+Goa,Dekni Dance,96914,10,2021,West,55002,15.2993,74.124
+Gujarat,Rogan Art,115927,10,2021,West,98867,22.2587,71.1924
+Haryana,Charpai Weaving,33444,10,2021,North,35085,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,74141,10,2021,North,90548,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,58648,10,2021,East,52448,23.6102,85.2799
+Karnataka,Yakshagana,152920,10,2021,South,125425,15.3173,75.7139
+Kerala,Aranmula Kannadi,95910,10,2021,South,148378,10.8505,76.2711
+Madhya Pradesh,Gond Art,72192,10,2021,Central,101423,23.4733,77.947
+Maharashtra,Paithani Sarees,105264,10,2021,West,65668,19.7515,75.7139
+Manipur,Manipuri Dance,51229,10,2021,Northeast,41506,24.6637,93.9063
+Meghalaya,Bamboo Craft,68111,10,2021,Northeast,96510,25.467,91.3662
+Mizoram,Cheraw Dance,41719,10,2021,Northeast,88197,23.1645,92.9376
+Nagaland,Wood Carving,66156,10,2021,Northeast,137912,26.1584,94.5624
+Odisha,Pattachitra,131328,10,2021,East,160652,20.9517,85.0985
+Punjab,Jutti Making,76765,10,2021,North,126603,31.1471,75.3412
+Rajasthan,Ghoomar Dance,104452,10,2021,North,144256,27.0238,74.2179
+Sikkim,Mask Dance,39818,10,2021,Northeast,65531,27.533,88.5122
+Tamil Nadu,Tanjore Painting,108322,10,2021,South,252571,11.1271,78.6569
+Telangana,Bidri Craft,97412,10,2021,South,183936,18.1124,79.0193
+Tripura,Risa Textile Weaving,31350,10,2021,Northeast,54748,23.9408,91.9882
+Uttar Pradesh,Chikankari,65955,10,2021,North,95734,26.8467,80.9462
+Uttarakhand,Aipan Art,61594,10,2021,North,70257,30.0668,79.0193
+West Bengal,Kantha Stitch,146826,10,2021,East,246019,22.9868,87.855
+Delhi,Kathak Dance,81898,10,2021,North,106335,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,40309,10,2021,North,54941,33.7782,76.5762
+Lakshadweep,Coral Craft,93835,10,2021,South,133567,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,145018,11,2021,South,191187,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,80308,11,2021,Northeast,85943,28.218,94.7278
+Assam,Bihu Dance,45255,11,2021,Northeast,33888,26.2006,92.9376
+Bihar,Madhubani Painting,69706,11,2021,East,69415,25.0961,85.3131
+Chhattisgarh,Godna Art,139024,11,2021,Central,79333,21.2787,81.8661
+Goa,Goan Lacework,77909,11,2021,West,183216,15.2993,74.124
+Gujarat,Patola Weaving,69214,11,2021,West,146175,22.2587,71.1924
+Haryana,Embroidery Craft,117451,11,2021,North,285726,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,200378,11,2021,North,168209,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,58110,11,2021,East,107685,23.6102,85.2799
+Karnataka,Mysore Painting,102300,11,2021,South,110542,15.3173,75.7139
+Kerala,Aranmula Kannadi,58958,11,2021,South,105292,10.8505,76.2711
+Madhya Pradesh,Bagh Print,86504,11,2021,Central,91263,23.4733,77.947
+Maharashtra,Warli Painting,160900,11,2021,West,162938,19.7515,75.7139
+Manipur,Manipuri Dance,27255,11,2021,Northeast,25864,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,37803,11,2021,Northeast,67574,25.467,91.3662
+Mizoram,Puanchei Textiles,28691,11,2021,Northeast,33543,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,20643,11,2021,Northeast,39742,26.1584,94.5624
+Odisha,Pattachitra,86553,11,2021,East,154807,20.9517,85.0985
+Punjab,Phulkari Embroidery,86300,11,2021,North,96071,31.1471,75.3412
+Rajasthan,Miniature Painting,201583,11,2021,North,157320,27.0238,74.2179
+Sikkim,Thangka Painting,37618,11,2021,Northeast,58282,27.533,88.5122
+Tamil Nadu,Bharatanatyam,134270,11,2021,South,199681,11.1271,78.6569
+Telangana,Nirmal Paintings,49760,11,2021,South,56754,18.1124,79.0193
+Tripura,Risa Textile Weaving,71838,11,2021,Northeast,108445,23.9408,91.9882
+Uttar Pradesh,Chikankari,86635,11,2021,North,76252,26.8467,80.9462
+Uttarakhand,Choliya Dance,142000,11,2021,North,130232,30.0668,79.0193
+West Bengal,Patachitra,98744,11,2021,East,124334,22.9868,87.855
+Delhi,Zardozi Work,147393,11,2021,North,286169,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,85576,11,2021,North,159659,33.7782,76.5762
+Lakshadweep,Coral Craft,64586,11,2021,South,46438,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,71063,12,2021,South,119966,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,35527,12,2021,Northeast,39402,28.218,94.7278
+Assam,Bihu Dance,54362,12,2021,Northeast,28604,26.2006,92.9376
+Bihar,Madhubani Painting,30187,12,2021,East,48637,25.0961,85.3131
+Chhattisgarh,Panthi Dance,94146,12,2021,Central,52547,21.2787,81.8661
+Goa,Fugdi Dance,93734,12,2021,West,100546,15.2993,74.124
+Gujarat,Rogan Art,108771,12,2021,West,142369,22.2587,71.1924
+Haryana,Embroidery Craft,93404,12,2021,North,173254,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,199603,12,2021,North,142695,31.1048,77.1734
+Jharkhand,Chhau Dance,72088,12,2021,East,176573,23.6102,85.2799
+Karnataka,Yakshagana,121506,12,2021,South,111993,15.3173,75.7139
+Kerala,Kathakali,164413,12,2021,South,301928,10.8505,76.2711
+Madhya Pradesh,Bagh Print,83549,12,2021,Central,124133,23.4733,77.947
+Maharashtra,Paithani Sarees,156425,12,2021,West,117295,19.7515,75.7139
+Manipur,Manipuri Dance,22490,12,2021,Northeast,31925,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,27536,12,2021,Northeast,29835,25.467,91.3662
+Mizoram,Puanchei Textiles,25085,12,2021,Northeast,48742,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,27375,12,2021,Northeast,29791,26.1584,94.5624
+Odisha,Odissi Dance,138396,12,2021,East,104801,20.9517,85.0985
+Punjab,Phulkari Embroidery,109525,12,2021,North,118483,31.1471,75.3412
+Rajasthan,Ghoomar Dance,81461,12,2021,North,147135,27.0238,74.2179
+Sikkim,Thangka Painting,32432,12,2021,Northeast,48893,27.533,88.5122
+Tamil Nadu,Stone Carving,135847,12,2021,South,87276,11.1271,78.6569
+Telangana,Perini Shivatandavam,127628,12,2021,South,266787,18.1124,79.0193
+Tripura,Bamboo Craft,40734,12,2021,Northeast,61794,23.9408,91.9882
+Uttar Pradesh,Chikankari,127063,12,2021,North,95512,26.8467,80.9462
+Uttarakhand,Choliya Dance,120288,12,2021,North,128842,30.0668,79.0193
+West Bengal,Patachitra,144540,12,2021,East,169263,22.9868,87.855
+Delhi,Kathak Dance,98564,12,2021,North,62414,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,124370,12,2021,North,80355,33.7782,76.5762
+Lakshadweep,Parichakali,107243,12,2021,South,45427,10.5667,72.6417
+Andhra Pradesh,Kalamkari,111092,1,2022,South,138574,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,63197,1,2022,Northeast,45308,28.218,94.7278
+Assam,Bihu Dance,43180,1,2022,Northeast,79355,26.2006,92.9376
+Bihar,Sujni Embroidery,89238,1,2022,East,65646,25.0961,85.3131
+Chhattisgarh,Panthi Dance,29882,1,2022,Central,54102,21.2787,81.8661
+Goa,Dekni Dance,125892,1,2022,West,93359,15.2993,74.124
+Gujarat,Garba,227437,1,2022,West,342039,22.2587,71.1924
+Haryana,Phag Dance,61823,1,2022,North,80100,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,106917,1,2022,North,124422,31.1048,77.1734
+Jharkhand,Chhau Dance,49809,1,2022,East,45604,23.6102,85.2799
+Karnataka,Yakshagana,92872,1,2022,South,154298,15.3173,75.7139
+Kerala,Mohiniyattam,166850,1,2022,South,119234,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,144416,1,2022,Central,86534,23.4733,77.947
+Maharashtra,Warli Painting,118272,1,2022,West,86594,19.7515,75.7139
+Manipur,Longpi Pottery,41143,1,2022,Northeast,44277,24.6637,93.9063
+Meghalaya,Bamboo Craft,47105,1,2022,Northeast,29504,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,22292,1,2022,Northeast,14773,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,48511,1,2022,Northeast,58780,26.1584,94.5624
+Odisha,Applique Work,71392,1,2022,East,79463,20.9517,85.0985
+Punjab,Phulkari Embroidery,64094,1,2022,North,32617,31.1471,75.3412
+Rajasthan,Miniature Painting,114626,1,2022,North,89243,27.0238,74.2179
+Sikkim,Thangka Painting,33709,1,2022,Northeast,55438,27.533,88.5122
+Tamil Nadu,Stone Carving,122085,1,2022,South,158889,11.1271,78.6569
+Telangana,Nirmal Paintings,254635,1,2022,South,415004,18.1124,79.0193
+Tripura,Risa Textile Weaving,40386,1,2022,Northeast,44341,23.9408,91.9882
+Uttar Pradesh,Chikankari,121351,1,2022,North,185166,26.8467,80.9462
+Uttarakhand,Ringal Craft,77036,1,2022,North,169442,30.0668,79.0193
+West Bengal,Kantha Stitch,43173,1,2022,East,74185,22.9868,87.855
+Delhi,Kathak Dance,136627,1,2022,North,283950,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,120106,1,2022,North,227192,33.7782,76.5762
+Lakshadweep,Coral Craft,115379,1,2022,South,86416,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,135260,2,2022,South,179672,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,45969,2,2022,Northeast,42742,28.218,94.7278
+Assam,Bihu Dance,34415,2,2022,Northeast,22971,26.2006,92.9376
+Bihar,Madhubani Painting,96368,2,2022,East,163829,25.0961,85.3131
+Chhattisgarh,Panthi Dance,54229,2,2022,Central,35468,21.2787,81.8661
+Goa,Goan Lacework,146948,2,2022,West,152638,15.2993,74.124
+Gujarat,Garba,118948,2,2022,West,158539,22.2587,71.1924
+Haryana,Charpai Weaving,45689,2,2022,North,36928,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,88909,2,2022,North,134332,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,45135,2,2022,East,53295,23.6102,85.2799
+Karnataka,Yakshagana,110240,2,2022,South,72793,15.3173,75.7139
+Kerala,Kathakali,310930,2,2022,South,412014,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,127230,2,2022,Central,167672,23.4733,77.947
+Maharashtra,Warli Painting,175489,2,2022,West,308091,19.7515,75.7139
+Manipur,Manipuri Dance,53179,2,2022,Northeast,29128,24.6637,93.9063
+Meghalaya,Bamboo Craft,45004,2,2022,Northeast,25344,25.467,91.3662
+Mizoram,Cheraw Dance,31437,2,2022,Northeast,52391,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,31587,2,2022,Northeast,59453,26.1584,94.5624
+Odisha,Odissi Dance,148076,2,2022,East,232053,20.9517,85.0985
+Punjab,Jutti Making,38651,2,2022,North,56449,31.1471,75.3412
+Rajasthan,Ghoomar Dance,72160,2,2022,North,62058,27.0238,74.2179
+Sikkim,Mask Dance,46574,2,2022,Northeast,71700,27.533,88.5122
+Tamil Nadu,Bharatanatyam,165517,2,2022,South,146359,11.1271,78.6569
+Telangana,Perini Shivatandavam,129376,2,2022,South,219077,18.1124,79.0193
+Tripura,Risa Textile Weaving,69906,2,2022,Northeast,85715,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,136080,2,2022,North,81625,26.8467,80.9462
+Uttarakhand,Ringal Craft,66519,2,2022,North,98064,30.0668,79.0193
+West Bengal,Durga Puja Art,107585,2,2022,East,186965,22.9868,87.855
+Delhi,Meenakari Craft,62859,2,2022,North,134108,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,66414,2,2022,North,100217,33.7782,76.5762
+Lakshadweep,Parichakali,134835,2,2022,South,187048,10.5667,72.6417
+Andhra Pradesh,Kalamkari,77458,3,2022,South,125481,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,48321,3,2022,Northeast,21832,28.218,94.7278
+Assam,Sattriya Dance,79894,3,2022,Northeast,117295,26.2006,92.9376
+Bihar,Sujni Embroidery,20465,3,2022,East,37464,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,54294,3,2022,Central,74141,21.2787,81.8661
+Goa,Goan Lacework,86482,3,2022,West,82954,15.2993,74.124
+Gujarat,Garba,207034,3,2022,West,142732,22.2587,71.1924
+Haryana,Charpai Weaving,73032,3,2022,North,129173,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,153585,3,2022,North,179103,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,51061,3,2022,East,50713,23.6102,85.2799
+Karnataka,Bidri Ware,88246,3,2022,South,157136,15.3173,75.7139
+Kerala,Aranmula Kannadi,107415,3,2022,South,158035,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,41927,3,2022,Central,89300,23.4733,77.947
+Maharashtra,Warli Painting,99507,3,2022,West,113613,19.7515,75.7139
+Manipur,Phanek Weaving,46387,3,2022,Northeast,111071,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,46379,3,2022,Northeast,82215,25.467,91.3662
+Mizoram,Puanchei Textiles,55600,3,2022,Northeast,66287,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,31726,3,2022,Northeast,63063,26.1584,94.5624
+Odisha,Pattachitra,28296,3,2022,East,65287,20.9517,85.0985
+Punjab,Bhangra,45334,3,2022,North,67020,31.1471,75.3412
+Rajasthan,Blue Pottery,238011,3,2022,North,194467,27.0238,74.2179
+Sikkim,Thangka Painting,98708,3,2022,Northeast,139025,27.533,88.5122
+Tamil Nadu,Tanjore Painting,174367,3,2022,South,281771,11.1271,78.6569
+Telangana,Perini Shivatandavam,42351,3,2022,South,34534,18.1124,79.0193
+Tripura,Risa Textile Weaving,50105,3,2022,Northeast,25444,23.9408,91.9882
+Uttar Pradesh,Chikankari,164480,3,2022,North,162899,26.8467,80.9462
+Uttarakhand,Aipan Art,39807,3,2022,North,29496,30.0668,79.0193
+West Bengal,Kantha Stitch,95003,3,2022,East,70183,22.9868,87.855
+Delhi,Kathak Dance,94844,3,2022,North,161549,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,71076,3,2022,North,106977,33.7782,76.5762
+Lakshadweep,Parichakali,128638,3,2022,South,93171,10.5667,72.6417
+Andhra Pradesh,Kalamkari,55475,4,2022,South,40194,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,53660,4,2022,Northeast,66530,28.218,94.7278
+Assam,Sattriya Dance,78828,4,2022,Northeast,91062,26.2006,92.9376
+Bihar,Sujni Embroidery,41173,4,2022,East,48209,25.0961,85.3131
+Chhattisgarh,Panthi Dance,48081,4,2022,Central,30396,21.2787,81.8661
+Goa,Fugdi Dance,110589,4,2022,West,175183,15.2993,74.124
+Gujarat,Patola Weaving,57251,4,2022,West,83930,22.2587,71.1924
+Haryana,Embroidery Craft,73557,4,2022,North,74296,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,60492,4,2022,North,104213,31.1048,77.1734
+Jharkhand,Chhau Dance,59797,4,2022,East,54691,23.6102,85.2799
+Karnataka,Mysore Painting,114614,4,2022,South,116929,15.3173,75.7139
+Kerala,Aranmula Kannadi,115788,4,2022,South,187196,10.8505,76.2711
+Madhya Pradesh,Bagh Print,68335,4,2022,Central,86655,23.4733,77.947
+Maharashtra,Warli Painting,111019,4,2022,West,139317,19.7515,75.7139
+Manipur,Phanek Weaving,85028,4,2022,Northeast,127260,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,98705,4,2022,Northeast,74275,25.467,91.3662
+Mizoram,Cheraw Dance,57131,4,2022,Northeast,94307,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,66375,4,2022,Northeast,108390,26.1584,94.5624
+Odisha,Pattachitra,39330,4,2022,East,54147,20.9517,85.0985
+Punjab,Phulkari Embroidery,69377,4,2022,North,143393,31.1471,75.3412
+Rajasthan,Ghoomar Dance,203730,4,2022,North,113156,27.0238,74.2179
+Sikkim,Thangka Painting,48655,4,2022,Northeast,43871,27.533,88.5122
+Tamil Nadu,Tanjore Painting,100261,4,2022,South,66859,11.1271,78.6569
+Telangana,Nirmal Paintings,120942,4,2022,South,90373,18.1124,79.0193
+Tripura,Bamboo Craft,100493,4,2022,Northeast,95074,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,60462,4,2022,North,66324,26.8467,80.9462
+Uttarakhand,Aipan Art,74151,4,2022,North,120241,30.0668,79.0193
+West Bengal,Patachitra,130239,4,2022,East,212270,22.9868,87.855
+Delhi,Kathak Dance,134062,4,2022,North,136667,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,78358,4,2022,North,84815,33.7782,76.5762
+Lakshadweep,Shell Craft,79140,4,2022,South,74432,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,74199,5,2022,South,64156,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,154472,5,2022,Northeast,85064,28.218,94.7278
+Assam,Bihu Dance,100692,5,2022,Northeast,104607,26.2006,92.9376
+Bihar,Madhubani Painting,46502,5,2022,East,61598,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,36536,5,2022,Central,38514,21.2787,81.8661
+Goa,Goan Lacework,92915,5,2022,West,137548,15.2993,74.124
+Gujarat,Patola Weaving,60497,5,2022,West,72411,22.2587,71.1924
+Haryana,Charpai Weaving,88394,5,2022,North,117338,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,77077,5,2022,North,110339,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,65879,5,2022,East,83580,23.6102,85.2799
+Karnataka,Yakshagana,101349,5,2022,South,94413,15.3173,75.7139
+Kerala,Kathakali,118779,5,2022,South,128714,10.8505,76.2711
+Madhya Pradesh,Gond Art,36341,5,2022,Central,25782,23.4733,77.947
+Maharashtra,Paithani Sarees,26963,5,2022,West,49345,19.7515,75.7139
+Manipur,Phanek Weaving,76689,5,2022,Northeast,85206,24.6637,93.9063
+Meghalaya,Bamboo Craft,60593,5,2022,Northeast,50427,25.467,91.3662
+Mizoram,Cheraw Dance,80754,5,2022,Northeast,187972,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,102268,5,2022,Northeast,176436,26.1584,94.5624
+Odisha,Pattachitra,64008,5,2022,East,29496,20.9517,85.0985
+Punjab,Jutti Making,222537,5,2022,North,153358,31.1471,75.3412
+Rajasthan,Blue Pottery,177694,5,2022,North,154935,27.0238,74.2179
+Sikkim,Carpet Weaving,79956,5,2022,Northeast,45365,27.533,88.5122
+Tamil Nadu,Stone Carving,153200,5,2022,South,217666,11.1271,78.6569
+Telangana,Bidri Craft,91728,5,2022,South,111181,18.1124,79.0193
+Tripura,Bamboo Craft,46606,5,2022,Northeast,42018,23.9408,91.9882
+Uttar Pradesh,Chikankari,77922,5,2022,North,62900,26.8467,80.9462
+Uttarakhand,Ringal Craft,111756,5,2022,North,155516,30.0668,79.0193
+West Bengal,Durga Puja Art,138377,5,2022,East,92586,22.9868,87.855
+Delhi,Kathak Dance,168624,5,2022,North,315547,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,152096,5,2022,North,64348,33.7782,76.5762
+Lakshadweep,Parichakali,72696,5,2022,South,146916,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,34376,6,2022,South,68986,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,58222,6,2022,Northeast,88084,28.218,94.7278
+Assam,Assam Silk Weaving,180086,6,2022,Northeast,182732,26.2006,92.9376
+Bihar,Madhubani Painting,47775,6,2022,East,101633,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,38305,6,2022,Central,36964,21.2787,81.8661
+Goa,Dekni Dance,103918,6,2022,West,188654,15.2993,74.124
+Gujarat,Garba,84486,6,2022,West,65532,22.2587,71.1924
+Haryana,Charpai Weaving,46733,6,2022,North,69123,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,126081,6,2022,North,210448,31.1048,77.1734
+Jharkhand,Sohrai Painting,35469,6,2022,East,75183,23.6102,85.2799
+Karnataka,Bidri Ware,68159,6,2022,South,36835,15.3173,75.7139
+Kerala,Kathakali,29779,6,2022,South,16978,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,27820,6,2022,Central,32368,23.4733,77.947
+Maharashtra,Warli Painting,75703,6,2022,West,118881,19.7515,75.7139
+Manipur,Longpi Pottery,114720,6,2022,Northeast,95706,24.6637,93.9063
+Meghalaya,Nongkrem Dance,88448,6,2022,Northeast,130631,25.467,91.3662
+Mizoram,Cheraw Dance,89763,6,2022,Northeast,91754,23.1645,92.9376
+Nagaland,Wood Carving,63061,6,2022,Northeast,75873,26.1584,94.5624
+Odisha,Pattachitra,44432,6,2022,East,31114,20.9517,85.0985
+Punjab,Bhangra,89212,6,2022,North,135878,31.1471,75.3412
+Rajasthan,Blue Pottery,149917,6,2022,North,70872,27.0238,74.2179
+Sikkim,Thangka Painting,121870,6,2022,Northeast,142320,27.533,88.5122
+Tamil Nadu,Tanjore Painting,51845,6,2022,South,62244,11.1271,78.6569
+Telangana,Nirmal Paintings,41662,6,2022,South,48519,18.1124,79.0193
+Tripura,Risa Textile Weaving,39377,6,2022,Northeast,70250,23.9408,91.9882
+Uttar Pradesh,Chikankari,128072,6,2022,North,91793,26.8467,80.9462
+Uttarakhand,Ringal Craft,96036,6,2022,North,210779,30.0668,79.0193
+West Bengal,Durga Puja Art,71066,6,2022,East,49547,22.9868,87.855
+Delhi,Kathak Dance,194331,6,2022,North,164288,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,117392,6,2022,North,176112,33.7782,76.5762
+Lakshadweep,Parichakali,48605,6,2022,South,72803,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,65788,7,2022,South,128695,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,40280,7,2022,Northeast,26064,28.218,94.7278
+Assam,Sattriya Dance,78991,7,2022,Northeast,175773,26.2006,92.9376
+Bihar,Madhubani Painting,46353,7,2022,East,60621,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,40539,7,2022,Central,40311,21.2787,81.8661
+Goa,Goan Lacework,92131,7,2022,West,77957,15.2993,74.124
+Gujarat,Garba,63240,7,2022,West,62793,22.2587,71.1924
+Haryana,Embroidery Craft,53679,7,2022,North,34982,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,78365,7,2022,North,111501,31.1048,77.1734
+Jharkhand,Chhau Dance,73588,7,2022,East,43697,23.6102,85.2799
+Karnataka,Bidri Ware,83041,7,2022,South,95706,15.3173,75.7139
+Kerala,Mohiniyattam,127689,7,2022,South,45735,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,41470,7,2022,Central,72962,23.4733,77.947
+Maharashtra,Paithani Sarees,96432,7,2022,West,66552,19.7515,75.7139
+Manipur,Manipuri Dance,55667,7,2022,Northeast,86168,24.6637,93.9063
+Meghalaya,Nongkrem Dance,70876,7,2022,Northeast,83971,25.467,91.3662
+Mizoram,Cheraw Dance,64089,7,2022,Northeast,67788,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,80628,7,2022,Northeast,84448,26.1584,94.5624
+Odisha,Applique Work,94531,7,2022,East,123188,20.9517,85.0985
+Punjab,Jutti Making,51148,7,2022,North,55594,31.1471,75.3412
+Rajasthan,Miniature Painting,65444,7,2022,North,111572,27.0238,74.2179
+Sikkim,Carpet Weaving,80201,7,2022,Northeast,102355,27.533,88.5122
+Tamil Nadu,Stone Carving,87146,7,2022,South,37271,11.1271,78.6569
+Telangana,Perini Shivatandavam,58697,7,2022,South,80604,18.1124,79.0193
+Tripura,Bamboo Craft,40016,7,2022,Northeast,89129,23.9408,91.9882
+Uttar Pradesh,Chikankari,135424,7,2022,North,97046,26.8467,80.9462
+Uttarakhand,Choliya Dance,56954,7,2022,North,92066,30.0668,79.0193
+West Bengal,Patachitra,101166,7,2022,East,95023,22.9868,87.855
+Delhi,Meenakari Craft,91612,7,2022,North,105835,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,71821,7,2022,North,128591,33.7782,76.5762
+Lakshadweep,Lava Dance,118781,7,2022,South,106229,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,130669,8,2022,South,190666,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,52076,8,2022,Northeast,83849,28.218,94.7278
+Assam,Bihu Dance,66534,8,2022,Northeast,86667,26.2006,92.9376
+Bihar,Sujni Embroidery,64765,8,2022,East,46563,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,35540,8,2022,Central,21978,21.2787,81.8661
+Goa,Fugdi Dance,152732,8,2022,West,159055,15.2993,74.124
+Gujarat,Rogan Art,162106,8,2022,West,138840,22.2587,71.1924
+Haryana,Charpai Weaving,31143,8,2022,North,43694,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,83325,8,2022,North,181390,31.1048,77.1734
+Jharkhand,Sohrai Painting,55755,8,2022,East,51616,23.6102,85.2799
+Karnataka,Yakshagana,131586,8,2022,South,328070,15.3173,75.7139
+Kerala,Mohiniyattam,96182,8,2022,South,143536,10.8505,76.2711
+Madhya Pradesh,Bagh Print,39688,8,2022,Central,70258,23.4733,77.947
+Maharashtra,Lavani Dance,113735,8,2022,West,91782,19.7515,75.7139
+Manipur,Manipuri Dance,56368,8,2022,Northeast,44429,24.6637,93.9063
+Meghalaya,Nongkrem Dance,51196,8,2022,Northeast,45128,25.467,91.3662
+Mizoram,Cheraw Dance,38533,8,2022,Northeast,63400,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,59818,8,2022,Northeast,33057,26.1584,94.5624
+Odisha,Pattachitra,135035,8,2022,East,213664,20.9517,85.0985
+Punjab,Jutti Making,64307,8,2022,North,57663,31.1471,75.3412
+Rajasthan,Blue Pottery,59396,8,2022,North,39113,27.0238,74.2179
+Sikkim,Thangka Painting,46703,8,2022,Northeast,65552,27.533,88.5122
+Tamil Nadu,Tanjore Painting,189103,8,2022,South,101388,11.1271,78.6569
+Telangana,Bidri Craft,119145,8,2022,South,96062,18.1124,79.0193
+Tripura,Bamboo Craft,60761,8,2022,Northeast,49126,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,107377,8,2022,North,223543,26.8467,80.9462
+Uttarakhand,Aipan Art,56329,8,2022,North,47071,30.0668,79.0193
+West Bengal,Patachitra,96272,8,2022,East,120354,22.9868,87.855
+Delhi,Zardozi Work,69163,8,2022,North,85154,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,66050,8,2022,North,83073,33.7782,76.5762
+Lakshadweep,Parichakali,109445,8,2022,South,129204,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,79292,9,2022,South,72031,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,45377,9,2022,Northeast,43910,28.218,94.7278
+Assam,Assam Silk Weaving,49412,9,2022,Northeast,29212,26.2006,92.9376
+Bihar,Manjusha Art,75169,9,2022,East,171652,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,57929,9,2022,Central,80561,21.2787,81.8661
+Goa,Goan Lacework,296553,9,2022,West,231000,15.2993,74.124
+Gujarat,Rogan Art,173483,9,2022,West,183983,22.2587,71.1924
+Haryana,Phag Dance,83340,9,2022,North,152195,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,36212,9,2022,North,37182,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,61071,9,2022,East,56780,23.6102,85.2799
+Karnataka,Mysore Painting,157274,9,2022,South,137988,15.3173,75.7139
+Kerala,Aranmula Kannadi,144260,9,2022,South,118573,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,185558,9,2022,Central,189231,23.4733,77.947
+Maharashtra,Paithani Sarees,83154,9,2022,West,159517,19.7515,75.7139
+Manipur,Phanek Weaving,89531,9,2022,Northeast,170767,24.6637,93.9063
+Meghalaya,Nongkrem Dance,60482,9,2022,Northeast,64010,25.467,91.3662
+Mizoram,Cheraw Dance,51874,9,2022,Northeast,63619,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,46976,9,2022,Northeast,80066,26.1584,94.5624
+Odisha,Applique Work,157735,9,2022,East,310268,20.9517,85.0985
+Punjab,Phulkari Embroidery,34843,9,2022,North,30368,31.1471,75.3412
+Rajasthan,Miniature Painting,99256,9,2022,North,118341,27.0238,74.2179
+Sikkim,Thangka Painting,84083,9,2022,Northeast,79792,27.533,88.5122
+Tamil Nadu,Tanjore Painting,174871,9,2022,South,165283,11.1271,78.6569
+Telangana,Nirmal Paintings,90016,9,2022,South,157362,18.1124,79.0193
+Tripura,Bamboo Craft,49861,9,2022,Northeast,91787,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,76158,9,2022,North,77556,26.8467,80.9462
+Uttarakhand,Choliya Dance,101309,9,2022,North,104487,30.0668,79.0193
+West Bengal,Kantha Stitch,165576,9,2022,East,170077,22.9868,87.855
+Delhi,Kathak Dance,138875,9,2022,North,146198,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,67256,9,2022,North,41283,33.7782,76.5762
+Lakshadweep,Coral Craft,104660,9,2022,South,137812,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,156645,10,2022,South,150443,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,59569,10,2022,Northeast,88085,28.218,94.7278
+Assam,Assam Silk Weaving,78561,10,2022,Northeast,131568,26.2006,92.9376
+Bihar,Madhubani Painting,58806,10,2022,East,85942,25.0961,85.3131
+Chhattisgarh,Panthi Dance,64974,10,2022,Central,66607,21.2787,81.8661
+Goa,Goan Lacework,116375,10,2022,West,69470,15.2993,74.124
+Gujarat,Rogan Art,147856,10,2022,West,141717,22.2587,71.1924
+Haryana,Phag Dance,66208,10,2022,North,94389,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,68142,10,2022,North,58700,31.1048,77.1734
+Jharkhand,Sohrai Painting,78804,10,2022,East,69628,23.6102,85.2799
+Karnataka,Bidri Ware,192900,10,2022,South,182181,15.3173,75.7139
+Kerala,Mohiniyattam,205242,10,2022,South,137264,10.8505,76.2711
+Madhya Pradesh,Gond Art,108505,10,2022,Central,135056,23.4733,77.947
+Maharashtra,Lavani Dance,199706,10,2022,West,129829,19.7515,75.7139
+Manipur,Manipuri Dance,40309,10,2022,Northeast,26402,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,101993,10,2022,Northeast,142817,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,46413,10,2022,Northeast,36820,23.1645,92.9376
+Nagaland,Wood Carving,46509,10,2022,Northeast,57987,26.1584,94.5624
+Odisha,Pattachitra,113910,10,2022,East,86310,20.9517,85.0985
+Punjab,Phulkari Embroidery,54166,10,2022,North,150227,31.1471,75.3412
+Rajasthan,Blue Pottery,116801,10,2022,North,247844,27.0238,74.2179
+Sikkim,Thangka Painting,107803,10,2022,Northeast,162339,27.533,88.5122
+Tamil Nadu,Bharatanatyam,207919,10,2022,South,251481,11.1271,78.6569
+Telangana,Nirmal Paintings,188495,10,2022,South,229310,18.1124,79.0193
+Tripura,Hojagiri Dance,85019,10,2022,Northeast,188298,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,166333,10,2022,North,325909,26.8467,80.9462
+Uttarakhand,Aipan Art,87610,10,2022,North,147667,30.0668,79.0193
+West Bengal,Kantha Stitch,189330,10,2022,East,282469,22.9868,87.855
+Delhi,Kathak Dance,121838,10,2022,North,287607,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,99936,10,2022,North,146214,33.7782,76.5762
+Lakshadweep,Parichakali,158631,10,2022,South,258946,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,156269,11,2022,South,301754,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,59353,11,2022,Northeast,67178,28.218,94.7278
+Assam,Bihu Dance,101528,11,2022,Northeast,105878,26.2006,92.9376
+Bihar,Manjusha Art,63651,11,2022,East,76779,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,170116,11,2022,Central,114325,21.2787,81.8661
+Goa,Dekni Dance,166810,11,2022,West,99041,15.2993,74.124
+Gujarat,Patola Weaving,107509,11,2022,West,147328,22.2587,71.1924
+Haryana,Charpai Weaving,109503,11,2022,North,205258,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,126634,11,2022,North,140059,31.1048,77.1734
+Jharkhand,Chhau Dance,189316,11,2022,East,229155,23.6102,85.2799
+Karnataka,Bidri Ware,110397,11,2022,South,56330,15.3173,75.7139
+Kerala,Aranmula Kannadi,120247,11,2022,South,249582,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,147556,11,2022,Central,156394,23.4733,77.947
+Maharashtra,Warli Painting,117934,11,2022,West,156092,19.7515,75.7139
+Manipur,Longpi Pottery,85479,11,2022,Northeast,56171,24.6637,93.9063
+Meghalaya,Bamboo Craft,66767,11,2022,Northeast,65932,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,84134,11,2022,Northeast,73101,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,37720,11,2022,Northeast,63160,26.1584,94.5624
+Odisha,Applique Work,135330,11,2022,East,236860,20.9517,85.0985
+Punjab,Phulkari Embroidery,154155,11,2022,North,127749,31.1471,75.3412
+Rajasthan,Ghoomar Dance,199415,11,2022,North,336974,27.0238,74.2179
+Sikkim,Carpet Weaving,55773,11,2022,Northeast,34507,27.533,88.5122
+Tamil Nadu,Stone Carving,175624,11,2022,South,122710,11.1271,78.6569
+Telangana,Nirmal Paintings,172809,11,2022,South,164959,18.1124,79.0193
+Tripura,Risa Textile Weaving,35333,11,2022,Northeast,76977,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,125251,11,2022,North,161511,26.8467,80.9462
+Uttarakhand,Ringal Craft,129256,11,2022,North,170455,30.0668,79.0193
+West Bengal,Kantha Stitch,146706,11,2022,East,327880,22.9868,87.855
+Delhi,Zardozi Work,272532,11,2022,North,338252,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,103664,11,2022,North,114240,33.7782,76.5762
+Lakshadweep,Shell Craft,111854,11,2022,South,192642,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,115893,12,2022,South,66534,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,24575,12,2022,Northeast,14002,28.218,94.7278
+Assam,Sattriya Dance,71550,12,2022,Northeast,50254,26.2006,92.9376
+Bihar,Manjusha Art,126541,12,2022,East,257200,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,123748,12,2022,Central,180625,21.2787,81.8661
+Goa,Dekni Dance,138327,12,2022,West,156129,15.2993,74.124
+Gujarat,Rogan Art,55691,12,2022,West,71893,22.2587,71.1924
+Haryana,Phag Dance,165286,12,2022,North,126375,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,308777,12,2022,North,218918,31.1048,77.1734
+Jharkhand,Sohrai Painting,161469,12,2022,East,261066,23.6102,85.2799
+Karnataka,Yakshagana,194932,12,2022,South,170327,15.3173,75.7139
+Kerala,Aranmula Kannadi,141849,12,2022,South,131306,10.8505,76.2711
+Madhya Pradesh,Bagh Print,167451,12,2022,Central,298982,23.4733,77.947
+Maharashtra,Paithani Sarees,225191,12,2022,West,458790,19.7515,75.7139
+Manipur,Phanek Weaving,63948,12,2022,Northeast,61655,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,37124,12,2022,Northeast,58989,25.467,91.3662
+Mizoram,Cheraw Dance,32600,12,2022,Northeast,21411,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,39501,12,2022,Northeast,64673,26.1584,94.5624
+Odisha,Pattachitra,201290,12,2022,East,109299,20.9517,85.0985
+Punjab,Phulkari Embroidery,121575,12,2022,North,88527,31.1471,75.3412
+Rajasthan,Ghoomar Dance,271498,12,2022,North,528644,27.0238,74.2179
+Sikkim,Thangka Painting,43540,12,2022,Northeast,63748,27.533,88.5122
+Tamil Nadu,Stone Carving,130859,12,2022,South,290544,11.1271,78.6569
+Telangana,Bidri Craft,112098,12,2022,South,121172,18.1124,79.0193
+Tripura,Hojagiri Dance,42390,12,2022,Northeast,60896,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,278530,12,2022,North,622500,26.8467,80.9462
+Uttarakhand,Choliya Dance,179487,12,2022,North,287995,30.0668,79.0193
+West Bengal,Patachitra,131967,12,2022,East,164975,22.9868,87.855
+Delhi,Kathak Dance,313478,12,2022,North,643922,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,107319,12,2022,North,45574,33.7782,76.5762
+Lakshadweep,Lava Dance,176123,12,2022,South,86709,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,134230,1,2023,South,251327,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,51759,1,2023,Northeast,60955,28.218,94.7278
+Assam,Bihu Dance,37853,1,2023,Northeast,29866,26.2006,92.9376
+Bihar,Madhubani Painting,60055,1,2023,East,135976,25.0961,85.3131
+Chhattisgarh,Godna Art,67703,1,2023,Central,148912,21.2787,81.8661
+Goa,Dekni Dance,235317,1,2023,West,166093,15.2993,74.124
+Gujarat,Garba,78501,1,2023,West,129087,22.2587,71.1924
+Haryana,Embroidery Craft,65429,1,2023,North,45783,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,98826,1,2023,North,170074,31.1048,77.1734
+Jharkhand,Chhau Dance,79260,1,2023,East,103287,23.6102,85.2799
+Karnataka,Bidri Ware,138247,1,2023,South,333730,15.3173,75.7139
+Kerala,Aranmula Kannadi,253589,1,2023,South,613712,10.8505,76.2711
+Madhya Pradesh,Bagh Print,91257,1,2023,Central,138359,23.4733,77.947
+Maharashtra,Warli Painting,185346,1,2023,West,130286,19.7515,75.7139
+Manipur,Phanek Weaving,34933,1,2023,Northeast,24808,24.6637,93.9063
+Meghalaya,Bamboo Craft,35169,1,2023,Northeast,46792,25.467,91.3662
+Mizoram,Puanchei Textiles,27798,1,2023,Northeast,38910,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,36477,1,2023,Northeast,26056,26.1584,94.5624
+Odisha,Applique Work,59149,1,2023,East,123947,20.9517,85.0985
+Punjab,Jutti Making,87810,1,2023,North,86238,31.1471,75.3412
+Rajasthan,Miniature Painting,240406,1,2023,North,249958,27.0238,74.2179
+Sikkim,Carpet Weaving,57010,1,2023,Northeast,27125,27.533,88.5122
+Tamil Nadu,Stone Carving,160853,1,2023,South,253305,11.1271,78.6569
+Telangana,Bidri Craft,177219,1,2023,South,223055,18.1124,79.0193
+Tripura,Risa Textile Weaving,60492,1,2023,Northeast,117079,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,87153,1,2023,North,47685,26.8467,80.9462
+Uttarakhand,Choliya Dance,153410,1,2023,North,248074,30.0668,79.0193
+West Bengal,Patachitra,197861,1,2023,East,321172,22.9868,87.855
+Delhi,Kathak Dance,105851,1,2023,North,176419,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,97933,1,2023,North,135979,33.7782,76.5762
+Lakshadweep,Shell Craft,158355,1,2023,South,167071,10.5667,72.6417
+Andhra Pradesh,Kalamkari,146059,2,2023,South,95493,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,51316,2,2023,Northeast,78731,28.218,94.7278
+Assam,Bihu Dance,70847,2,2023,Northeast,55966,26.2006,92.9376
+Bihar,Sujni Embroidery,115766,2,2023,East,204427,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,31252,2,2023,Central,68372,21.2787,81.8661
+Goa,Dekni Dance,175371,2,2023,West,232878,15.2993,74.124
+Gujarat,Patola Weaving,127662,2,2023,West,150391,22.2587,71.1924
+Haryana,Charpai Weaving,47873,2,2023,North,29561,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,71165,2,2023,North,91412,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,71908,2,2023,East,125049,23.6102,85.2799
+Karnataka,Bidri Ware,81134,2,2023,South,204565,15.3173,75.7139
+Kerala,Mohiniyattam,162861,2,2023,South,97676,10.8505,76.2711
+Madhya Pradesh,Bagh Print,118568,2,2023,Central,88902,23.4733,77.947
+Maharashtra,Warli Painting,156832,2,2023,West,293011,19.7515,75.7139
+Manipur,Phanek Weaving,33551,2,2023,Northeast,51517,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,40809,2,2023,Northeast,71155,25.467,91.3662
+Mizoram,Cheraw Dance,41629,2,2023,Northeast,72529,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,65167,2,2023,Northeast,25998,26.1584,94.5624
+Odisha,Odissi Dance,118762,2,2023,East,93950,20.9517,85.0985
+Punjab,Jutti Making,50583,2,2023,North,29242,31.1471,75.3412
+Rajasthan,Blue Pottery,69308,2,2023,North,68138,27.0238,74.2179
+Sikkim,Carpet Weaving,69013,2,2023,Northeast,88539,27.533,88.5122
+Tamil Nadu,Tanjore Painting,189182,2,2023,South,172526,11.1271,78.6569
+Telangana,Nirmal Paintings,163069,2,2023,South,175131,18.1124,79.0193
+Tripura,Bamboo Craft,92586,2,2023,Northeast,79918,23.9408,91.9882
+Uttar Pradesh,Chikankari,66489,2,2023,North,116255,26.8467,80.9462
+Uttarakhand,Aipan Art,118189,2,2023,North,118821,30.0668,79.0193
+West Bengal,Kantha Stitch,166505,2,2023,East,188473,22.9868,87.855
+Delhi,Meenakari Craft,184554,2,2023,North,321689,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,62492,2,2023,North,120075,33.7782,76.5762
+Lakshadweep,Shell Craft,136137,2,2023,South,84365,10.5667,72.6417
+Andhra Pradesh,Kalamkari,115707,3,2023,South,241540,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,64983,3,2023,Northeast,60341,28.218,94.7278
+Assam,Sattriya Dance,59781,3,2023,Northeast,40594,26.2006,92.9376
+Bihar,Madhubani Painting,50587,3,2023,East,20103,25.0961,85.3131
+Chhattisgarh,Godna Art,49861,3,2023,Central,73769,21.2787,81.8661
+Goa,Fugdi Dance,105235,3,2023,West,71323,15.2993,74.124
+Gujarat,Rogan Art,87051,3,2023,West,110726,22.2587,71.1924
+Haryana,Phag Dance,37084,3,2023,North,71911,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,61838,3,2023,North,99029,31.1048,77.1734
+Jharkhand,Chhau Dance,128544,3,2023,East,215298,23.6102,85.2799
+Karnataka,Yakshagana,176032,3,2023,South,399744,15.3173,75.7139
+Kerala,Mohiniyattam,109257,3,2023,South,165475,10.8505,76.2711
+Madhya Pradesh,Bagh Print,71099,3,2023,Central,113445,23.4733,77.947
+Maharashtra,Lavani Dance,65256,3,2023,West,57339,19.7515,75.7139
+Manipur,Manipuri Dance,37556,3,2023,Northeast,21986,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,50196,3,2023,Northeast,41992,25.467,91.3662
+Mizoram,Puanchei Textiles,54329,3,2023,Northeast,43291,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,67946,3,2023,Northeast,57742,26.1584,94.5624
+Odisha,Pattachitra,130069,3,2023,East,214598,20.9517,85.0985
+Punjab,Phulkari Embroidery,115714,3,2023,North,138537,31.1471,75.3412
+Rajasthan,Miniature Painting,222402,3,2023,North,315493,27.0238,74.2179
+Sikkim,Thangka Painting,165069,3,2023,Northeast,288920,27.533,88.5122
+Tamil Nadu,Bharatanatyam,177628,3,2023,South,331910,11.1271,78.6569
+Telangana,Nirmal Paintings,113220,3,2023,South,207788,18.1124,79.0193
+Tripura,Hojagiri Dance,113138,3,2023,Northeast,103894,23.9408,91.9882
+Uttar Pradesh,Chikankari,119916,3,2023,North,202493,26.8467,80.9462
+Uttarakhand,Choliya Dance,122914,3,2023,North,207977,30.0668,79.0193
+West Bengal,Durga Puja Art,94458,3,2023,East,143991,22.9868,87.855
+Delhi,Meenakari Craft,86889,3,2023,North,69249,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,123264,3,2023,North,112971,33.7782,76.5762
+Lakshadweep,Parichakali,94899,3,2023,South,131872,10.5667,72.6417
+Andhra Pradesh,Kalamkari,87152,4,2023,South,88518,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,92404,4,2023,Northeast,54430,28.218,94.7278
+Assam,Assam Silk Weaving,167703,4,2023,Northeast,316338,26.2006,92.9376
+Bihar,Madhubani Painting,73596,4,2023,East,70649,25.0961,85.3131
+Chhattisgarh,Godna Art,33454,4,2023,Central,58434,21.2787,81.8661
+Goa,Goan Lacework,90316,4,2023,West,139127,15.2993,74.124
+Gujarat,Garba,151635,4,2023,West,193650,22.2587,71.1924
+Haryana,Embroidery Craft,60722,4,2023,North,46196,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,148347,4,2023,North,181139,31.1048,77.1734
+Jharkhand,Sohrai Painting,72074,4,2023,East,129613,23.6102,85.2799
+Karnataka,Mysore Painting,171972,4,2023,South,117366,15.3173,75.7139
+Kerala,Mohiniyattam,187680,4,2023,South,304194,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,58655,4,2023,Central,47531,23.4733,77.947
+Maharashtra,Paithani Sarees,98007,4,2023,West,94204,19.7515,75.7139
+Manipur,Longpi Pottery,54802,4,2023,Northeast,82572,24.6637,93.9063
+Meghalaya,Nongkrem Dance,79185,4,2023,Northeast,99992,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,67502,4,2023,Northeast,78043,23.1645,92.9376
+Nagaland,Wood Carving,61840,4,2023,Northeast,112815,26.1584,94.5624
+Odisha,Odissi Dance,65218,4,2023,East,129332,20.9517,85.0985
+Punjab,Bhangra,59609,4,2023,North,31165,31.1471,75.3412
+Rajasthan,Blue Pottery,225004,4,2023,North,121111,27.0238,74.2179
+Sikkim,Mask Dance,33787,4,2023,Northeast,29375,27.533,88.5122
+Tamil Nadu,Bharatanatyam,148494,4,2023,South,153136,11.1271,78.6569
+Telangana,Bidri Craft,93803,4,2023,South,92360,18.1124,79.0193
+Tripura,Risa Textile Weaving,65288,4,2023,Northeast,44630,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,121826,4,2023,North,238043,26.8467,80.9462
+Uttarakhand,Ringal Craft,97063,4,2023,North,50369,30.0668,79.0193
+West Bengal,Kantha Stitch,84614,4,2023,East,67221,22.9868,87.855
+Delhi,Meenakari Craft,258759,4,2023,North,185332,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,130228,4,2023,North,224137,33.7782,76.5762
+Lakshadweep,Coral Craft,144285,4,2023,South,89913,10.5667,72.6417
+Andhra Pradesh,Kalamkari,71774,5,2023,South,54836,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,71348,5,2023,Northeast,45916,28.218,94.7278
+Assam,Bihu Dance,123290,5,2023,Northeast,175552,26.2006,92.9376
+Bihar,Madhubani Painting,50177,5,2023,East,52848,25.0961,85.3131
+Chhattisgarh,Panthi Dance,41765,5,2023,Central,84287,21.2787,81.8661
+Goa,Fugdi Dance,128992,5,2023,West,196560,15.2993,74.124
+Gujarat,Garba,95483,5,2023,West,98011,22.2587,71.1924
+Haryana,Charpai Weaving,66790,5,2023,North,75124,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,87837,5,2023,North,129337,31.1048,77.1734
+Jharkhand,Sohrai Painting,50970,5,2023,East,52702,23.6102,85.2799
+Karnataka,Bidri Ware,68206,5,2023,South,50662,15.3173,75.7139
+Kerala,Aranmula Kannadi,94301,5,2023,South,55504,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,38353,5,2023,Central,75118,23.4733,77.947
+Maharashtra,Lavani Dance,53338,5,2023,West,49880,19.7515,75.7139
+Manipur,Longpi Pottery,31106,5,2023,Northeast,51164,24.6637,93.9063
+Meghalaya,Nongkrem Dance,71447,5,2023,Northeast,58321,25.467,91.3662
+Mizoram,Cheraw Dance,81728,5,2023,Northeast,51884,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,74913,5,2023,Northeast,114629,26.1584,94.5624
+Odisha,Pattachitra,44301,5,2023,East,61109,20.9517,85.0985
+Punjab,Jutti Making,107359,5,2023,North,181779,31.1471,75.3412
+Rajasthan,Ghoomar Dance,149686,5,2023,North,125877,27.0238,74.2179
+Sikkim,Carpet Weaving,77847,5,2023,Northeast,60735,27.533,88.5122
+Tamil Nadu,Tanjore Painting,220554,5,2023,South,320116,11.1271,78.6569
+Telangana,Bidri Craft,51324,5,2023,South,37731,18.1124,79.0193
+Tripura,Bamboo Craft,84630,5,2023,Northeast,59084,23.9408,91.9882
+Uttar Pradesh,Chikankari,134117,5,2023,North,143690,26.8467,80.9462
+Uttarakhand,Ringal Craft,63447,5,2023,North,30340,30.0668,79.0193
+West Bengal,Durga Puja Art,77337,5,2023,East,97619,22.9868,87.855
+Delhi,Zardozi Work,160428,5,2023,North,93085,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,145065,5,2023,North,196079,33.7782,76.5762
+Lakshadweep,Lava Dance,82240,5,2023,South,64870,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,70986,6,2023,South,71908,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,112070,6,2023,Northeast,130599,28.218,94.7278
+Assam,Bihu Dance,107621,6,2023,Northeast,71038,26.2006,92.9376
+Bihar,Sujni Embroidery,53237,6,2023,East,122036,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,29549,6,2023,Central,41829,21.2787,81.8661
+Goa,Fugdi Dance,34771,6,2023,West,28446,15.2993,74.124
+Gujarat,Patola Weaving,109488,6,2023,West,142516,22.2587,71.1924
+Haryana,Embroidery Craft,90076,6,2023,North,94407,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,103500,6,2023,North,106737,31.1048,77.1734
+Jharkhand,Sohrai Painting,59738,6,2023,East,100523,23.6102,85.2799
+Karnataka,Yakshagana,87769,6,2023,South,111387,15.3173,75.7139
+Kerala,Aranmula Kannadi,117552,6,2023,South,251310,10.8505,76.2711
+Madhya Pradesh,Bagh Print,57366,6,2023,Central,39669,23.4733,77.947
+Maharashtra,Paithani Sarees,61656,6,2023,West,39923,19.7515,75.7139
+Manipur,Longpi Pottery,82123,6,2023,Northeast,98822,24.6637,93.9063
+Meghalaya,Nongkrem Dance,88462,6,2023,Northeast,78282,25.467,91.3662
+Mizoram,Puanchei Textiles,59258,6,2023,Northeast,116082,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,167191,6,2023,Northeast,165428,26.1584,94.5624
+Odisha,Pattachitra,55489,6,2023,East,85819,20.9517,85.0985
+Punjab,Bhangra,108102,6,2023,North,214799,31.1471,75.3412
+Rajasthan,Ghoomar Dance,242784,6,2023,North,371821,27.0238,74.2179
+Sikkim,Thangka Painting,106480,6,2023,Northeast,188023,27.533,88.5122
+Tamil Nadu,Bharatanatyam,89924,6,2023,South,155066,11.1271,78.6569
+Telangana,Perini Shivatandavam,99028,6,2023,South,218373,18.1124,79.0193
+Tripura,Bamboo Craft,179989,6,2023,Northeast,292771,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,175478,6,2023,North,165857,26.8467,80.9462
+Uttarakhand,Choliya Dance,119107,6,2023,North,192984,30.0668,79.0193
+West Bengal,Kantha Stitch,55614,6,2023,East,23401,22.9868,87.855
+Delhi,Zardozi Work,136424,6,2023,North,97707,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,121775,6,2023,North,161775,33.7782,76.5762
+Lakshadweep,Shell Craft,65400,6,2023,South,89989,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,85413,7,2023,South,128267,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,83082,7,2023,Northeast,80936,28.218,94.7278
+Assam,Assam Silk Weaving,95429,7,2023,Northeast,103669,26.2006,92.9376
+Bihar,Manjusha Art,64559,7,2023,East,108973,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,50673,7,2023,Central,88859,21.2787,81.8661
+Goa,Fugdi Dance,171817,7,2023,West,221593,15.2993,74.124
+Gujarat,Patola Weaving,88010,7,2023,West,56083,22.2587,71.1924
+Haryana,Phag Dance,86410,7,2023,North,161017,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,97088,7,2023,North,146829,31.1048,77.1734
+Jharkhand,Sohrai Painting,67210,7,2023,East,116795,23.6102,85.2799
+Karnataka,Bidri Ware,57854,7,2023,South,67668,15.3173,75.7139
+Kerala,Kathakali,186169,7,2023,South,462717,10.8505,76.2711
+Madhya Pradesh,Gond Art,74012,7,2023,Central,51296,23.4733,77.947
+Maharashtra,Paithani Sarees,172784,7,2023,West,78352,19.7515,75.7139
+Manipur,Phanek Weaving,65235,7,2023,Northeast,56963,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,55810,7,2023,Northeast,26791,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,54933,7,2023,Northeast,54430,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,58202,7,2023,Northeast,35325,26.1584,94.5624
+Odisha,Odissi Dance,93682,7,2023,East,150314,20.9517,85.0985
+Punjab,Jutti Making,71955,7,2023,North,47713,31.1471,75.3412
+Rajasthan,Ghoomar Dance,97412,7,2023,North,112852,27.0238,74.2179
+Sikkim,Mask Dance,85086,7,2023,Northeast,135854,27.533,88.5122
+Tamil Nadu,Tanjore Painting,54743,7,2023,South,40191,11.1271,78.6569
+Telangana,Perini Shivatandavam,69652,7,2023,South,118805,18.1124,79.0193
+Tripura,Risa Textile Weaving,44060,7,2023,Northeast,68252,23.9408,91.9882
+Uttar Pradesh,Chikankari,106961,7,2023,North,115262,26.8467,80.9462
+Uttarakhand,Aipan Art,143833,7,2023,North,145975,30.0668,79.0193
+West Bengal,Patachitra,68627,7,2023,East,46058,22.9868,87.855
+Delhi,Zardozi Work,64450,7,2023,North,45479,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,71397,7,2023,North,111847,33.7782,76.5762
+Lakshadweep,Parichakali,70298,7,2023,South,119018,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,65413,8,2023,South,97741,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,18123,8,2023,Northeast,14169,28.218,94.7278
+Assam,Assam Silk Weaving,60989,8,2023,Northeast,121392,26.2006,92.9376
+Bihar,Sujni Embroidery,88374,8,2023,East,84958,25.0961,85.3131
+Chhattisgarh,Panthi Dance,60331,8,2023,Central,49635,21.2787,81.8661
+Goa,Fugdi Dance,169919,8,2023,West,345750,15.2993,74.124
+Gujarat,Garba,127554,8,2023,West,75190,22.2587,71.1924
+Haryana,Phag Dance,54163,8,2023,North,44933,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,98372,8,2023,North,182075,31.1048,77.1734
+Jharkhand,Chhau Dance,96169,8,2023,East,174408,23.6102,85.2799
+Karnataka,Yakshagana,116206,8,2023,South,107889,15.3173,75.7139
+Kerala,Aranmula Kannadi,150375,8,2023,South,127543,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,103564,8,2023,Central,55438,23.4733,77.947
+Maharashtra,Warli Painting,131016,8,2023,West,83828,19.7515,75.7139
+Manipur,Longpi Pottery,50806,8,2023,Northeast,114346,24.6637,93.9063
+Meghalaya,Nongkrem Dance,54863,8,2023,Northeast,63466,25.467,91.3662
+Mizoram,Cheraw Dance,41579,8,2023,Northeast,67795,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,35892,8,2023,Northeast,15294,26.1584,94.5624
+Odisha,Pattachitra,122665,8,2023,East,59439,20.9517,85.0985
+Punjab,Bhangra,63089,8,2023,North,67805,31.1471,75.3412
+Rajasthan,Ghoomar Dance,146885,8,2023,North,77361,27.0238,74.2179
+Sikkim,Carpet Weaving,65327,8,2023,Northeast,56884,27.533,88.5122
+Tamil Nadu,Tanjore Painting,140352,8,2023,South,201187,11.1271,78.6569
+Telangana,Bidri Craft,153082,8,2023,South,126984,18.1124,79.0193
+Tripura,Risa Textile Weaving,54478,8,2023,Northeast,80318,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,76527,8,2023,North,80784,26.8467,80.9462
+Uttarakhand,Aipan Art,62987,8,2023,North,81388,30.0668,79.0193
+West Bengal,Durga Puja Art,133158,8,2023,East,186010,22.9868,87.855
+Delhi,Zardozi Work,93268,8,2023,North,147612,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,72169,8,2023,North,127781,33.7782,76.5762
+Lakshadweep,Parichakali,87079,8,2023,South,135743,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,96533,9,2023,South,96260,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,47233,9,2023,Northeast,105124,28.218,94.7278
+Assam,Sattriya Dance,55890,9,2023,Northeast,86637,26.2006,92.9376
+Bihar,Sujni Embroidery,80636,9,2023,East,120447,25.0961,85.3131
+Chhattisgarh,Godna Art,79778,9,2023,Central,48901,21.2787,81.8661
+Goa,Dekni Dance,103441,9,2023,West,59577,15.2993,74.124
+Gujarat,Patola Weaving,177848,9,2023,West,127878,22.2587,71.1924
+Haryana,Phag Dance,44275,9,2023,North,55568,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,80503,9,2023,North,64800,31.1048,77.1734
+Jharkhand,Chhau Dance,99058,9,2023,East,50662,23.6102,85.2799
+Karnataka,Yakshagana,185964,9,2023,South,226823,15.3173,75.7139
+Kerala,Mohiniyattam,63063,9,2023,South,36263,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,129832,9,2023,Central,97878,23.4733,77.947
+Maharashtra,Lavani Dance,240386,9,2023,West,219498,19.7515,75.7139
+Manipur,Manipuri Dance,43333,9,2023,Northeast,71940,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,74454,9,2023,Northeast,103401,25.467,91.3662
+Mizoram,Cheraw Dance,74180,9,2023,Northeast,122385,23.1645,92.9376
+Nagaland,Wood Carving,75017,9,2023,Northeast,62401,26.1584,94.5624
+Odisha,Pattachitra,95153,9,2023,East,133554,20.9517,85.0985
+Punjab,Jutti Making,101523,9,2023,North,72550,31.1471,75.3412
+Rajasthan,Miniature Painting,145695,9,2023,North,218265,27.0238,74.2179
+Sikkim,Carpet Weaving,143089,9,2023,Northeast,191697,27.533,88.5122
+Tamil Nadu,Stone Carving,128926,9,2023,South,262470,11.1271,78.6569
+Telangana,Nirmal Paintings,53190,9,2023,South,51011,18.1124,79.0193
+Tripura,Hojagiri Dance,50078,9,2023,Northeast,40068,23.9408,91.9882
+Uttar Pradesh,Chikankari,124180,9,2023,North,154958,26.8467,80.9462
+Uttarakhand,Choliya Dance,60427,9,2023,North,78381,30.0668,79.0193
+West Bengal,Patachitra,181956,9,2023,East,234067,22.9868,87.855
+Delhi,Kathak Dance,84489,9,2023,North,155452,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,103666,9,2023,North,200593,33.7782,76.5762
+Lakshadweep,Coral Craft,133130,9,2023,South,143181,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,129616,10,2023,South,188618,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,88199,10,2023,Northeast,63885,28.218,94.7278
+Assam,Bihu Dance,110594,10,2023,Northeast,100380,26.2006,92.9376
+Bihar,Madhubani Painting,130861,10,2023,East,125644,25.0961,85.3131
+Chhattisgarh,Panthi Dance,120525,10,2023,Central,94602,21.2787,81.8661
+Goa,Fugdi Dance,189446,10,2023,West,260133,15.2993,74.124
+Gujarat,Garba,182174,10,2023,West,320803,22.2587,71.1924
+Haryana,Phag Dance,138550,10,2023,North,168539,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,91745,10,2023,North,65770,31.1048,77.1734
+Jharkhand,Chhau Dance,90380,10,2023,East,44706,23.6102,85.2799
+Karnataka,Mysore Painting,110634,10,2023,South,102530,15.3173,75.7139
+Kerala,Aranmula Kannadi,187495,10,2023,South,270464,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,62495,10,2023,Central,37456,23.4733,77.947
+Maharashtra,Lavani Dance,206165,10,2023,West,146906,19.7515,75.7139
+Manipur,Longpi Pottery,128023,10,2023,Northeast,109670,24.6637,93.9063
+Meghalaya,Nongkrem Dance,76799,10,2023,Northeast,168304,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,77498,10,2023,Northeast,154376,23.1645,92.9376
+Nagaland,Wood Carving,33140,10,2023,Northeast,15987,26.1584,94.5624
+Odisha,Odissi Dance,123777,10,2023,East,159924,20.9517,85.0985
+Punjab,Bhangra,33942,10,2023,North,23421,31.1471,75.3412
+Rajasthan,Ghoomar Dance,261663,10,2023,North,414713,27.0238,74.2179
+Sikkim,Carpet Weaving,56720,10,2023,Northeast,66792,27.533,88.5122
+Tamil Nadu,Stone Carving,206443,10,2023,South,218492,11.1271,78.6569
+Telangana,Bidri Craft,171237,10,2023,South,359573,18.1124,79.0193
+Tripura,Hojagiri Dance,65584,10,2023,Northeast,122981,23.9408,91.9882
+Uttar Pradesh,Chikankari,172884,10,2023,North,305178,26.8467,80.9462
+Uttarakhand,Aipan Art,134730,10,2023,North,115131,30.0668,79.0193
+West Bengal,Kantha Stitch,263195,10,2023,East,291421,22.9868,87.855
+Delhi,Zardozi Work,118556,10,2023,North,80097,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,96337,10,2023,North,74862,33.7782,76.5762
+Lakshadweep,Coral Craft,80008,10,2023,South,123940,10.5667,72.6417
+Andhra Pradesh,Kalamkari,232092,11,2023,South,423702,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,47977,11,2023,Northeast,55657,28.218,94.7278
+Assam,Assam Silk Weaving,56560,11,2023,Northeast,58763,26.2006,92.9376
+Bihar,Madhubani Painting,98810,11,2023,East,198399,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,125437,11,2023,Central,208106,21.2787,81.8661
+Goa,Fugdi Dance,178628,11,2023,West,415994,15.2993,74.124
+Gujarat,Patola Weaving,112354,11,2023,West,114659,22.2587,71.1924
+Haryana,Phag Dance,66109,11,2023,North,84641,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,210412,11,2023,North,200616,31.1048,77.1734
+Jharkhand,Sohrai Painting,54962,11,2023,East,114842,23.6102,85.2799
+Karnataka,Mysore Painting,322372,11,2023,South,490724,15.3173,75.7139
+Kerala,Aranmula Kannadi,114822,11,2023,South,187228,10.8505,76.2711
+Madhya Pradesh,Gond Art,154840,11,2023,Central,244185,23.4733,77.947
+Maharashtra,Lavani Dance,127390,11,2023,West,154710,19.7515,75.7139
+Manipur,Manipuri Dance,51763,11,2023,Northeast,87496,24.6637,93.9063
+Meghalaya,Nongkrem Dance,71569,11,2023,Northeast,152048,25.467,91.3662
+Mizoram,Puanchei Textiles,54170,11,2023,Northeast,117621,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,52889,11,2023,Northeast,103572,26.1584,94.5624
+Odisha,Pattachitra,147936,11,2023,East,150715,20.9517,85.0985
+Punjab,Phulkari Embroidery,214853,11,2023,North,399435,31.1471,75.3412
+Rajasthan,Blue Pottery,109369,11,2023,North,153693,27.0238,74.2179
+Sikkim,Thangka Painting,54519,11,2023,Northeast,34719,27.533,88.5122
+Tamil Nadu,Tanjore Painting,231830,11,2023,South,331516,11.1271,78.6569
+Telangana,Nirmal Paintings,177455,11,2023,South,216692,18.1124,79.0193
+Tripura,Bamboo Craft,75926,11,2023,Northeast,91764,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,251645,11,2023,North,341999,26.8467,80.9462
+Uttarakhand,Choliya Dance,237177,11,2023,North,327209,30.0668,79.0193
+West Bengal,Durga Puja Art,93111,11,2023,East,101800,22.9868,87.855
+Delhi,Meenakari Craft,215431,11,2023,North,422865,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,247402,11,2023,North,552943,33.7782,76.5762
+Lakshadweep,Shell Craft,170045,11,2023,South,151159,10.5667,72.6417
+Andhra Pradesh,Kalamkari,158446,12,2023,South,190533,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,28403,12,2023,Northeast,22914,28.218,94.7278
+Assam,Sattriya Dance,51704,12,2023,Northeast,57037,26.2006,92.9376
+Bihar,Madhubani Painting,100133,12,2023,East,213338,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,115915,12,2023,Central,141911,21.2787,81.8661
+Goa,Fugdi Dance,215083,12,2023,West,338764,15.2993,74.124
+Gujarat,Garba,118736,12,2023,West,188688,22.2587,71.1924
+Haryana,Charpai Weaving,127416,12,2023,North,129653,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,216867,12,2023,North,461671,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,80422,12,2023,East,27764,23.6102,85.2799
+Karnataka,Yakshagana,340050,12,2023,South,419409,15.3173,75.7139
+Kerala,Kathakali,156153,12,2023,South,236015,10.8505,76.2711
+Madhya Pradesh,Bagh Print,218533,12,2023,Central,186322,23.4733,77.947
+Maharashtra,Lavani Dance,251369,12,2023,West,407752,19.7515,75.7139
+Manipur,Phanek Weaving,61099,12,2023,Northeast,67108,24.6637,93.9063
+Meghalaya,Nongkrem Dance,79803,12,2023,Northeast,89415,25.467,91.3662
+Mizoram,Puanchei Textiles,23503,12,2023,Northeast,26346,23.1645,92.9376
+Nagaland,Wood Carving,46213,12,2023,Northeast,116544,26.1584,94.5624
+Odisha,Odissi Dance,151700,12,2023,East,269142,20.9517,85.0985
+Punjab,Phulkari Embroidery,111076,12,2023,North,111786,31.1471,75.3412
+Rajasthan,Ghoomar Dance,308699,12,2023,North,642685,27.0238,74.2179
+Sikkim,Carpet Weaving,84997,12,2023,Northeast,78172,27.533,88.5122
+Tamil Nadu,Tanjore Painting,172259,12,2023,South,135682,11.1271,78.6569
+Telangana,Nirmal Paintings,184558,12,2023,South,307610,18.1124,79.0193
+Tripura,Hojagiri Dance,57293,12,2023,Northeast,44775,23.9408,91.9882
+Uttar Pradesh,Chikankari,153898,12,2023,North,166105,26.8467,80.9462
+Uttarakhand,Choliya Dance,248742,12,2023,North,236493,30.0668,79.0193
+West Bengal,Kantha Stitch,60394,12,2023,East,83747,22.9868,87.855
+Delhi,Zardozi Work,207543,12,2023,North,201668,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,177876,12,2023,North,258680,33.7782,76.5762
+Lakshadweep,Lava Dance,219496,12,2023,South,111664,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,184481,1,2024,South,232266,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,72423,1,2024,Northeast,92601,28.218,94.7278
+Assam,Sattriya Dance,47407,1,2024,Northeast,56628,26.2006,92.9376
+Bihar,Sujni Embroidery,103050,1,2024,East,98022,25.0961,85.3131
+Chhattisgarh,Godna Art,109258,1,2024,Central,54906,21.2787,81.8661
+Goa,Goan Lacework,231383,1,2024,West,187263,15.2993,74.124
+Gujarat,Rogan Art,165709,1,2024,West,144794,22.2587,71.1924
+Haryana,Charpai Weaving,50171,1,2024,North,48550,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,99566,1,2024,North,168329,31.1048,77.1734
+Jharkhand,Sohrai Painting,106508,1,2024,East,48342,23.6102,85.2799
+Karnataka,Yakshagana,165326,1,2024,South,256159,15.3173,75.7139
+Kerala,Mohiniyattam,213662,1,2024,South,242121,10.8505,76.2711
+Madhya Pradesh,Bagh Print,169030,1,2024,Central,84159,23.4733,77.947
+Maharashtra,Paithani Sarees,186327,1,2024,West,269598,19.7515,75.7139
+Manipur,Manipuri Dance,41744,1,2024,Northeast,29663,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,57923,1,2024,Northeast,91001,25.467,91.3662
+Mizoram,Puanchei Textiles,59950,1,2024,Northeast,105229,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,57189,1,2024,Northeast,50515,26.1584,94.5624
+Odisha,Pattachitra,155332,1,2024,East,171114,20.9517,85.0985
+Punjab,Phulkari Embroidery,89707,1,2024,North,168946,31.1471,75.3412
+Rajasthan,Blue Pottery,192653,1,2024,North,426560,27.0238,74.2179
+Sikkim,Mask Dance,47794,1,2024,Northeast,26308,27.533,88.5122
+Tamil Nadu,Bharatanatyam,230637,1,2024,South,213615,11.1271,78.6569
+Telangana,Nirmal Paintings,187624,1,2024,South,114548,18.1124,79.0193
+Tripura,Hojagiri Dance,54603,1,2024,Northeast,104031,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,286457,1,2024,North,415792,26.8467,80.9462
+Uttarakhand,Choliya Dance,75691,1,2024,North,162382,30.0668,79.0193
+West Bengal,Patachitra,147410,1,2024,East,174495,22.9868,87.855
+Delhi,Meenakari Craft,191627,1,2024,North,388795,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,71462,1,2024,North,58665,33.7782,76.5762
+Lakshadweep,Coral Craft,301999,1,2024,South,218881,10.5667,72.6417
+Andhra Pradesh,Kalamkari,136703,2,2024,South,264704,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,131185,2,2024,Northeast,172126,28.218,94.7278
+Assam,Bihu Dance,30891,2,2024,Northeast,34639,26.2006,92.9376
+Bihar,Madhubani Painting,88640,2,2024,East,100223,25.0961,85.3131
+Chhattisgarh,Godna Art,92841,2,2024,Central,130183,21.2787,81.8661
+Goa,Dekni Dance,149793,2,2024,West,339661,15.2993,74.124
+Gujarat,Rogan Art,261010,2,2024,West,158014,22.2587,71.1924
+Haryana,Embroidery Craft,54500,2,2024,North,88768,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,116901,2,2024,North,86108,31.1048,77.1734
+Jharkhand,Sohrai Painting,65684,2,2024,East,102110,23.6102,85.2799
+Karnataka,Yakshagana,187252,2,2024,South,167775,15.3173,75.7139
+Kerala,Mohiniyattam,178621,2,2024,South,119058,10.8505,76.2711
+Madhya Pradesh,Bagh Print,69964,2,2024,Central,117534,23.4733,77.947
+Maharashtra,Warli Painting,118411,2,2024,West,95972,19.7515,75.7139
+Manipur,Longpi Pottery,50272,2,2024,Northeast,73134,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,56599,2,2024,Northeast,22818,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,49773,2,2024,Northeast,68260,23.1645,92.9376
+Nagaland,Wood Carving,65769,2,2024,Northeast,55866,26.1584,94.5624
+Odisha,Pattachitra,121128,2,2024,East,44339,20.9517,85.0985
+Punjab,Jutti Making,43583,2,2024,North,42919,31.1471,75.3412
+Rajasthan,Blue Pottery,243429,2,2024,North,309265,27.0238,74.2179
+Sikkim,Thangka Painting,104167,2,2024,Northeast,73558,27.533,88.5122
+Tamil Nadu,Tanjore Painting,130528,2,2024,South,70969,11.1271,78.6569
+Telangana,Nirmal Paintings,125643,2,2024,South,63597,18.1124,79.0193
+Tripura,Risa Textile Weaving,57039,2,2024,Northeast,38094,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,95310,2,2024,North,89760,26.8467,80.9462
+Uttarakhand,Choliya Dance,121552,2,2024,North,319154,30.0668,79.0193
+West Bengal,Durga Puja Art,90443,2,2024,East,164357,22.9868,87.855
+Delhi,Zardozi Work,160176,2,2024,North,208863,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,84957,2,2024,North,133844,33.7782,76.5762
+Lakshadweep,Lava Dance,172295,2,2024,South,285161,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,221691,3,2024,South,313973,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,63563,3,2024,Northeast,64715,28.218,94.7278
+Assam,Sattriya Dance,117165,3,2024,Northeast,124758,26.2006,92.9376
+Bihar,Madhubani Painting,67260,3,2024,East,45479,25.0961,85.3131
+Chhattisgarh,Panthi Dance,42286,3,2024,Central,70813,21.2787,81.8661
+Goa,Dekni Dance,136089,3,2024,West,97915,15.2993,74.124
+Gujarat,Rogan Art,136243,3,2024,West,164341,22.2587,71.1924
+Haryana,Phag Dance,116847,3,2024,North,68969,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,303451,3,2024,North,480686,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,78282,3,2024,East,108684,23.6102,85.2799
+Karnataka,Mysore Painting,243864,3,2024,South,246084,15.3173,75.7139
+Kerala,Kathakali,157349,3,2024,South,120577,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,97874,3,2024,Central,188578,23.4733,77.947
+Maharashtra,Warli Painting,138514,3,2024,West,154790,19.7515,75.7139
+Manipur,Manipuri Dance,104985,3,2024,Northeast,94605,24.6637,93.9063
+Meghalaya,Nongkrem Dance,66262,3,2024,Northeast,106257,25.467,91.3662
+Mizoram,Cheraw Dance,77956,3,2024,Northeast,31002,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,68475,3,2024,Northeast,131611,26.1584,94.5624
+Odisha,Applique Work,238912,3,2024,East,130409,20.9517,85.0985
+Punjab,Phulkari Embroidery,110670,3,2024,North,103735,31.1471,75.3412
+Rajasthan,Miniature Painting,176302,3,2024,North,80086,27.0238,74.2179
+Sikkim,Mask Dance,105520,3,2024,Northeast,185684,27.533,88.5122
+Tamil Nadu,Tanjore Painting,278905,3,2024,South,509029,11.1271,78.6569
+Telangana,Nirmal Paintings,152891,3,2024,South,332650,18.1124,79.0193
+Tripura,Risa Textile Weaving,70089,3,2024,Northeast,130732,23.9408,91.9882
+Uttar Pradesh,Chikankari,94600,3,2024,North,155552,26.8467,80.9462
+Uttarakhand,Ringal Craft,193310,3,2024,North,176802,30.0668,79.0193
+West Bengal,Durga Puja Art,165904,3,2024,East,164632,22.9868,87.855
+Delhi,Kathak Dance,155263,3,2024,North,179392,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,79109,3,2024,North,69463,33.7782,76.5762
+Lakshadweep,Coral Craft,103891,3,2024,South,73866,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,79971,4,2024,South,69100,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,66037,4,2024,Northeast,103022,28.218,94.7278
+Assam,Assam Silk Weaving,225430,4,2024,Northeast,383995,26.2006,92.9376
+Bihar,Sujni Embroidery,77077,4,2024,East,74077,25.0961,85.3131
+Chhattisgarh,Panthi Dance,57153,4,2024,Central,50176,21.2787,81.8661
+Goa,Dekni Dance,91281,4,2024,West,67319,15.2993,74.124
+Gujarat,Rogan Art,71030,4,2024,West,104747,22.2587,71.1924
+Haryana,Charpai Weaving,92589,4,2024,North,164974,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,105638,4,2024,North,183638,31.1048,77.1734
+Jharkhand,Sohrai Painting,69001,4,2024,East,97976,23.6102,85.2799
+Karnataka,Bidri Ware,157279,4,2024,South,255673,15.3173,75.7139
+Kerala,Mohiniyattam,180463,4,2024,South,201474,10.8505,76.2711
+Madhya Pradesh,Bagh Print,60705,4,2024,Central,48895,23.4733,77.947
+Maharashtra,Paithani Sarees,150300,4,2024,West,95698,19.7515,75.7139
+Manipur,Manipuri Dance,113181,4,2024,Northeast,77258,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,140625,4,2024,Northeast,218091,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,67763,4,2024,Northeast,145100,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,108921,4,2024,Northeast,111951,26.1584,94.5624
+Odisha,Odissi Dance,109933,4,2024,East,262820,20.9517,85.0985
+Punjab,Phulkari Embroidery,166421,4,2024,North,103264,31.1471,75.3412
+Rajasthan,Blue Pottery,167327,4,2024,North,413644,27.0238,74.2179
+Sikkim,Thangka Painting,101023,4,2024,Northeast,225420,27.533,88.5122
+Tamil Nadu,Stone Carving,54238,4,2024,South,51832,11.1271,78.6569
+Telangana,Perini Shivatandavam,104704,4,2024,South,115334,18.1124,79.0193
+Tripura,Risa Textile Weaving,203924,4,2024,Northeast,256703,23.9408,91.9882
+Uttar Pradesh,Chikankari,62056,4,2024,North,73098,26.8467,80.9462
+Uttarakhand,Choliya Dance,159568,4,2024,North,224387,30.0668,79.0193
+West Bengal,Durga Puja Art,156176,4,2024,East,135459,22.9868,87.855
+Delhi,Kathak Dance,165236,4,2024,North,96222,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,207898,4,2024,North,377583,33.7782,76.5762
+Lakshadweep,Lava Dance,97860,4,2024,South,54363,10.5667,72.6417
+Andhra Pradesh,Kalamkari,87343,5,2024,South,95869,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,83677,5,2024,Northeast,55623,28.218,94.7278
+Assam,Assam Silk Weaving,115707,5,2024,Northeast,55008,26.2006,92.9376
+Bihar,Madhubani Painting,78674,5,2024,East,154802,25.0961,85.3131
+Chhattisgarh,Godna Art,39471,5,2024,Central,53213,21.2787,81.8661
+Goa,Dekni Dance,80755,5,2024,West,117937,15.2993,74.124
+Gujarat,Rogan Art,102012,5,2024,West,135928,22.2587,71.1924
+Haryana,Charpai Weaving,101927,5,2024,North,113920,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,203568,5,2024,North,228734,31.1048,77.1734
+Jharkhand,Chhau Dance,62807,5,2024,East,36976,23.6102,85.2799
+Karnataka,Bidri Ware,61051,5,2024,South,106856,15.3173,75.7139
+Kerala,Kathakali,140016,5,2024,South,210955,10.8505,76.2711
+Madhya Pradesh,Gond Art,43812,5,2024,Central,29323,23.4733,77.947
+Maharashtra,Warli Painting,118057,5,2024,West,71874,19.7515,75.7139
+Manipur,Manipuri Dance,83612,5,2024,Northeast,221510,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,167033,5,2024,Northeast,356137,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,101001,5,2024,Northeast,80826,23.1645,92.9376
+Nagaland,Wood Carving,87529,5,2024,Northeast,77666,26.1584,94.5624
+Odisha,Applique Work,26217,5,2024,East,14221,20.9517,85.0985
+Punjab,Bhangra,65870,5,2024,North,114702,31.1471,75.3412
+Rajasthan,Blue Pottery,348756,5,2024,North,703118,27.0238,74.2179
+Sikkim,Mask Dance,184667,5,2024,Northeast,208418,27.533,88.5122
+Tamil Nadu,Bharatanatyam,98875,5,2024,South,131580,11.1271,78.6569
+Telangana,Nirmal Paintings,101116,5,2024,South,137921,18.1124,79.0193
+Tripura,Risa Textile Weaving,240700,5,2024,Northeast,230041,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,245558,5,2024,North,223749,26.8467,80.9462
+Uttarakhand,Ringal Craft,202908,5,2024,North,193924,30.0668,79.0193
+West Bengal,Durga Puja Art,76111,5,2024,East,55287,22.9868,87.855
+Delhi,Zardozi Work,245169,5,2024,North,127871,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,183284,5,2024,North,81752,33.7782,76.5762
+Lakshadweep,Shell Craft,63432,5,2024,South,81363,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,78776,6,2024,South,65102,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,128645,6,2024,Northeast,106463,28.218,94.7278
+Assam,Assam Silk Weaving,113150,6,2024,Northeast,200118,26.2006,92.9376
+Bihar,Sujni Embroidery,74256,6,2024,East,117658,25.0961,85.3131
+Chhattisgarh,Panthi Dance,33300,6,2024,Central,39309,21.2787,81.8661
+Goa,Fugdi Dance,124832,6,2024,West,143874,15.2993,74.124
+Gujarat,Garba,112018,6,2024,West,133007,22.2587,71.1924
+Haryana,Phag Dance,71316,6,2024,North,119587,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,241306,6,2024,North,260339,31.1048,77.1734
+Jharkhand,Chhau Dance,55242,6,2024,East,68116,23.6102,85.2799
+Karnataka,Mysore Painting,96462,6,2024,South,160485,15.3173,75.7139
+Kerala,Mohiniyattam,166461,6,2024,South,237168,10.8505,76.2711
+Madhya Pradesh,Bagh Print,42267,6,2024,Central,40827,23.4733,77.947
+Maharashtra,Warli Painting,78455,6,2024,West,90415,19.7515,75.7139
+Manipur,Phanek Weaving,126702,6,2024,Northeast,53889,24.6637,93.9063
+Meghalaya,Bamboo Craft,126381,6,2024,Northeast,134337,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,70852,6,2024,Northeast,80460,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,116008,6,2024,Northeast,190769,26.1584,94.5624
+Odisha,Odissi Dance,69000,6,2024,East,109181,20.9517,85.0985
+Punjab,Phulkari Embroidery,137259,6,2024,North,279051,31.1471,75.3412
+Rajasthan,Miniature Painting,201648,6,2024,North,91548,27.0238,74.2179
+Sikkim,Mask Dance,218238,6,2024,Northeast,164248,27.533,88.5122
+Tamil Nadu,Bharatanatyam,152065,6,2024,South,340094,11.1271,78.6569
+Telangana,Perini Shivatandavam,57688,6,2024,South,88918,18.1124,79.0193
+Tripura,Hojagiri Dance,77653,6,2024,Northeast,56142,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,254626,6,2024,North,315157,26.8467,80.9462
+Uttarakhand,Ringal Craft,215769,6,2024,North,407085,30.0668,79.0193
+West Bengal,Patachitra,65354,6,2024,East,123532,22.9868,87.855
+Delhi,Zardozi Work,147221,6,2024,North,98209,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,156708,6,2024,North,234629,33.7782,76.5762
+Lakshadweep,Shell Craft,130199,6,2024,South,144573,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,64851,7,2024,South,85378,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,83353,7,2024,Northeast,63429,28.218,94.7278
+Assam,Bihu Dance,179256,7,2024,Northeast,120342,26.2006,92.9376
+Bihar,Madhubani Painting,61373,7,2024,East,43790,25.0961,85.3131
+Chhattisgarh,Panthi Dance,50129,7,2024,Central,58533,21.2787,81.8661
+Goa,Goan Lacework,196811,7,2024,West,99378,15.2993,74.124
+Gujarat,Rogan Art,160524,7,2024,West,279100,22.2587,71.1924
+Haryana,Phag Dance,46876,7,2024,North,44152,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,57954,7,2024,North,120425,31.1048,77.1734
+Jharkhand,Chhau Dance,92173,7,2024,East,53962,23.6102,85.2799
+Karnataka,Mysore Painting,187690,7,2024,South,108594,15.3173,75.7139
+Kerala,Kathakali,142363,7,2024,South,158319,10.8505,76.2711
+Madhya Pradesh,Bagh Print,108584,7,2024,Central,37117,23.4733,77.947
+Maharashtra,Paithani Sarees,186683,7,2024,West,350247,19.7515,75.7139
+Manipur,Manipuri Dance,46266,7,2024,Northeast,81396,24.6637,93.9063
+Meghalaya,Nongkrem Dance,74564,7,2024,Northeast,102908,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,44262,7,2024,Northeast,23104,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,117095,7,2024,Northeast,266898,26.1584,94.5624
+Odisha,Odissi Dance,109644,7,2024,East,78177,20.9517,85.0985
+Punjab,Phulkari Embroidery,76499,7,2024,North,49803,31.1471,75.3412
+Rajasthan,Miniature Painting,84467,7,2024,North,85733,27.0238,74.2179
+Sikkim,Thangka Painting,50432,7,2024,Northeast,86184,27.533,88.5122
+Tamil Nadu,Stone Carving,160129,7,2024,South,279958,11.1271,78.6569
+Telangana,Perini Shivatandavam,48913,7,2024,South,92785,18.1124,79.0193
+Tripura,Hojagiri Dance,41873,7,2024,Northeast,56287,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,58786,7,2024,North,36206,26.8467,80.9462
+Uttarakhand,Aipan Art,166541,7,2024,North,226980,30.0668,79.0193
+West Bengal,Kantha Stitch,150186,7,2024,East,102787,22.9868,87.855
+Delhi,Zardozi Work,170611,7,2024,North,149967,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,110784,7,2024,North,91858,33.7782,76.5762
+Lakshadweep,Lava Dance,143296,7,2024,South,284179,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,180636,8,2024,South,254843,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,56157,8,2024,Northeast,74621,28.218,94.7278
+Assam,Assam Silk Weaving,75996,8,2024,Northeast,104501,26.2006,92.9376
+Bihar,Sujni Embroidery,79552,8,2024,East,52718,25.0961,85.3131
+Chhattisgarh,Panthi Dance,67431,8,2024,Central,125453,21.2787,81.8661
+Goa,Fugdi Dance,160769,8,2024,West,222533,15.2993,74.124
+Gujarat,Garba,173542,8,2024,West,370208,22.2587,71.1924
+Haryana,Charpai Weaving,50952,8,2024,North,64243,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,66675,8,2024,North,34414,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,66238,8,2024,East,94770,23.6102,85.2799
+Karnataka,Bidri Ware,179795,8,2024,South,136969,15.3173,75.7139
+Kerala,Mohiniyattam,242194,8,2024,South,255895,10.8505,76.2711
+Madhya Pradesh,Gond Art,87929,8,2024,Central,114314,23.4733,77.947
+Maharashtra,Paithani Sarees,124805,8,2024,West,182737,19.7515,75.7139
+Manipur,Manipuri Dance,49126,8,2024,Northeast,25487,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,67615,8,2024,Northeast,115947,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,59967,8,2024,Northeast,104210,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,67348,8,2024,Northeast,21493,26.1584,94.5624
+Odisha,Applique Work,156928,8,2024,East,108443,20.9517,85.0985
+Punjab,Jutti Making,126372,8,2024,North,140842,31.1471,75.3412
+Rajasthan,Miniature Painting,127673,8,2024,North,72995,27.0238,74.2179
+Sikkim,Thangka Painting,71131,8,2024,Northeast,117689,27.533,88.5122
+Tamil Nadu,Tanjore Painting,278030,8,2024,South,265928,11.1271,78.6569
+Telangana,Nirmal Paintings,175208,8,2024,South,282632,18.1124,79.0193
+Tripura,Hojagiri Dance,78726,8,2024,Northeast,156363,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,106321,8,2024,North,138577,26.8467,80.9462
+Uttarakhand,Ringal Craft,78115,8,2024,North,185558,30.0668,79.0193
+West Bengal,Kantha Stitch,163478,8,2024,East,279308,22.9868,87.855
+Delhi,Meenakari Craft,59962,8,2024,North,82580,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,74348,8,2024,North,154680,33.7782,76.5762
+Lakshadweep,Coral Craft,132242,8,2024,South,219061,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,99425,9,2024,South,114821,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,58405,9,2024,Northeast,45347,28.218,94.7278
+Assam,Assam Silk Weaving,126087,9,2024,Northeast,154177,26.2006,92.9376
+Bihar,Sujni Embroidery,91914,9,2024,East,96510,25.0961,85.3131
+Chhattisgarh,Panthi Dance,65153,9,2024,Central,83858,21.2787,81.8661
+Goa,Fugdi Dance,258845,9,2024,West,133937,15.2993,74.124
+Gujarat,Garba,261994,9,2024,West,373230,22.2587,71.1924
+Haryana,Charpai Weaving,86438,9,2024,North,73476,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,121757,9,2024,North,203026,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,94812,9,2024,East,71130,23.6102,85.2799
+Karnataka,Bidri Ware,177096,9,2024,South,292298,15.3173,75.7139
+Kerala,Kathakali,248723,9,2024,South,280848,10.8505,76.2711
+Madhya Pradesh,Bagh Print,155109,9,2024,Central,195939,23.4733,77.947
+Maharashtra,Lavani Dance,324176,9,2024,West,267133,19.7515,75.7139
+Manipur,Phanek Weaving,76033,9,2024,Northeast,90031,24.6637,93.9063
+Meghalaya,Bamboo Craft,44831,9,2024,Northeast,79472,25.467,91.3662
+Mizoram,Puanchei Textiles,50079,9,2024,Northeast,34892,23.1645,92.9376
+Nagaland,Wood Carving,70947,9,2024,Northeast,108236,26.1584,94.5624
+Odisha,Pattachitra,248511,9,2024,East,402658,20.9517,85.0985
+Punjab,Phulkari Embroidery,88410,9,2024,North,105423,31.1471,75.3412
+Rajasthan,Miniature Painting,109023,9,2024,North,66655,27.0238,74.2179
+Sikkim,Thangka Painting,129036,9,2024,Northeast,103796,27.533,88.5122
+Tamil Nadu,Bharatanatyam,260312,9,2024,South,284114,11.1271,78.6569
+Telangana,Bidri Craft,137543,9,2024,South,169228,18.1124,79.0193
+Tripura,Risa Textile Weaving,123798,9,2024,Northeast,282103,23.9408,91.9882
+Uttar Pradesh,Chikankari,193612,9,2024,North,156500,26.8467,80.9462
+Uttarakhand,Choliya Dance,176331,9,2024,North,212968,30.0668,79.0193
+West Bengal,Kantha Stitch,151624,9,2024,East,170543,22.9868,87.855
+Delhi,Kathak Dance,85974,9,2024,North,145289,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,130223,9,2024,North,136826,33.7782,76.5762
+Lakshadweep,Lava Dance,351836,9,2024,South,238626,10.5667,72.6417
+Andhra Pradesh,Kalamkari,100451,10,2024,South,102548,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,106934,10,2024,Northeast,200059,28.218,94.7278
+Assam,Sattriya Dance,115801,10,2024,Northeast,185764,26.2006,92.9376
+Bihar,Madhubani Painting,186845,10,2024,East,344573,25.0961,85.3131
+Chhattisgarh,Panthi Dance,164132,10,2024,Central,195645,21.2787,81.8661
+Goa,Goan Lacework,291469,10,2024,West,321593,15.2993,74.124
+Gujarat,Rogan Art,152376,10,2024,West,230656,22.2587,71.1924
+Haryana,Charpai Weaving,95895,10,2024,North,182068,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,222253,10,2024,North,428087,31.1048,77.1734
+Jharkhand,Sohrai Painting,156805,10,2024,East,87763,23.6102,85.2799
+Karnataka,Mysore Painting,134190,10,2024,South,155747,15.3173,75.7139
+Kerala,Aranmula Kannadi,300046,10,2024,South,340235,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,177251,10,2024,Central,157818,23.4733,77.947
+Maharashtra,Warli Painting,271058,10,2024,West,209193,19.7515,75.7139
+Manipur,Manipuri Dance,87034,10,2024,Northeast,99789,24.6637,93.9063
+Meghalaya,Nongkrem Dance,89244,10,2024,Northeast,144964,25.467,91.3662
+Mizoram,Cheraw Dance,94599,10,2024,Northeast,65390,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,60068,10,2024,Northeast,47836,26.1584,94.5624
+Odisha,Applique Work,117803,10,2024,East,127156,20.9517,85.0985
+Punjab,Bhangra,118348,10,2024,North,60531,31.1471,75.3412
+Rajasthan,Ghoomar Dance,249572,10,2024,North,275262,27.0238,74.2179
+Sikkim,Carpet Weaving,162912,10,2024,Northeast,297146,27.533,88.5122
+Tamil Nadu,Bharatanatyam,233089,10,2024,South,428542,11.1271,78.6569
+Telangana,Perini Shivatandavam,245857,10,2024,South,233469,18.1124,79.0193
+Tripura,Risa Textile Weaving,89538,10,2024,Northeast,117491,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,122852,10,2024,North,86150,26.8467,80.9462
+Uttarakhand,Choliya Dance,164657,10,2024,North,285865,30.0668,79.0193
+West Bengal,Kantha Stitch,195380,10,2024,East,318376,22.9868,87.855
+Delhi,Meenakari Craft,119428,10,2024,North,138168,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,106415,10,2024,North,163650,33.7782,76.5762
+Lakshadweep,Coral Craft,145106,10,2024,South,198393,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,412245,11,2024,South,256369,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,132926,11,2024,Northeast,80866,28.218,94.7278
+Assam,Sattriya Dance,79724,11,2024,Northeast,161291,26.2006,92.9376
+Bihar,Sujni Embroidery,64142,11,2024,East,76805,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,60501,11,2024,Central,25973,21.2787,81.8661
+Goa,Goan Lacework,214879,11,2024,West,349133,15.2993,74.124
+Gujarat,Patola Weaving,257505,11,2024,West,344628,22.2587,71.1924
+Haryana,Charpai Weaving,238193,11,2024,North,355646,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,278069,11,2024,North,315560,31.1048,77.1734
+Jharkhand,Sohrai Painting,86875,11,2024,East,91984,23.6102,85.2799
+Karnataka,Bidri Ware,201909,11,2024,South,203359,15.3173,75.7139
+Kerala,Kathakali,287971,11,2024,South,539034,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,175940,11,2024,Central,258396,23.4733,77.947
+Maharashtra,Lavani Dance,343433,11,2024,West,157116,19.7515,75.7139
+Manipur,Longpi Pottery,78401,11,2024,Northeast,82603,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,69534,11,2024,Northeast,87390,25.467,91.3662
+Mizoram,Cheraw Dance,54928,11,2024,Northeast,107128,23.1645,92.9376
+Nagaland,Wood Carving,19268,11,2024,Northeast,16778,26.1584,94.5624
+Odisha,Pattachitra,241383,11,2024,East,378383,20.9517,85.0985
+Punjab,Bhangra,130639,11,2024,North,225006,31.1471,75.3412
+Rajasthan,Ghoomar Dance,382292,11,2024,North,476250,27.0238,74.2179
+Sikkim,Carpet Weaving,94397,11,2024,Northeast,154360,27.533,88.5122
+Tamil Nadu,Tanjore Painting,283405,11,2024,South,357021,11.1271,78.6569
+Telangana,Perini Shivatandavam,124489,11,2024,South,207400,18.1124,79.0193
+Tripura,Hojagiri Dance,70667,11,2024,Northeast,47343,23.9408,91.9882
+Uttar Pradesh,Chikankari,251058,11,2024,North,306031,26.8467,80.9462
+Uttarakhand,Choliya Dance,103343,11,2024,North,63976,30.0668,79.0193
+West Bengal,Kantha Stitch,169045,11,2024,East,193692,22.9868,87.855
+Delhi,Zardozi Work,217653,11,2024,North,196571,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,215478,11,2024,North,283013,33.7782,76.5762
+Lakshadweep,Parichakali,151768,11,2024,South,75570,10.5667,72.6417
+Andhra Pradesh,Kalamkari,184670,12,2024,South,46784,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,62168,12,2024,Northeast,34360,28.218,94.7278
+Assam,Assam Silk Weaving,53318,12,2024,Northeast,39711,26.2006,92.9376
+Bihar,Manjusha Art,73492,12,2024,East,97444,25.0961,85.3131
+Chhattisgarh,Godna Art,164176,12,2024,Central,123483,21.2787,81.8661
+Goa,Fugdi Dance,285618,12,2024,West,252195,15.2993,74.124
+Gujarat,Patola Weaving,263606,12,2024,West,288251,22.2587,71.1924
+Haryana,Embroidery Craft,213861,12,2024,North,428419,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,234079,12,2024,North,107003,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,154487,12,2024,East,306299,23.6102,85.2799
+Karnataka,Mysore Painting,257266,12,2024,South,142636,15.3173,75.7139
+Kerala,Mohiniyattam,160597,12,2024,South,263554,10.8505,76.2711
+Madhya Pradesh,Gond Art,284540,12,2024,Central,523689,23.4733,77.947
+Maharashtra,Lavani Dance,218698,12,2024,West,366521,19.7515,75.7139
+Manipur,Phanek Weaving,42685,12,2024,Northeast,43756,24.6637,93.9063
+Meghalaya,Nongkrem Dance,67215,12,2024,Northeast,116640,25.467,91.3662
+Mizoram,Cheraw Dance,41865,12,2024,Northeast,36412,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,111380,12,2024,Northeast,209140,26.1584,94.5624
+Odisha,Pattachitra,90677,12,2024,East,121384,20.9517,85.0985
+Punjab,Jutti Making,181925,12,2024,North,341711,31.1471,75.3412
+Rajasthan,Ghoomar Dance,380808,12,2024,North,894607,27.0238,74.2179
+Sikkim,Thangka Painting,65399,12,2024,Northeast,70096,27.533,88.5122
+Tamil Nadu,Bharatanatyam,393472,12,2024,South,453903,11.1271,78.6569
+Telangana,Perini Shivatandavam,147513,12,2024,South,307966,18.1124,79.0193
+Tripura,Risa Textile Weaving,118198,12,2024,Northeast,271347,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,264714,12,2024,North,308163,26.8467,80.9462
+Uttarakhand,Ringal Craft,294380,12,2024,North,245095,30.0668,79.0193
+West Bengal,Kantha Stitch,124697,12,2024,East,57340,22.9868,87.855
+Delhi,Zardozi Work,326188,12,2024,North,200506,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,208157,12,2024,North,323923,33.7782,76.5762
+Lakshadweep,Parichakali,274253,12,2024,South,386419,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,191099,1,2025,South,321067,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,62873,1,2025,Northeast,116773,28.218,94.7278
+Assam,Sattriya Dance,87138,1,2025,Northeast,119611,26.2006,92.9376
+Bihar,Sujni Embroidery,162657,1,2025,East,314693,25.0961,85.3131
+Chhattisgarh,Bell Metal Craft,158536,1,2025,Central,144098,21.2787,81.8661
+Goa,Fugdi Dance,166594,1,2025,West,289905,15.2993,74.124
+Gujarat,Patola Weaving,395815,1,2025,West,440646,22.2587,71.1924
+Haryana,Charpai Weaving,78554,1,2025,North,67213,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,151465,1,2025,North,206363,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,188053,1,2025,East,184494,23.6102,85.2799
+Karnataka,Bidri Ware,210965,1,2025,South,360255,15.3173,75.7139
+Kerala,Kathakali,160501,1,2025,South,139403,10.8505,76.2711
+Madhya Pradesh,Gond Art,105927,1,2025,Central,185419,23.4733,77.947
+Maharashtra,Warli Painting,255608,1,2025,West,631518,19.7515,75.7139
+Manipur,Phanek Weaving,51343,1,2025,Northeast,89354,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,31446,1,2025,Northeast,81828,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,51306,1,2025,Northeast,104326,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,58114,1,2025,Northeast,38254,26.1584,94.5624
+Odisha,Pattachitra,163453,1,2025,East,262369,20.9517,85.0985
+Punjab,Bhangra,55305,1,2025,North,65956,31.1471,75.3412
+Rajasthan,Ghoomar Dance,205121,1,2025,North,275371,27.0238,74.2179
+Sikkim,Thangka Painting,139024,1,2025,Northeast,123657,27.533,88.5122
+Tamil Nadu,Tanjore Painting,150781,1,2025,South,194547,11.1271,78.6569
+Telangana,Bidri Craft,131131,1,2025,South,252995,18.1124,79.0193
+Tripura,Hojagiri Dance,48358,1,2025,Northeast,59668,23.9408,91.9882
+Uttar Pradesh,Chikankari,128119,1,2025,North,220502,26.8467,80.9462
+Uttarakhand,Choliya Dance,147179,1,2025,North,116356,30.0668,79.0193
+West Bengal,Durga Puja Art,159771,1,2025,East,296325,22.9868,87.855
+Delhi,Kathak Dance,116699,1,2025,North,127731,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,157398,1,2025,North,243399,33.7782,76.5762
+Lakshadweep,Shell Craft,303733,1,2025,South,762747,10.5667,72.6417
+Andhra Pradesh,Kalamkari,308576,2,2025,South,396398,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,29799,2,2025,Northeast,27068,28.218,94.7278
+Assam,Sattriya Dance,68254,2,2025,Northeast,34869,26.2006,92.9376
+Bihar,Sujni Embroidery,125447,2,2025,East,245722,25.0961,85.3131
+Chhattisgarh,Godna Art,59776,2,2025,Central,79726,21.2787,81.8661
+Goa,Goan Lacework,113355,2,2025,West,96936,15.2993,74.124
+Gujarat,Rogan Art,120119,2,2025,West,233199,22.2587,71.1924
+Haryana,Phag Dance,68233,2,2025,North,113197,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,106093,2,2025,North,216259,31.1048,77.1734
+Jharkhand,Sohrai Painting,101215,2,2025,East,156468,23.6102,85.2799
+Karnataka,Mysore Painting,406059,2,2025,South,591070,15.3173,75.7139
+Kerala,Kathakali,213844,2,2025,South,280905,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,87180,2,2025,Central,78329,23.4733,77.947
+Maharashtra,Paithani Sarees,182348,2,2025,West,368728,19.7515,75.7139
+Manipur,Manipuri Dance,84933,2,2025,Northeast,102482,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,82922,2,2025,Northeast,41018,25.467,91.3662
+Mizoram,Puanchei Textiles,31731,2,2025,Northeast,43360,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,73295,2,2025,Northeast,55060,26.1584,94.5624
+Odisha,Applique Work,140825,2,2025,East,201925,20.9517,85.0985
+Punjab,Jutti Making,138321,2,2025,North,113918,31.1471,75.3412
+Rajasthan,Blue Pottery,164275,2,2025,North,236983,27.0238,74.2179
+Sikkim,Mask Dance,83038,2,2025,Northeast,54360,27.533,88.5122
+Tamil Nadu,Tanjore Painting,141827,2,2025,South,265767,11.1271,78.6569
+Telangana,Nirmal Paintings,102676,2,2025,South,130341,18.1124,79.0193
+Tripura,Bamboo Craft,61763,2,2025,Northeast,28235,23.9408,91.9882
+Uttar Pradesh,Chikankari,134496,2,2025,North,143869,26.8467,80.9462
+Uttarakhand,Choliya Dance,101051,2,2025,North,202889,30.0668,79.0193
+West Bengal,Patachitra,209344,2,2025,East,163244,22.9868,87.855
+Delhi,Kathak Dance,77292,2,2025,North,50630,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,101273,2,2025,North,243566,33.7782,76.5762
+Lakshadweep,Parichakali,95450,2,2025,South,110798,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,150375,3,2025,South,218076,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,150221,3,2025,Northeast,187760,28.218,94.7278
+Assam,Sattriya Dance,99547,3,2025,Northeast,165534,26.2006,92.9376
+Bihar,Sujni Embroidery,71766,3,2025,East,101763,25.0961,85.3131
+Chhattisgarh,Godna Art,57820,3,2025,Central,89718,21.2787,81.8661
+Goa,Dekni Dance,121456,3,2025,West,173621,15.2993,74.124
+Gujarat,Patola Weaving,124827,3,2025,West,162773,22.2587,71.1924
+Haryana,Charpai Weaving,101591,3,2025,North,96963,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,189139,3,2025,North,405217,31.1048,77.1734
+Jharkhand,Chhau Dance,122089,3,2025,East,161169,23.6102,85.2799
+Karnataka,Yakshagana,264715,3,2025,South,405194,15.3173,75.7139
+Kerala,Aranmula Kannadi,117193,3,2025,South,93199,10.8505,76.2711
+Madhya Pradesh,Bagh Print,133790,3,2025,Central,252390,23.4733,77.947
+Maharashtra,Warli Painting,174013,3,2025,West,93711,19.7515,75.7139
+Manipur,Manipuri Dance,54433,3,2025,Northeast,36747,24.6637,93.9063
+Meghalaya,Nongkrem Dance,55325,3,2025,Northeast,87860,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,132562,3,2025,Northeast,126277,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,100854,3,2025,Northeast,64816,26.1584,94.5624
+Odisha,Applique Work,101972,3,2025,East,211891,20.9517,85.0985
+Punjab,Phulkari Embroidery,107306,3,2025,North,85348,31.1471,75.3412
+Rajasthan,Miniature Painting,228312,3,2025,North,142864,27.0238,74.2179
+Sikkim,Carpet Weaving,120763,3,2025,Northeast,317686,27.533,88.5122
+Tamil Nadu,Tanjore Painting,285798,3,2025,South,363986,11.1271,78.6569
+Telangana,Nirmal Paintings,122859,3,2025,South,195593,18.1124,79.0193
+Tripura,Bamboo Craft,109866,3,2025,Northeast,253516,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,203274,3,2025,North,184963,26.8467,80.9462
+Uttarakhand,Ringal Craft,108800,3,2025,North,149589,30.0668,79.0193
+West Bengal,Durga Puja Art,121061,3,2025,East,128282,22.9868,87.855
+Delhi,Zardozi Work,158603,3,2025,North,153877,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,165232,3,2025,North,321984,33.7782,76.5762
+Lakshadweep,Shell Craft,182459,3,2025,South,321841,10.5667,72.6417
+Andhra Pradesh,Kalamkari,98833,4,2025,South,82963,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,78966,4,2025,Northeast,97596,28.218,94.7278
+Assam,Bihu Dance,135495,4,2025,Northeast,353438,26.2006,92.9376
+Bihar,Manjusha Art,86481,4,2025,East,94387,25.0961,85.3131
+Chhattisgarh,Panthi Dance,47172,4,2025,Central,54340,21.2787,81.8661
+Goa,Goan Lacework,123290,4,2025,West,129463,15.2993,74.124
+Gujarat,Garba,175448,4,2025,West,102275,22.2587,71.1924
+Haryana,Charpai Weaving,107382,4,2025,North,147599,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,203477,4,2025,North,268475,31.1048,77.1734
+Jharkhand,Chhau Dance,74648,4,2025,East,145124,23.6102,85.2799
+Karnataka,Bidri Ware,77089,4,2025,South,129567,15.3173,75.7139
+Kerala,Mohiniyattam,156034,4,2025,South,226887,10.8505,76.2711
+Madhya Pradesh,Bagh Print,183301,4,2025,Central,279379,23.4733,77.947
+Maharashtra,Warli Painting,117272,4,2025,West,178443,19.7515,75.7139
+Manipur,Longpi Pottery,146580,4,2025,Northeast,125425,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,70256,4,2025,Northeast,89312,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,100591,4,2025,Northeast,95646,23.1645,92.9376
+Nagaland,Wood Carving,81114,4,2025,Northeast,83662,26.1584,94.5624
+Odisha,Odissi Dance,200931,4,2025,East,424672,20.9517,85.0985
+Punjab,Phulkari Embroidery,129284,4,2025,North,211651,31.1471,75.3412
+Rajasthan,Blue Pottery,364132,4,2025,North,1059222,27.0238,74.2179
+Sikkim,Carpet Weaving,104167,4,2025,Northeast,277258,27.533,88.5122
+Tamil Nadu,Bharatanatyam,181157,4,2025,South,133739,11.1271,78.6569
+Telangana,Nirmal Paintings,104596,4,2025,South,186431,18.1124,79.0193
+Tripura,Bamboo Craft,52126,4,2025,Northeast,102390,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,217251,4,2025,North,234314,26.8467,80.9462
+Uttarakhand,Ringal Craft,152189,4,2025,North,144020,30.0668,79.0193
+West Bengal,Kantha Stitch,153041,4,2025,East,272156,22.9868,87.855
+Delhi,Kathak Dance,197569,4,2025,North,335330,28.7041,77.1025
+Jammu and Kashmir,Rauf Dance,85906,4,2025,North,74189,33.7782,76.5762
+Lakshadweep,Coral Craft,150658,4,2025,South,138098,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,180742,5,2025,South,252461,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,194349,5,2025,Northeast,439641,28.218,94.7278
+Assam,Bihu Dance,121913,5,2025,Northeast,151867,26.2006,92.9376
+Bihar,Manjusha Art,80934,5,2025,East,169441,25.0961,85.3131
+Chhattisgarh,Godna Art,114882,5,2025,Central,184720,21.2787,81.8661
+Goa,Goan Lacework,101918,5,2025,West,135263,15.2993,74.124
+Gujarat,Rogan Art,85862,5,2025,West,143398,22.2587,71.1924
+Haryana,Charpai Weaving,165685,5,2025,North,189807,29.0588,76.0856
+Himachal Pradesh,Chamba Rumal,178559,5,2025,North,300090,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,62628,5,2025,East,173244,23.6102,85.2799
+Karnataka,Yakshagana,80522,5,2025,South,146039,15.3173,75.7139
+Kerala,Aranmula Kannadi,154519,5,2025,South,272122,10.8505,76.2711
+Madhya Pradesh,Bagh Print,73573,5,2025,Central,152642,23.4733,77.947
+Maharashtra,Paithani Sarees,57567,5,2025,West,54909,19.7515,75.7139
+Manipur,Longpi Pottery,128276,5,2025,Northeast,189778,24.6637,93.9063
+Meghalaya,Nongkrem Dance,116717,5,2025,Northeast,64038,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,171554,5,2025,Northeast,282803,23.1645,92.9376
+Nagaland,Wood Carving,254430,5,2025,Northeast,111408,26.1584,94.5624
+Odisha,Applique Work,147433,5,2025,East,97239,20.9517,85.0985
+Punjab,Bhangra,211121,5,2025,North,312546,31.1471,75.3412
+Rajasthan,Blue Pottery,255659,5,2025,North,346567,27.0238,74.2179
+Sikkim,Thangka Painting,235686,5,2025,Northeast,512105,27.533,88.5122
+Tamil Nadu,Stone Carving,268325,5,2025,South,214917,11.1271,78.6569
+Telangana,Nirmal Paintings,110654,5,2025,South,190033,18.1124,79.0193
+Tripura,Hojagiri Dance,141289,5,2025,Northeast,243301,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,65778,5,2025,North,151586,26.8467,80.9462
+Uttarakhand,Ringal Craft,244986,5,2025,North,181480,30.0668,79.0193
+West Bengal,Durga Puja Art,89282,5,2025,East,154891,22.9868,87.855
+Delhi,Meenakari Craft,238595,5,2025,North,302794,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,105810,5,2025,North,269583,33.7782,76.5762
+Lakshadweep,Shell Craft,96286,5,2025,South,122281,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,106110,6,2025,South,177670,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,221262,6,2025,Northeast,420222,28.218,94.7278
+Assam,Sattriya Dance,145975,6,2025,Northeast,227578,26.2006,92.9376
+Bihar,Madhubani Painting,85838,6,2025,East,219150,25.0961,85.3131
+Chhattisgarh,Godna Art,48565,6,2025,Central,121891,21.2787,81.8661
+Goa,Goan Lacework,99352,6,2025,West,100691,15.2993,74.124
+Gujarat,Patola Weaving,120563,6,2025,West,180861,22.2587,71.1924
+Haryana,Phag Dance,144913,6,2025,North,256188,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,304879,6,2025,North,358969,31.1048,77.1734
+Jharkhand,Sohrai Painting,48054,6,2025,East,85709,23.6102,85.2799
+Karnataka,Bidri Ware,122508,6,2025,South,117690,15.3173,75.7139
+Kerala,Aranmula Kannadi,111292,6,2025,South,76309,10.8505,76.2711
+Madhya Pradesh,Gond Art,84431,6,2025,Central,98492,23.4733,77.947
+Maharashtra,Warli Painting,128097,6,2025,West,249930,19.7515,75.7139
+Manipur,Phanek Weaving,110432,6,2025,Northeast,102434,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,86385,6,2025,Northeast,116130,25.467,91.3662
+Mizoram,Puanchei Textiles,169114,6,2025,Northeast,145036,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,94699,6,2025,Northeast,57319,26.1584,94.5624
+Odisha,Applique Work,74180,6,2025,East,80863,20.9517,85.0985
+Punjab,Phulkari Embroidery,72847,6,2025,North,93339,31.1471,75.3412
+Rajasthan,Ghoomar Dance,416560,6,2025,North,554440,27.0238,74.2179
+Sikkim,Thangka Painting,168221,6,2025,Northeast,179071,27.533,88.5122
+Tamil Nadu,Tanjore Painting,154863,6,2025,South,179515,11.1271,78.6569
+Telangana,Perini Shivatandavam,80250,6,2025,South,126106,18.1124,79.0193
+Tripura,Bamboo Craft,148721,6,2025,Northeast,182851,23.9408,91.9882
+Uttar Pradesh,Chikankari,309898,6,2025,North,261705,26.8467,80.9462
+Uttarakhand,Choliya Dance,165540,6,2025,North,179327,30.0668,79.0193
+West Bengal,Patachitra,53761,6,2025,East,153686,22.9868,87.855
+Delhi,Zardozi Work,242270,6,2025,North,514206,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,95932,6,2025,North,252225,33.7782,76.5762
+Lakshadweep,Parichakali,112254,6,2025,South,169891,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,107405,7,2025,South,189465,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,130220,7,2025,Northeast,228489,28.218,94.7278
+Assam,Assam Silk Weaving,139077,7,2025,Northeast,189149,26.2006,92.9376
+Bihar,Sujni Embroidery,82766,7,2025,East,55662,25.0961,85.3131
+Chhattisgarh,Godna Art,111736,7,2025,Central,125721,21.2787,81.8661
+Goa,Fugdi Dance,100951,7,2025,West,165307,15.2993,74.124
+Gujarat,Patola Weaving,133204,7,2025,West,121665,22.2587,71.1924
+Haryana,Phag Dance,117274,7,2025,North,204515,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,115683,7,2025,North,173658,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,109883,7,2025,East,306349,23.6102,85.2799
+Karnataka,Yakshagana,166223,7,2025,South,380263,15.3173,75.7139
+Kerala,Kathakali,147584,7,2025,South,182290,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,194525,7,2025,Central,294666,23.4733,77.947
+Maharashtra,Paithani Sarees,198086,7,2025,West,340759,19.7515,75.7139
+Manipur,Manipuri Dance,90725,7,2025,Northeast,213759,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,140499,7,2025,Northeast,89155,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,67575,7,2025,Northeast,101563,23.1645,92.9376
+Nagaland,Hornbill Festival Dances,79010,7,2025,Northeast,176085,26.1584,94.5624
+Odisha,Pattachitra,73469,7,2025,East,198246,20.9517,85.0985
+Punjab,Jutti Making,95642,7,2025,North,54781,31.1471,75.3412
+Rajasthan,Ghoomar Dance,296127,7,2025,North,160194,27.0238,74.2179
+Sikkim,Thangka Painting,89524,7,2025,Northeast,132670,27.533,88.5122
+Tamil Nadu,Stone Carving,53208,7,2025,South,42191,11.1271,78.6569
+Telangana,Bidri Craft,67913,7,2025,South,100878,18.1124,79.0193
+Tripura,Bamboo Craft,75891,7,2025,Northeast,46839,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,213096,7,2025,North,248816,26.8467,80.9462
+Uttarakhand,Aipan Art,64448,7,2025,North,82057,30.0668,79.0193
+West Bengal,Patachitra,130623,7,2025,East,240506,22.9868,87.855
+Delhi,Zardozi Work,92834,7,2025,North,130794,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,160097,7,2025,North,256692,33.7782,76.5762
+Lakshadweep,Lava Dance,80747,7,2025,South,99060,10.5667,72.6417
+Andhra Pradesh,Kalamkari,223797,8,2025,South,559261,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,67198,8,2025,Northeast,116698,28.218,94.7278
+Assam,Assam Silk Weaving,84214,8,2025,Northeast,111732,26.2006,92.9376
+Bihar,Madhubani Painting,168629,8,2025,East,205834,25.0961,85.3131
+Chhattisgarh,Panthi Dance,84343,8,2025,Central,130864,21.2787,81.8661
+Goa,Fugdi Dance,276555,8,2025,West,280418,15.2993,74.124
+Gujarat,Garba,160657,8,2025,West,114220,22.2587,71.1924
+Haryana,Phag Dance,33638,8,2025,North,34436,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,86982,8,2025,North,58054,31.1048,77.1734
+Jharkhand,Sohrai Painting,86855,8,2025,East,158100,23.6102,85.2799
+Karnataka,Mysore Painting,165457,8,2025,South,212430,15.3173,75.7139
+Kerala,Aranmula Kannadi,193167,8,2025,South,474988,10.8505,76.2711
+Madhya Pradesh,Bagh Print,182908,8,2025,Central,196687,23.4733,77.947
+Maharashtra,Paithani Sarees,367379,8,2025,West,312665,19.7515,75.7139
+Manipur,Phanek Weaving,110760,8,2025,Northeast,138256,24.6637,93.9063
+Meghalaya,Nongkrem Dance,69762,8,2025,Northeast,108463,25.467,91.3662
+Mizoram,Cheraw Dance,101736,8,2025,Northeast,170869,23.1645,92.9376
+Nagaland,Wood Carving,46215,8,2025,Northeast,92750,26.1584,94.5624
+Odisha,Odissi Dance,96684,8,2025,East,208490,20.9517,85.0985
+Punjab,Bhangra,135996,8,2025,North,159303,31.1471,75.3412
+Rajasthan,Ghoomar Dance,136963,8,2025,North,197300,27.0238,74.2179
+Sikkim,Carpet Weaving,135907,8,2025,Northeast,121042,27.533,88.5122
+Tamil Nadu,Stone Carving,293084,8,2025,South,489880,11.1271,78.6569
+Telangana,Perini Shivatandavam,268438,8,2025,South,322052,18.1124,79.0193
+Tripura,Bamboo Craft,61907,8,2025,Northeast,121949,23.9408,91.9882
+Uttar Pradesh,Lucknow Zardozi,136523,8,2025,North,229026,26.8467,80.9462
+Uttarakhand,Choliya Dance,169235,8,2025,North,222599,30.0668,79.0193
+West Bengal,Kantha Stitch,85221,8,2025,East,152663,22.9868,87.855
+Delhi,Zardozi Work,134506,8,2025,North,210340,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,133612,8,2025,North,184464,33.7782,76.5762
+Lakshadweep,Shell Craft,190096,8,2025,South,262836,10.5667,72.6417
+Andhra Pradesh,Budithi Brass Craft,153385,9,2025,South,279103,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,92843,9,2025,Northeast,214234,28.218,94.7278
+Assam,Assam Silk Weaving,135106,9,2025,Northeast,219268,26.2006,92.9376
+Bihar,Sujni Embroidery,110785,9,2025,East,71469,25.0961,85.3131
+Chhattisgarh,Panthi Dance,87220,9,2025,Central,43054,21.2787,81.8661
+Goa,Dekni Dance,475404,9,2025,West,313683,15.2993,74.124
+Gujarat,Garba,198201,9,2025,West,197008,22.2587,71.1924
+Haryana,Charpai Weaving,148344,9,2025,North,428533,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,169733,9,2025,North,294073,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,98816,9,2025,East,87184,23.6102,85.2799
+Karnataka,Yakshagana,272280,9,2025,South,271554,15.3173,75.7139
+Kerala,Aranmula Kannadi,335744,9,2025,South,178198,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,252379,9,2025,Central,254136,23.4733,77.947
+Maharashtra,Lavani Dance,339221,9,2025,West,344624,19.7515,75.7139
+Manipur,Longpi Pottery,76137,9,2025,Northeast,107005,24.6637,93.9063
+Meghalaya,Nongkrem Dance,45918,9,2025,Northeast,65332,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,51382,9,2025,Northeast,81715,23.1645,92.9376
+Nagaland,Naga Shawl Weaving,55301,9,2025,Northeast,62626,26.1584,94.5624
+Odisha,Applique Work,291530,9,2025,East,220514,20.9517,85.0985
+Punjab,Jutti Making,126024,9,2025,North,211104,31.1471,75.3412
+Rajasthan,Blue Pottery,168559,9,2025,North,82214,27.0238,74.2179
+Sikkim,Carpet Weaving,108719,9,2025,Northeast,235997,27.533,88.5122
+Tamil Nadu,Tanjore Painting,177892,9,2025,South,289845,11.1271,78.6569
+Telangana,Bidri Craft,97829,9,2025,South,143255,18.1124,79.0193
+Tripura,Bamboo Craft,79527,9,2025,Northeast,116168,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,139412,9,2025,North,89385,26.8467,80.9462
+Uttarakhand,Choliya Dance,176592,9,2025,North,136382,30.0668,79.0193
+West Bengal,Kantha Stitch,376229,9,2025,East,694918,22.9868,87.855
+Delhi,Kathak Dance,181398,9,2025,North,154212,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,232720,9,2025,North,386797,33.7782,76.5762
+Lakshadweep,Shell Craft,255691,9,2025,South,727197,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,195133,10,2025,South,106526,15.9129,79.74
+Arunachal Pradesh,Monpa Mask,138226,10,2025,Northeast,273005,28.218,94.7278
+Assam,Sattriya Dance,141064,10,2025,Northeast,166463,26.2006,92.9376
+Bihar,Madhubani Painting,154609,10,2025,East,150118,25.0961,85.3131
+Chhattisgarh,Panthi Dance,98369,10,2025,Central,176416,21.2787,81.8661
+Goa,Dekni Dance,353071,10,2025,West,587543,15.2993,74.124
+Gujarat,Garba,137021,10,2025,West,159604,22.2587,71.1924
+Haryana,Phag Dance,82932,10,2025,North,47342,29.0588,76.0856
+Himachal Pradesh,Kullu Shawl Weaving,174702,10,2025,North,287528,31.1048,77.1734
+Jharkhand,Chhau Dance,156364,10,2025,East,88565,23.6102,85.2799
+Karnataka,Yakshagana,310795,10,2025,South,308839,15.3173,75.7139
+Kerala,Aranmula Kannadi,293919,10,2025,South,642605,10.8505,76.2711
+Madhya Pradesh,Chanderi Weaving,224054,10,2025,Central,288062,23.4733,77.947
+Maharashtra,Warli Painting,210193,10,2025,West,492113,19.7515,75.7139
+Manipur,Longpi Pottery,171829,10,2025,Northeast,143868,24.6637,93.9063
+Meghalaya,Garo Wangala Dance,108327,10,2025,Northeast,201439,25.467,91.3662
+Mizoram,Puanchei Textiles,54287,10,2025,Northeast,87685,23.1645,92.9376
+Nagaland,Wood Carving,119248,10,2025,Northeast,177396,26.1584,94.5624
+Odisha,Odissi Dance,160689,10,2025,East,254540,20.9517,85.0985
+Punjab,Phulkari Embroidery,116191,10,2025,North,125246,31.1471,75.3412
+Rajasthan,Ghoomar Dance,174512,10,2025,North,128583,27.0238,74.2179
+Sikkim,Carpet Weaving,63291,10,2025,Northeast,77693,27.533,88.5122
+Tamil Nadu,Bharatanatyam,354513,10,2025,South,422475,11.1271,78.6569
+Telangana,Bidri Craft,282825,10,2025,South,468580,18.1124,79.0193
+Tripura,Hojagiri Dance,113427,10,2025,Northeast,173129,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,137607,10,2025,North,199385,26.8467,80.9462
+Uttarakhand,Aipan Art,247964,10,2025,North,181032,30.0668,79.0193
+West Bengal,Durga Puja Art,212809,10,2025,East,334677,22.9868,87.855
+Delhi,Meenakari Craft,163031,10,2025,North,209911,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,191047,10,2025,North,256251,33.7782,76.5762
+Lakshadweep,Lava Dance,226798,10,2025,South,172195,10.5667,72.6417
+Andhra Pradesh,Kuchipudi,263150,11,2025,South,361196,15.9129,79.74
+Arunachal Pradesh,Wancho Wood Carving,45099,11,2025,Northeast,61749,28.218,94.7278
+Assam,Bihu Dance,90613,11,2025,Northeast,162828,26.2006,92.9376
+Bihar,Sujni Embroidery,96993,11,2025,East,86316,25.0961,85.3131
+Chhattisgarh,Godna Art,208483,11,2025,Central,428609,21.2787,81.8661
+Goa,Dekni Dance,171279,11,2025,West,272486,15.2993,74.124
+Gujarat,Garba,181830,11,2025,West,423787,22.2587,71.1924
+Haryana,Phag Dance,112671,11,2025,North,119348,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,262042,11,2025,North,241809,31.1048,77.1734
+Jharkhand,Chhau Dance,81613,11,2025,East,108091,23.6102,85.2799
+Karnataka,Mysore Painting,89147,11,2025,South,58072,15.3173,75.7139
+Kerala,Mohiniyattam,223746,11,2025,South,465832,10.8505,76.2711
+Madhya Pradesh,Gond Art,246850,11,2025,Central,253430,23.4733,77.947
+Maharashtra,Paithani Sarees,156876,11,2025,West,220179,19.7515,75.7139
+Manipur,Longpi Pottery,44916,11,2025,Northeast,81688,24.6637,93.9063
+Meghalaya,Nongkrem Dance,149861,11,2025,Northeast,146109,25.467,91.3662
+Mizoram,Cheraw Dance,101527,11,2025,Northeast,164705,23.1645,92.9376
+Nagaland,Wood Carving,130545,11,2025,Northeast,104466,26.1584,94.5624
+Odisha,Applique Work,276839,11,2025,East,408075,20.9517,85.0985
+Punjab,Jutti Making,132428,11,2025,North,266858,31.1471,75.3412
+Rajasthan,Ghoomar Dance,316719,11,2025,North,373856,27.0238,74.2179
+Sikkim,Thangka Painting,104130,11,2025,Northeast,221343,27.533,88.5122
+Tamil Nadu,Tanjore Painting,163340,11,2025,South,255134,11.1271,78.6569
+Telangana,Bidri Craft,236010,11,2025,South,212823,18.1124,79.0193
+Tripura,Risa Textile Weaving,68909,11,2025,Northeast,73663,23.9408,91.9882
+Uttar Pradesh,Chikankari,330095,11,2025,North,168156,26.8467,80.9462
+Uttarakhand,Ringal Craft,344185,11,2025,North,426143,30.0668,79.0193
+West Bengal,Kantha Stitch,138900,11,2025,East,89611,22.9868,87.855
+Delhi,Zardozi Work,209027,11,2025,North,311281,28.7041,77.1025
+Jammu and Kashmir,Walnut Wood Carving,211117,11,2025,North,323115,33.7782,76.5762
+Lakshadweep,Shell Craft,230213,11,2025,South,345099,10.5667,72.6417
+Andhra Pradesh,Kalamkari,263744,12,2025,South,369281,15.9129,79.74
+Arunachal Pradesh,Thangka Paintings,107970,12,2025,Northeast,208646,28.218,94.7278
+Assam,Bihu Dance,81895,12,2025,Northeast,160799,26.2006,92.9376
+Bihar,Madhubani Painting,154074,12,2025,East,343774,25.0961,85.3131
+Chhattisgarh,Godna Art,115207,12,2025,Central,143916,21.2787,81.8661
+Goa,Fugdi Dance,289501,12,2025,West,339623,15.2993,74.124
+Gujarat,Patola Weaving,376286,12,2025,West,437650,22.2587,71.1924
+Haryana,Embroidery Craft,317235,12,2025,North,567486,29.0588,76.0856
+Himachal Pradesh,Kangra Painting,248431,12,2025,North,181677,31.1048,77.1734
+Jharkhand,Dokra Metal Craft,114103,12,2025,East,115438,23.6102,85.2799
+Karnataka,Yakshagana,123369,12,2025,South,145192,15.3173,75.7139
+Kerala,Aranmula Kannadi,314074,12,2025,South,175076,10.8505,76.2711
+Madhya Pradesh,Gond Art,155854,12,2025,Central,307457,23.4733,77.947
+Maharashtra,Warli Painting,319556,12,2025,West,507427,19.7515,75.7139
+Manipur,Phanek Weaving,74230,12,2025,Northeast,136139,24.6637,93.9063
+Meghalaya,Bamboo Craft,67415,12,2025,Northeast,129852,25.467,91.3662
+Mizoram,Mizo Bamboo Dance,74547,12,2025,Northeast,50124,23.1645,92.9376
+Nagaland,Wood Carving,128384,12,2025,Northeast,137303,26.1584,94.5624
+Odisha,Applique Work,258222,12,2025,East,300738,20.9517,85.0985
+Punjab,Jutti Making,277702,12,2025,North,160019,31.1471,75.3412
+Rajasthan,Blue Pottery,184248,12,2025,North,313884,27.0238,74.2179
+Sikkim,Mask Dance,87446,12,2025,Northeast,232068,27.533,88.5122
+Tamil Nadu,Tanjore Painting,381477,12,2025,South,812440,11.1271,78.6569
+Telangana,Perini Shivatandavam,66709,12,2025,South,67281,18.1124,79.0193
+Tripura,Bamboo Craft,60260,12,2025,Northeast,88916,23.9408,91.9882
+Uttar Pradesh,Kathak Dance,146057,12,2025,North,364459,26.8467,80.9462
+Uttarakhand,Choliya Dance,161701,12,2025,North,270530,30.0668,79.0193
+West Bengal,Patachitra,108951,12,2025,East,143867,22.9868,87.855
+Delhi,Kathak Dance,402133,12,2025,North,341901,28.7041,77.1025
+Jammu and Kashmir,Pashmina Weaving,157346,12,2025,North,91879,33.7782,76.5762
+Lakshadweep,Lava Dance,305673,12,2025,South,280731,10.5667,72.6417

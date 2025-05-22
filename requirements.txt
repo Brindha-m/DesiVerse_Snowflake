@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+beautifulsoup4
+requests
+folium
+Pillow 
+wordcloud
+streamlit-option-menu
+streamlit-confetti
+streamlit-folium
+streamlit_extras
+snowflake-connector-python
