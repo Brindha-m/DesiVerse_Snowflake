@@ -12,33 +12,11 @@ DesiVerse is a Streamlit application that showcases Indian cultural heritage and
 - **Cultural Gallery**: Collection of images showcasing Indian festivals, dance forms, heritage sites, and crafts
 - **Cultural Quiz**: Interactive quiz testing knowledge of Indian art and culture
 
-## Project Structure
-
-```
-DesiVerse/
-├── app.py                  # Main file
-├── data/                   # Data-related modules
-│   ├── constants.py        # Constants and shared data
-│   └── data_generator.py   # Data sourced from data.gov.in
-├── components/            
-│   └── styling.py          
-├── pages/                  # application pages
-│   ├── heritage_explorer.py
-│   ├── tourism_analytics.py
-│   ├── responsible_tourism.py 
-│   ├── cultural_gallery.py
-│   └── cultural_quiz.py
-├── utils/                  
-│   ├── image_utils.py      
-│   └── visualization.py    
-└── requirements.txt        
-```
-
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/DesiVerse.git
+git clone https://github.com/Brindha-m/DesiVerse_Snowflake.git
 cd DesiVerse
 ```
 
@@ -73,65 +51,64 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Data Sources
+## Project Structure
 
-The application uses data from various sources:
-- Tourism statistics from data.gov.in
-- Heritage site information from Archaeological Survey of India
-- Art form data from Ministry of Culture
-- Regional tourism data from state tourism departments
+```
+DesiVerse/
+├── app.py                  # Main application file
+├── data/                   # Data-related modules
+│   ├── constants.py        # Constants and shared data
+│   └── data_generator.py   # Mock data generation functions
+├── components/             # UI components
+│   └── styling.py          # CSS styles and UI helper functions
+├── pages/                  # Individual application pages
+│   ├── heritage_explorer.py
+│   ├── tourism_analytics.py
+│   ├── responsible_tourism.py 
+│   ├── cultural_gallery.py
+│   └── cultural_quiz.py
+├── utils/                  # Utility functions
+│   ├── image_utils.py      # Image fetching and processing
+│   └── visualization.py    # Data visualization functions
+└── requirements.txt        # Project dependencies
+```
 
-## Features in Detail
+## Dependencies
 
-### Heritage Explorer
-- Interactive map showing heritage sites across India
-- Detailed information about each site
-- Art forms associated with each region
-- Historical significance and cultural importance
+The application requires the following main packages:
+- Streamlit
+- Pandas
+- NumPy
+- Plotly
+- Matplotlib
+- Seaborn
+- WordCloud
 
-### Tourism Analytics
-- Year-wise tourism trends
-- Regional analysis
-- Seasonal patterns
-- Funding distribution
-- Art form popularity metrics
+A complete list is available in `requirements.txt`.
 
-### Responsible Tourism
-- Sustainable tourism practices
-- Lesser-known heritage sites
-- Community impact
-- Conservation efforts
-- Cultural preservation initiatives
+## API Keys
 
-### Cultural Gallery
-- High-quality images of Indian art forms
-- Festival celebrations
-- Heritage sites
-- Traditional crafts
-- Dance forms
+The application uses the following external APIs:
+- Pexels API for image retrieval
+- Pixabay API as a fallback for images
 
-### Cultural Quiz
-- Interactive quiz on Indian heritage
-- Multiple choice questions
-- Score tracking
-- Educational content
-- Cultural facts
+You'll need to obtain API keys and add them to the `data/constants.py` file.
 
 ## Contributing
 
+Contributions are welcome! Please feel free to submit a Pull Request.
+
 1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
 
-- Data.gov.in for tourism statistics
-- Archaeological Survey of India for heritage site information
-- Ministry of Culture for art form data
-- State tourism departments for regional data 
+- Data sources: Mock data is generated for demonstration purposes
+- Images: Retrieved from Pexels API
+- Indian heritage information: Based on publicly available information 
