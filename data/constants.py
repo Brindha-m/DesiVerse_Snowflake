@@ -69,21 +69,159 @@ art_form_details = {
 
 # Interesting facts about art forms
 art_form_facts = {
-    'Tanjore Painting': "Did you know? Tanjore paintings are known for their rich colors, surface richness, and compact composition. They are characterized by the use of gold foil and precious stones, making them one of the most expensive traditional art forms in India.",
-    'Madhubani Painting': "Did you know? Madhubani paintings were traditionally created by women on the walls of their homes during festivals and special occasions. The art form was discovered by the world after a major earthquake in 1934 when the walls cracked and revealed these beautiful paintings.",
-    'Manjusha Art': "Did you know? Manjusha art is the only art form in India that is displayed in series, telling a complete story through multiple panels. It's deeply connected to the Bishahari festival of Bihar.",
-    'Sujni Embroidery': "Did you know? Sujni embroidery originated as a way to make quilts from old saris. The art form uses a unique running stitch that creates beautiful patterns while also making the fabric stronger.",
-    'Kalamkari': "Did you know? The word 'Kalamkari' literally means 'pen work' in Persian. Artists use a special pen made from bamboo and date palm to create intricate designs, and the process involves 23 steps!",
-    'Warli Painting': "Did you know? Warli paintings use only three colors: white (from rice paste), red (from geru), and black (from soot). The art form is over 2,500 years old and was discovered in the 1970s.",
-    'Phulkari': "Did you know? Phulkari embroidery was traditionally made by grandmothers for their granddaughters' wedding trousseau. Each piece could take up to a year to complete!",
-    'Chikankari': "Did you know? Chikankari was introduced to India by Empress Noor Jahan, wife of Mughal Emperor Jahangir. The art form uses up to 40 different types of stitches!",
-    'Zardozi': "Did you know? Zardozi was once used to adorn the clothes of kings and queens. The art form uses real gold and silver threads, along with precious stones and pearls.",
-    'Bidri Work': "Did you know? Bidri work gets its name from the city of Bidar in Karnataka. The art form uses a unique technique of inlaying silver into blackened zinc and copper alloy.",
-    'Blue Pottery': "Did you know? Blue Pottery is the only pottery in the world that doesn't use clay! It's made from a special dough of ground quartz stone, powdered glass, and raw materials.",
-    'Pattachitra': "Did you know? Pattachitra artists still use natural colors made from stones, minerals, and plants. The art form is known for its intricate details and mythological themes.",
-    'Gond Art': "Did you know? Gond art is created by the Gond tribe of Madhya Pradesh. Each painting tells a story and is believed to bring good luck and ward off evil spirits.",
-    'Bagh Print': "Did you know? Bagh print uses natural dyes and a unique printing technique that has remained unchanged for over 1,000 years. The process involves 16 stages of printing and washing!",
-    'Chanderi Weaving': "Did you know? Chanderi sarees are so fine that they can pass through a ring! The art form dates back to the 11th century and was patronized by the Scindia royal family."
+    # Classical Dance Forms
+    'Bharatanatyam': "Did you know? Bharatanatyam was originally performed by temple dancers called 'Devadasis' and was revived in the 20th century by Rukmini Devi Arundale.",
+    'Kathakali': "Did you know? Kathakali performers undergo 4-5 hours of elaborate makeup using natural colors, and the green face paint represents noble characters.",
+    'Kathak': "Did you know? Kathak evolved from storytelling traditions in temples, where dancers would narrate stories through dance and hand gestures.",
+    'Odissi': "Did you know? Odissi dance movements are inspired by the sculptures of ancient temples in Odisha, particularly the Konark Sun Temple.",
+    'Kuchipudi': "Did you know? Kuchipudi was traditionally performed only by men, even for female roles, until the 20th century.",
+    'Manipuri': "Did you know? Manipuri dance is deeply connected to the worship of Lord Krishna, and its graceful movements imitate the gentle swaying of the Manipur hills.",
+    'Mohiniyattam': "Did you know? Mohiniyattam is known as the 'Dance of the Enchantress' and is characterized by its emphasis on feminine grace and beauty.",
+    'Sattriya': "Did you know? Sattriya was performed exclusively in monasteries for 500 years before being recognized as a classical dance form in 2000.",
+    
+    # Andhra Pradesh
+    'Kalamkari': "Did you know? Kalamkari artists use natural dyes and a special pen made from bamboo to create intricate designs on fabric.",
+    'Budithi Brass Craft': "Did you know? Budithi brass craft uses a unique technique of lost-wax casting that has been passed down through generations.",
+    
+    # Arunachal Pradesh
+    'Monpa Mask': "Did you know? Monpa masks are handcrafted using paper mache and natural colors, representing various Buddhist deities.",
+    'Thangka Paintings': "Did you know? Thangka paintings are created on cotton or silk and can take up to a year to complete due to their intricate details.",
+    'Wancho Wood Carving': "Did you know? Wancho wood carvings often depict tribal myths and legends, with each carving telling a unique story.",
+    
+    # Assam
+    'Bihu Dance': "Did you know? Bihu dance is performed during the harvest festival and involves rapid hand and hip movements symbolizing joy and celebration.",
+    'Assam Silk Weaving': "Did you know? Assam silk, particularly Muga silk, is known for its natural golden color and durability, often lasting for generations.",
+    
+    # Bihar
+    'Madhubani Painting': "Did you know? Madhubani paintings were traditionally created by women on the walls of their homes during festivals and special occasions.",
+    'Manjusha Art': "Did you know? Manjusha art is the only art form in India that is displayed in a series, telling a complete story through multiple panels.",
+    'Sujni Embroidery': "Did you know? Sujni embroidery was traditionally made from old saris and cloth, creating beautiful quilts with stories of daily life.",
+    
+    # Chhattisgarh
+    'Panthi Dance': "Did you know? Panthi dance is performed during the harvest festival and involves synchronized movements with bamboo sticks.",
+    'Godna Art': "Did you know? Godna art is a traditional form of tattooing that was used to mark important life events and social status.",
+    'Bell Metal Craft': "Did you know? Bell metal craft in Chhattisgarh uses a special alloy of copper and tin, creating unique musical instruments.",
+    
+    # Goa
+    'Dekni Dance': "Did you know? Dekni dance combines Portuguese and Indian cultural elements, performed by women in traditional costumes.",
+    'Fugdi Dance': "Did you know? Fugdi dance is performed in a circle formation, with dancers moving in rhythmic patterns while singing folk songs.",
+    'Goan Lacework': "Did you know? Goan lacework was introduced by Portuguese nuns and is known for its intricate patterns and delicate designs.",
+    
+    # Gujarat
+    'Garba': "Did you know? Garba dance is performed in concentric circles around a lamp or idol, symbolizing the cycle of life and death.",
+    'Patola Weaving': "Did you know? Patola silk sarees can take up to 6 months to weave, with each thread being individually dyed before weaving.",
+    'Rogan Art': "Did you know? Rogan art uses castor oil to create intricate designs, with only one family keeping this art form alive.",
+    
+    # Haryana
+    'Phag Dance': "Did you know? Phag dance is performed during the spring festival, with dancers using colorful sticks to create rhythmic patterns.",
+    'Embroidery Craft': "Did you know? Haryana's embroidery uses mirror work and colorful threads to create vibrant patterns on fabric.",
+    'Charpai Weaving': "Did you know? Charpai weaving is a traditional craft that creates comfortable beds using natural materials like jute and cotton.",
+    
+    # Himachal Pradesh
+    'Kullu Shawl Weaving': "Did you know? Kullu shawls are handwoven using traditional patterns that have been passed down through generations.",
+    'Chamba Rumal': "Did you know? Chamba Rumal is a unique form of embroidery that creates intricate designs on both sides of the fabric.",
+    'Kangra Painting': "Did you know? Kangra paintings are known for their delicate brushwork and use of natural colors made from minerals and plants.",
+    
+    # Jharkhand
+    'Sohrai Painting': "Did you know? Sohrai paintings are created during the harvest festival using natural colors and depict scenes from daily life.",
+    'Chhau Dance': "Did you know? Chhau dance combines martial arts, acrobatics, and storytelling, often performed with elaborate masks.",
+    'Dokra Metal Craft': "Did you know? Dokra metal casting uses the lost-wax technique, a method that has remained unchanged for over 4000 years.",
+    
+    # Karnataka
+    'Yakshagana': "Did you know? Yakshagana combines dance, music, and drama, with performers wearing elaborate costumes and makeup.",
+    'Bidri Ware': "Did you know? Bidri work uses a special blackened alloy of zinc and copper, inlaid with silver to create striking contrast.",
+    'Mysore Painting': "Did you know? Mysore paintings are known for their gesso work, where gold leaf is applied over a special paste to create raised patterns.",
+    
+    # Kerala
+    'Kathakali': "Did you know? Kathakali performers undergo 4-5 hours of elaborate makeup using natural colors, and the green face paint represents noble characters.",
+    'Mohiniyattam': "Did you know? Mohiniyattam is known as the 'Dance of the Enchantress' and is characterized by its emphasis on feminine grace and beauty.",
+    'Aranmula Kannadi': "Did you know? Aranmula Kannadi is a unique mirror made of metal alloy, with the secret formula known only to a few families.",
+    
+    # Madhya Pradesh
+    'Gond Art': "Did you know? Gond art uses dots and lines to create intricate patterns that tell stories of nature and tribal life.",
+    'Bagh Print': "Did you know? Bagh printing uses natural dyes and a special process that makes the colors become more vibrant with each wash.",
+    'Chanderi Weaving': "Did you know? Chanderi sarees are known for their sheer texture and gold borders, created using a special weaving technique.",
+    
+    # Maharashtra
+    'Lavani Dance': "Did you know? Lavani dance combines traditional folk music with energetic movements, often performed by women in colorful costumes.",
+    'Warli Painting': "Did you know? Warli paintings use only three colors - white (rice paste), red (geru), and black (charcoal) - to create their distinctive tribal art.",
+    'Paithani Sarees': "Did you know? Paithani sarees can take up to a year to weave, with each thread being individually dyed before weaving.",
+    
+    # Manipur
+    'Manipuri Dance': "Did you know? Manipuri dance is deeply connected to the worship of Lord Krishna, and its graceful movements imitate the gentle swaying of the Manipur hills.",
+    'Longpi Pottery': "Did you know? Longpi pottery is made without using a potter's wheel, using a unique technique of hand molding and stone polishing.",
+    'Phanek Weaving': "Did you know? Phanek weaving uses traditional looms and natural dyes to create intricate patterns on fabric.",
+    
+    # Meghalaya
+    'Nongkrem Dance': "Did you know? Nongkrem dance is performed during the harvest festival, with dancers wearing elaborate costumes and headgear.",
+    'Bamboo Craft': "Did you know? Meghalaya's bamboo craft creates everything from furniture to musical instruments using sustainable techniques.",
+    'Garo Wangala Dance': "Did you know? Garo Wangala dance is performed to thank the sun god for a good harvest, with dancers wearing traditional costumes.",
+    
+    # Mizoram
+    'Cheraw Dance': "Did you know? Cheraw dance involves dancers moving between bamboo sticks that are clapped together in rhythmic patterns.",
+    'Mizo Bamboo Dance': "Did you know? Mizo bamboo dance is performed during festivals, with dancers creating complex patterns using bamboo poles.",
+    'Puanchei Textiles': "Did you know? Puanchei textiles are handwoven using traditional patterns that have been passed down through generations.",
+    
+    # Nagaland
+    'Hornbill Festival Dances': "Did you know? Hornbill Festival dances showcase the unique cultural heritage of Naga tribes through traditional costumes and movements.",
+    'Naga Shawl Weaving': "Did you know? Naga shawls are handwoven using traditional patterns that represent different tribes and social status.",
+    'Wood Carving': "Did you know? Naga wood carving often depicts tribal myths and legends, with each carving telling a unique story.",
+    
+    # Odisha
+    'Odissi': "Did you know? Odissi dance movements are inspired by the sculptures of ancient temples in Odisha, particularly the Konark Sun Temple.",
+    'Pattachitra': "Did you know? Pattachitra paintings are created on cloth treated with a special mixture of chalk and gum, making them durable for centuries.",
+    'Applique Work': "Did you know? Odisha's applique work creates intricate designs by sewing pieces of colored fabric onto a base material.",
+    
+    # Punjab
+    'Bhangra': "Did you know? Bhangra dance originated as a celebration of the harvest season, with energetic movements and traditional music.",
+    'Phulkari': "Did you know? Phulkari embroidery uses a special darning stitch that creates a reversible pattern, with the design visible on both sides.",
+    'Jutti Making': "Did you know? Punjabi juttis are handcrafted using traditional techniques, with each pair taking several days to complete.",
+    
+    # Rajasthan
+    'Ghoomar Dance': "Did you know? Ghoomar dance is performed by women in colorful ghagras, creating beautiful patterns as they twirl in circles.",
+    'Blue Pottery': "Did you know? Blue Pottery is unique because it doesn't use clay, but instead uses a special mixture of ground quartz stone and glass.",
+    'Miniature Painting': "Did you know? Miniature paintings were created using brushes made from squirrel hair, with some as fine as a single strand.",
+    
+    # Sikkim
+    'Mask Dance': "Did you know? Sikkim's mask dances are performed during religious festivals, with each mask representing different deities and demons.",
+    'Thangka Painting': "Did you know? Thangka paintings are created on cotton or silk and can take up to a year to complete due to their intricate details.",
+    'Carpet Weaving': "Did you know? Sikkim's carpet weaving uses traditional Tibetan techniques to create intricate patterns and designs.",
+    
+    # Tamil Nadu
+    'Bharatanatyam': "Did you know? Bharatanatyam was originally performed by temple dancers called 'Devadasis' and was revived in the 20th century by Rukmini Devi Arundale.",
+    'Tanjore Painting': "Did you know? Tanjore paintings are known for their rich colors, gold foil work, and semi-precious stones, making them appear three-dimensional.",
+    'Stone Carving': "Did you know? Tamil Nadu's stone carving tradition dates back to the Pallava period, creating intricate temple sculptures.",
+    
+    # Telangana
+    'Perini Shivatandavam': "Did you know? Perini Shivatandavam is a warrior dance form that was performed before going to battle to invoke Lord Shiva's blessings.",
+    'Nirmal Paintings': "Did you know? Nirmal paintings are created using natural colors and gold leaf, with each piece taking several months to complete.",
+    'Bidri Craft': "Did you know? Bidri work uses a special blackened alloy of zinc and copper, inlaid with silver to create striking contrast.",
+    
+    # Tripura
+    'Hojagiri Dance': "Did you know? Hojagiri dance is performed by women balancing earthen pitchers on their heads while dancing gracefully.",
+    'Bamboo Craft': "Did you know? Tripura's bamboo craft creates everything from furniture to musical instruments using sustainable techniques.",
+    'Risa Textile Weaving': "Did you know? Risa textiles are handwoven using traditional patterns that have been passed down through generations.",
+    
+    # Uttar Pradesh
+    'Chikankari': "Did you know? Chikankari embroidery uses up to 40 different types of stitches, each with its own unique purpose and effect.",
+    'Zardozi': "Did you know? Zardozi work uses real gold and silver threads, along with precious stones, to create luxurious embroidery patterns.",
+    'Wood Inlay': "Did you know? Uttar Pradesh's wood inlay work creates intricate patterns by embedding different materials into wood surfaces.",
+    
+    # Uttarakhand
+    'Aipan': "Did you know? Aipan designs are created using rice paste and are considered sacred in Kumaoni culture.",
+    'Wood Carving': "Did you know? Uttarakhand's wood carving tradition creates intricate designs on doors, windows, and furniture.",
+    'Stone Carving': "Did you know? Stone carving in Uttarakhand often depicts scenes from Hindu mythology and local folklore.",
+    
+    # Other Traditional Arts
+    'Kolam': "Did you know? Kolam designs are drawn daily at dawn using rice flour, serving as both decoration and food for ants and birds.",
+    'Rangoli': "Did you know? Rangoli patterns are believed to welcome prosperity and ward off evil spirits from the home.",
+    'Sanjhi': "Did you know? Sanjhi paper cutting art was traditionally used to create stencils for decorating temples and homes.",
+    
+    # Contemporary Folk Arts
+    'Lippan Kaam': "Did you know? Lippan Kaam uses a mixture of mud and camel dung to create mirror work designs on walls.",
+    'Rogan Art': "Did you know? Rogan art uses castor oil to create intricate designs, with only one family keeping this art form alive.",
+    'Mata Ni Pachedi': "Did you know? Mata Ni Pachedi temple cloths are painted using natural dyes and tell stories of the goddess.",
+    'Pabuji Ki Phad': "Did you know? Pabuji Ki Phad scrolls can be up to 30 feet long and are used to tell the story of the folk deity Pabuji."
 }
 
 # Lesser known heritage sites

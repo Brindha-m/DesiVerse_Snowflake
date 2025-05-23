@@ -27,7 +27,7 @@ from utils.visualization import (
     create_state_choropleth,
     create_art_forms_wordcloud
 )
-from components.styling import display_art_book
+from components.styling import display_art_book, display_art_form_card
 
 # Create custom colormaps
 indian_cmap = LinearSegmentedColormap.from_list('indian_cmap', INDIAN_COLORS['gradient'])
@@ -204,6 +204,38 @@ def show_heritage_explorer(df):
     )
     
     st.plotly_chart(fig, use_container_width=True)
+    
+    # Display art form cards if a state is selected
+    if selected_state != "All States":
+        st.markdown("---")
+        st.markdown("### Art Forms in " + selected_state)
+        
+        # Get unique art forms for the selected state
+        state_art_forms = filtered_df[filtered_df['STATE'] == selected_state]['ART_FORM'].unique()
+        
+        # Create three columns for the art form cards
+        col1, col2, col3 = st.columns(3)
+        
+        # Loop through art forms and display them in cards
+        for i, art_form in enumerate(state_art_forms):
+            # Get art form details
+            art_details = art_form_details.get(art_form, {})
+            description = art_details.get('description', 'Description not available')
+            
+            # Get fact with proper case matching
+            fact = art_form_facts.get(art_form, 'Interesting fact about this art form coming soon!')
+            if fact == 'Interesting fact about this art form coming soon!':
+                # Try with title case if not found
+                fact = art_form_facts.get(art_form.title(), 'Interesting fact about this art form coming soon!')
+            
+            # Get image URL from cached image database
+            image_url = get_cached_art_form_images(art_form, selected_state)
+            if image_url:
+                image_url = image_url[0]['url'] if isinstance(image_url, list) else image_url
+            
+            # Display art form card in the appropriate column
+            with col1 if i % 3 == 0 else col2 if i % 3 == 1 else col3:
+                display_art_form_card(art_form, art_details, fact, image_url)
     
     # Regional Distribution Section
     st.markdown("<h2 class='sub-header'>📊 Regional Distribution</h2>", unsafe_allow_html=True)

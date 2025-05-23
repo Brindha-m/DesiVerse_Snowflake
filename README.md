@@ -12,6 +12,28 @@ DesiVerse is a Streamlit application that showcases Indian cultural heritage and
 - **Cultural Gallery**: Collection of images showcasing Indian festivals, dance forms, heritage sites, and crafts
 - **Cultural Quiz**: Interactive quiz testing knowledge of Indian art and culture
 
+## Project Structure
+
+```
+DesiVerse/
+├── app.py                  # Main file
+├── data/                   # Data-related modules
+│   ├── constants.py        # Constants and shared data
+│   └── data_generator.py   # Data sourced from data.gov.in
+├── components/            
+│   └── styling.py          
+├── pages/                  # application pages
+│   ├── heritage_explorer.py
+│   ├── tourism_analytics.py
+│   ├── responsible_tourism.py 
+│   ├── cultural_gallery.py
+│   └── cultural_quiz.py
+├── utils/                  
+│   ├── image_utils.py      
+│   └── visualization.py    
+└── requirements.txt        
+```
+
 ## Installation
 
 1. Clone the repository:
@@ -31,63 +53,77 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. Run the application:
+4. Set up Snowflake credentials:
+   - Create a `snowflake_config.py` file in the root directory
+   - Add your Snowflake credentials:
+   ```python
+   # Snowflake Configuration
+   SNOWFLAKE_CONFIG = {
+       'user': 'brindhamanickavasakan',
+       'password': '28NDBnCKvXnjriH',
+       'account': 'aj44614.ap-southeast-1', 
+       'warehouse': 'HERITAGE_WH',
+       'database': 'DESIVERSE',
+       'schema': 'HERITAGE_DATA'
+   }
+   ```
+
+5. Run the application:
 ```bash
 streamlit run app.py
 ```
 
-## Project Structure
+## Data Sources
 
-```
-DesiVerse/
-├── app.py                  # Main application file
-├── data/                   # Data-related modules
-│   ├── constants.py        # Constants and shared data
-│   └── data_generator.py   # Mock data generation functions
-├── components/             # UI components
-│   └── styling.py          # CSS styles and UI helper functions
-├── pages/                  # Individual application pages
-│   ├── heritage_explorer.py
-│   ├── tourism_analytics.py
-│   ├── responsible_tourism.py 
-│   ├── cultural_gallery.py
-│   └── cultural_quiz.py
-├── utils/                  # Utility functions
-│   ├── image_utils.py      # Image fetching and processing
-│   └── visualization.py    # Data visualization functions
-└── requirements.txt        # Project dependencies
-```
+The application uses data from various sources:
+- Tourism statistics from data.gov.in
+- Heritage site information from Archaeological Survey of India
+- Art form data from Ministry of Culture
+- Regional tourism data from state tourism departments
 
-## Dependencies
+## Features in Detail
 
-The application requires the following main packages:
-- Streamlit
-- Pandas
-- NumPy
-- Plotly
-- Matplotlib
-- Seaborn
-- WordCloud
+### Heritage Explorer
+- Interactive map showing heritage sites across India
+- Detailed information about each site
+- Art forms associated with each region
+- Historical significance and cultural importance
 
-A complete list is available in `requirements.txt`.
+### Tourism Analytics
+- Year-wise tourism trends
+- Regional analysis
+- Seasonal patterns
+- Funding distribution
+- Art form popularity metrics
 
-## API Keys
+### Responsible Tourism
+- Sustainable tourism practices
+- Lesser-known heritage sites
+- Community impact
+- Conservation efforts
+- Cultural preservation initiatives
 
-The application uses the following external APIs:
-- Pexels API for image retrieval
-- Pixabay API as a fallback for images
+### Cultural Gallery
+- High-quality images of Indian art forms
+- Festival celebrations
+- Heritage sites
+- Traditional crafts
+- Dance forms
 
-You'll need to obtain API keys and add them to the `data/constants.py` file.
+### Cultural Quiz
+- Interactive quiz on Indian heritage
+- Multiple choice questions
+- Score tracking
+- Educational content
+- Cultural facts
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
 
 ## License
 
@@ -95,6 +131,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Data sources: Mock data is generated for demonstration purposes
-- Images: Retrieved from Pexels API
-- Indian heritage information: Based on publicly available information 
+- Data.gov.in for tourism statistics
+- Archaeological Survey of India for heritage site information
+- Ministry of Culture for art form data
+- State tourism departments for regional data 

@@ -343,3 +343,28 @@ def display_art_book(art_form, art_details, image_url=None):
     st.markdown("</div>", unsafe_allow_html=True)  # End art-book-info
     st.markdown("</div>", unsafe_allow_html=True)  # End art-book-content
     st.markdown("</div>", unsafe_allow_html=True)  # End art-book 
+
+def display_art_form_card(art_form, art_details, fact, image_url=None):
+    """
+    Display an art form in a beautiful gradient card with image and fact.
+    
+    Args:
+        art_form (str): The name of the art form
+        art_details (dict): Dictionary containing art form details
+        fact (str): Interesting fact about the art form
+        image_url (str, optional): URL for the art form image. Defaults to None.
+    """
+    st.markdown(f"""
+    <div style='background: linear-gradient(135deg, rgba(78,205,196,0.3), rgba(255,107,107,0.3)); 
+            border-radius: 15px; overflow: hidden; box-shadow: 0 6px 15px rgba(0,0,0,0.4); 
+            margin: 20px 0;'>
+        <div style='position: relative;'>
+            <img src='{image_url}' style='width: 100%; height: 200px; object-fit: cover;'/>
+            <div style='position: absolute; top: 10px; left: 10px; background: rgba(0,0,0,0.7); 
+                color: white; padding: 5px 10px; border-radius: 5px; font-size: 1.2rem;'>{art_form}</div>
+        </div>
+        <div style='padding: 20px;'>
+            <p style='color: white; font-size: 1.1rem; line-height: 1.6; margin: 0;'>{fact}</p>
+        </div>
+    </div>
+    """, unsafe_allow_html=True) 
