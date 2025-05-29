@@ -112,7 +112,7 @@ You'll need to obtain API keys and add them to the `data/constants.py` file.
 ```
     The data is inspired by and sourced from https://www.data.gov.in, 
     specifically datasets like 'Domestic and Foreign Tourist Visits to States/UTs' and 'India TourismStatistics'.
-    Additional data may include simulated or projected values for cultural tourism (e.g., art-form-specific visits, 2020–2025 trends) to support DesiVerse's analytics. 
+    Additional data may include simulated or projected values for cultural tourism (e.g., art-form images, desi gallery page) to support DesiVerse's analytics. 
 
 ```
 ## License
